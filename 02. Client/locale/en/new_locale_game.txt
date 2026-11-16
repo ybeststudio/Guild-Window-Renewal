@@ -1,0 +1,235 @@
+AUTO_LEVEL	Level %d
+GUILD_APPLICATION_ALL	All
+GUILD_APPLICATION_APPLICATION_LIST	Application List
+GUILD_APPLICATION_APPLIED	Applied
+GUILD_APPLICATION_APPLY	Apply
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Change Guild Type
+GUILD_APPLICATION_CHANGE_LANGUAGE	Change Language
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Change Min Level
+GUILD_APPLICATION_COLUMN_CLASS	Class
+GUILD_APPLICATION_COLUMN_EMPIRE	Empire
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Last Play
+GUILD_APPLICATION_COLUMN_LEVEL	Level
+GUILD_APPLICATION_COLUMN_NAME	Name
+GUILD_APPLICATION_COLUMN_SKILL	Skill
+GUILD_APPLICATION_DESCRIPTION	Description
+GUILD_APPLICATION_DETAILS_TITLE	Guild Details
+GUILD_APPLICATION_EMPTY_DESCRIPTION	The guild has no description.
+GUILD_APPLICATION_FILTER_TITLE	Filter
+GUILD_APPLICATION_FULL	Full
+GUILD_APPLICATION_GUILD_NAME	Guild Name
+GUILD_APPLICATION_JOIN	Join
+GUILD_APPLICATION_LANGUAGE	Language
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	You dont have the required level
+GUILD_APPLICATION_LIST_TITLE	Guild List
+GUILD_APPLICATION_MANAGE_GUILD	Manage Guild
+GUILD_APPLICATION_MEMBERS	Members
+GUILD_APPLICATION_MIN_LEVEL	Min Level
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Guild Description
+GUILD_APPLICATION_NOTIFICATION_JOIN	Join
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Join the guild now and enjoy the benefits
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	The Guild {} is recruiting!
+GUILD_APPLICATION_NO_DESCRIPTION	No Description
+GUILD_APPLICATION_REQUIRED_LEVEL	Required Level
+GUILD_APPLICATION_STATUS_APPROVAL	Approval
+GUILD_APPLICATION_STATUS_CLOSED	Closed
+GUILD_APPLICATION_STATUS_OPEN	Open
+GUILD_APPLICATION_TYPE	Type
+GUILD_APPLICATION_WINDOW_TITLE	Guild Application
+GUILD_APPLICATION_WRONG_EMPIRE	Wrong Empire
+GUILD_DONATION_BUSY	You cannot do this right now.
+GUILD_DONATION_BUTTON	Donate
+GUILD_DONATION_DAILY	Daily Give: %d / %d
+GUILD_DONATION_DESC_1	Donations allow your alliance to earn Guild Gold, upgrade skills
+GUILD_DONATION_DESC_2	and unlock many other features
+GUILD_DONATION_HELP	Each donation will grant you Guild Silver
+GUILD_DONATION_HELP_ITEM	Item
+GUILD_DONATION_HELP_TITLE	Obtention
+GUILD_DONATION_LIMIT	You have reached your donation limit for today.
+GUILD_DONATION_NO_AUTH	You are not authorized for this action.
+GUILD_DONATION_NO_GOLD	The guild does not have enough Guild Gold.
+GUILD_DONATION_NO_PREMIUM	You do not have enough Noble Contributions.
+GUILD_DONATION_NO_SCROLL	You do not have enough Contribution Scrolls.
+GUILD_DONATION_NO_YANG	You do not have enough Yang.
+GUILD_DONATION_OK	Thank you for your donation.
+GUILD_DONATION_PREMIUM	Noble Contribution
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e and %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Contribution Scroll
+GUILD_DONATION_SOURCE_PREMIUM	Can be obtained from the item shop
+GUILD_DONATION_SOURCE_SCROLL_1	Obtained through the daily 'Guild Donation'
+GUILD_DONATION_SOURCE_SCROLL_2	mission
+GUILD_DONATION_TITLE	Guild Donation
+GUILD_DONATION_WHISPER_SENT	The whisper was sent to all members.
+GUILD_GRADE_AUTH_DUNGEON	Authorized to start a Guild Dungeon
+GUILD_GRADE_AUTH_INVITE	Authorized to accept new guild members.
+GUILD_GRADE_AUTH_QUEST	Authorized to start and complete guild quests.
+GUILD_GRADE_AUTH_REMOVE	Authorized to expel a guild member.
+GUILD_GRADE_AUTH_SHOP	Authorized to purchase in the guild shop with gold coins.
+GUILD_GRADE_AUTH_UP_SKILL	Authorized to upgrade guild skills.
+GUILD_GRADE_AUTH_USE_SKILL	Authorized to use guild skills.
+GUILD_GRADE_AUTH_WAR	Authorized to participate in a guild war.
+GUILD_GRADE_AUTH_WHISPER	Authorized to to send a whisper to all guild members.
+GUILD_GRADE_CONFIG_ACCEPT	Accept
+GUILD_GRADE_CONFIG_CANCEL	Cancel
+GUILD_GRADE_CONFIG_NAME	Rank name
+GUILD_GRADE_CONFIG_PERMISSIONS	Permissions
+GUILD_GRADE_CONFIG_SELECTED	%d selected
+GUILD_GRADE_CONFIG_TITLE	Rank Settings
+GUILD_LOG_ACTIVATE	Skill activated for %d hours
+GUILD_LOG_DONATION	Donation: %dx %s (+%s EXP) (total +%s EXP)
+GUILD_LOG_EMPTY	No history available for this day.
+GUILD_LOG_TITLE_DONATION	Guild Material Donation History
+GUILD_LOG_TITLE_SKILL	Guild Skill History
+GUILD_LOG_UPGRADE	%s became level %d
+GUILD_QUEST_ABORT	Cancel
+GUILD_QUEST_ABORT_QUESTION_1	You are about to cancel a guild quest
+GUILD_QUEST_ABORT_QUESTION_2	This weekly quest attempt will be permanently consumed.
+GUILD_QUEST_CLAIM	Get Reward
+GUILD_QUEST_DIFFICULTY	Difficulty
+GUILD_QUEST_OBJECTIVE	Objective
+GUILD_QUEST_OBJECTIVE_1	Destroy %s Metin Stones
+GUILD_QUEST_OBJECTIVE_2	Complete %s dungeons
+GUILD_QUEST_OBJECTIVE_3	Defeat %s bosses
+GUILD_QUEST_OBJECTIVE_4	%s Fishing or Mining
+GUILD_QUEST_OPTION	Option
+GUILD_QUEST_RANK_NAME	Name
+GUILD_QUEST_RANK_RANK	Rank
+GUILD_QUEST_RANK_SCORE	Score
+GUILD_QUEST_RANK_TITLE	Guild Quest Rank
+GUILD_QUEST_REMAINING	Left: %d
+GUILD_QUEST_RESULT_ACTIVE	There is already a guild mission in progress.
+GUILD_QUEST_RESULT_CANCELLED	The guild mission was cancelled.
+GUILD_QUEST_RESULT_COMPLETED	The guild mission was completed.
+GUILD_QUEST_RESULT_NOT_FINISHED	The guild mission is not completed yet.
+GUILD_QUEST_RESULT_NO_AUTH	You are not authorized for this action.
+GUILD_QUEST_RESULT_REWARDED	The guild mission reward was received.
+GUILD_QUEST_RESULT_STARTED	The guild mission has started.
+GUILD_QUEST_RESULT_WEEKLY	You have no weekly attempts left for this mission.
+GUILD_QUEST_REWARD	Reward
+GUILD_QUEST_REWARD_VALUE	%s EXP & %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Guild Quest
+GUILD_QUEST_SIDEBAR_TIME	Time left: %d min. %d s
+GUILD_QUEST_START	Beginning
+GUILD_QUEST_START_QUESTION_1	You are about to start a guild quest
+GUILD_QUEST_START_QUESTION_2	Are you sure?
+GUILD_QUEST_TIME	Duration
+GUILD_QUEST_TIME_LEFT	Time Left
+GUILD_QUEST_TITLE_1	Stone Quest
+GUILD_QUEST_TITLE_2	Dungeon Quest
+GUILD_QUEST_TITLE_3	Boss Quest
+GUILD_QUEST_TITLE_4	Worker Quest
+GUILD_SHOP_ASK	Are you sure you want to buy %s x%d?
+GUILD_SHOP_ASK_PRICE	Price: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Price: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Gold Shop
+GUILD_SHOP_MULTI_BUY	Multi-buy
+GUILD_SHOP_RESULT_1	Purchase completed.
+GUILD_SHOP_RESULT_2	Your guild level is too low for this product.
+GUILD_SHOP_RESULT_3	You do not have enough Guild Silver.
+GUILD_SHOP_RESULT_4	The guild does not have enough Guild Gold.
+GUILD_SHOP_RESULT_5	You are not authorized for this action.
+GUILD_SHOP_SILVER	Silver Shop
+GUILD_SHOP_UNLOCK	Unlock Lv. %d
+GUILD_SKILL_ACTIVATE	Activate
+GUILD_SKILL_ACTIVATE_COST	%d energy will be used
+GUILD_SKILL_ACTIVATE_QUESTION	Activate skills for %d hours?
+GUILD_SKILL_BOOST_1	Gods' Amulet (%d)
+GUILD_SKILL_BOOST_1_DESC	Success Rate 100%
+GUILD_SKILL_BOOST_2	Gods' Talisman+ (%d)
+GUILD_SKILL_BOOST_2_DESC	Double EXP +% 50
+GUILD_SKILL_DONATE	Donate
+GUILD_SKILL_DONATION_ITEM_DESC	Lets you donate skill point experience#to your guild.
+GUILD_SKILL_EFFECT_0	%d%% Reroll Token chance on Dungeon Chest opening
+GUILD_SKILL_EFFECT_1	Starting Gold in the Circus dungeon +%d
+GUILD_SKILL_EFFECT_2	Item upgrade chance +%d%%
+GUILD_SKILL_EFFECT_3	Dungeon cooldown reduction -%d%%
+GUILD_SKILL_EFFECT_4	Double Ore Drop Chance +%d%%
+GUILD_SKILL_EFFECT_5	Guild member capacity +%d
+GUILD_SKILL_EFFECT_6	Weekly guild missions +%d
+GUILD_SKILL_EFFECT_7	Chance to obtain Guild Silver in dungeons +%d%%
+GUILD_SKILL_EFFECT_8	Chance to double gold per donation +%d%%
+GUILD_SKILL_EFFECT_9	Energy used when activating skills reduced -%d%%
+GUILD_SKILL_EXP_GAIN	Skill Point Exp + %d
+GUILD_SKILL_LEVEL	Level: %d
+GUILD_SKILL_NAME_0	Stone Destroyer
+GUILD_SKILL_NAME_1	Wrath of the Guild
+GUILD_SKILL_NAME_2	Guild Tempering
+GUILD_SKILL_NAME_3	Temporal Accord
+GUILD_SKILL_NAME_4	Guild of Fortune
+GUILD_SKILL_NAME_5	Banner of Brotherhood
+GUILD_SKILL_NAME_6	Quest Expansion
+GUILD_SKILL_NAME_7	Treasure Decree
+GUILD_SKILL_NAME_8	Golden Generosity
+GUILD_SKILL_NAME_9	Energy Resonance
+GUILD_SKILL_NEXT	Next Level: %d (Max: 10)
+GUILD_SKILL_PASSIVE_DESC	Passive skills are always active and don't need to be activated
+GUILD_SKILL_POINT	Skill Point
+GUILD_SKILL_QUEST_NOTE	New levels take effect at the next weekly quest reset.
+GUILD_SKILL_RECHARGE	Recharge
+GUILD_SKILL_RESULT_1	You are not authorized for this action.
+GUILD_SKILL_RESULT_10	Skills have been activated.
+GUILD_SKILL_RESULT_11	The Dragon Ghost Energy is already fully restored.
+GUILD_SKILL_RESULT_12	You do not have a Guild Energy item.
+GUILD_SKILL_RESULT_13	Energy has been refilled.
+GUILD_SKILL_RESULT_14	Skills are already active.
+GUILD_SKILL_RESULT_2	You have no item to donate.
+GUILD_SKILL_RESULT_3	Donation completed: %d Skill Point Exp.
+GUILD_SKILL_RESULT_4	Not enough Skill Points.
+GUILD_SKILL_RESULT_5	The guild does not have enough Guild Gold.
+GUILD_SKILL_RESULT_6	The skill is at the highest level.
+GUILD_SKILL_RESULT_7	The skill has been upgraded.
+GUILD_SKILL_RESULT_8	Your guild doesn't have any active skills.
+GUILD_SKILL_RESULT_9	Not enough energy.
+GUILD_SKILL_TAB_ACTIVE	Active Skill
+GUILD_SKILL_TAB_DONATION	Skill Donation
+GUILD_SKILL_TAB_PASSIVE	Passive Skill
+GUILD_SKILL_UPGRADE_COST	The upgrade will cost you |cffc79e65%d Skill Points|r and |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Would you like to upgrade this skill?
+GUILD_WHISPER_DESC	The whisper will be sent to all members
+GUILD_WHISPER_INVALID_SENDER	The sender name cannot contain spaces or ||, [, ], #, :.
+GUILD_WHISPER_PRICE	Send (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Sender name
+GUILD_WHISPER_TEXT	Content of the whisper...
+GUILD_WHISPER_TITLE	Guild Whisper
+GUILD_WINDOW_ACTION_TITLE	Guild Action
+GUILD_WINDOW_AVERAGE_LEVEL	Average Level
+GUILD_WINDOW_BLESSING_BOSS	Hunter's Blessing
+GUILD_WINDOW_BLESSING_DROP	Blessing of Treasure
+GUILD_WINDOW_BLESSING_DURATION	Duration: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Blessing of Experience
+GUILD_WINDOW_BLESSING_FISH_MINE	Blessing of the Harvest
+GUILD_WINDOW_BLESSING_STONE	Stone Breaker's Blessing
+GUILD_WINDOW_BLESSING_TITLE	Guild Blessing
+GUILD_WINDOW_BLESSING_YANG	Blessing of Fortune
+GUILD_WINDOW_CO_LEADER	Co-Leader
+GUILD_WINDOW_DAILY_DONATION	Daily Donation: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Declare War
+GUILD_WINDOW_EXCLUDE_QUESTION	Do you want to kick the member %s from the guild?
+GUILD_WINDOW_EXP	Experience
+GUILD_WINDOW_GOLD	Guild Gold |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Guild Information
+GUILD_WINDOW_LEADER	Leader
+GUILD_WINDOW_LEVEL	Guild Level
+GUILD_WINDOW_MANAGEMENT	Guild Management
+GUILD_WINDOW_MEMBERS	No. of members
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Players with the PvP Aura do not use up the guild
+GUILD_WINDOW_MEMBER_TOOLTIP_2	capacity; they cannot donate
+GUILD_WINDOW_MEMBER_TOOLTIP_3	or take part in guild
+GUILD_WINDOW_MEMBER_TOOLTIP_4	missions.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Players with PVP Aura: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Members: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Add Friend
+GUILD_WINDOW_MENU_CHANGE_GRADE	Change rank
+GUILD_WINDOW_MENU_COPY_NAME	Copy name
+GUILD_WINDOW_MENU_EXCLUDE	Remove member
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Promote Co-Leader
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Remove co-leader
+GUILD_WINDOW_MENU_WHISPER	Whisper
+GUILD_WINDOW_SEND_WHISPER	Send Whisper
+GUILD_WINDOW_TITLE	Guild
+GUILD_WINDOW_TOTAL_DONATION	Total Donation: %d
+GUILD_WINDOW_UPLOAD	Upload
+TOOLTIP_SHORTCUT_MULTI_BUY	Multi-buy
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Search Shop
+TOOLTIP_SHORTCUT_WIKI	Open Wikipedia

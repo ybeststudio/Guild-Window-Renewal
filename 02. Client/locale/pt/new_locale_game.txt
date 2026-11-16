@@ -1,0 +1,235 @@
+AUTO_LEVEL	Nível %d
+GUILD_APPLICATION_ALL	Todos
+GUILD_APPLICATION_APPLICATION_LIST	Lista de Candidaturas
+GUILD_APPLICATION_APPLIED	Aplicada
+GUILD_APPLICATION_APPLY	Aplicacao
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Mudar o Tipo da Guild
+GUILD_APPLICATION_CHANGE_LANGUAGE	Mudar a Linguagem
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Mudar o Nivel Minimo
+GUILD_APPLICATION_COLUMN_CLASS	Classe
+GUILD_APPLICATION_COLUMN_EMPIRE	Reino
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Jogou a Ultima Vez
+GUILD_APPLICATION_COLUMN_LEVEL	Nivel
+GUILD_APPLICATION_COLUMN_NAME	Nome
+GUILD_APPLICATION_COLUMN_SKILL	Habilidade
+GUILD_APPLICATION_DESCRIPTION	Descricao
+GUILD_APPLICATION_DETAILS_TITLE	Detalhes da Guild
+GUILD_APPLICATION_EMPTY_DESCRIPTION	A Guild nao tem descricao.
+GUILD_APPLICATION_FILTER_TITLE	Filtro
+GUILD_APPLICATION_FULL	Cheia
+GUILD_APPLICATION_GUILD_NAME	Nome da Guild
+GUILD_APPLICATION_JOIN	Entrar
+GUILD_APPLICATION_LANGUAGE	Linguagem
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Tu nao tens o nivel requerido.
+GUILD_APPLICATION_LIST_TITLE	Lista Da Guild
+GUILD_APPLICATION_MANAGE_GUILD	Gerir a Guild
+GUILD_APPLICATION_MEMBERS	Membros
+GUILD_APPLICATION_MIN_LEVEL	Nivel Minimo
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Descricao de Guild
+GUILD_APPLICATION_NOTIFICATION_JOIN	Entrar
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Entraste na Guild agora e aproveita os benificios.
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	A Guild {} esta a recrutar!
+GUILD_APPLICATION_NO_DESCRIPTION	Sem Descicao
+GUILD_APPLICATION_REQUIRED_LEVEL	Nivel Requerido
+GUILD_APPLICATION_STATUS_APPROVAL	Aprovado
+GUILD_APPLICATION_STATUS_CLOSED	Fechada
+GUILD_APPLICATION_STATUS_OPEN	Aberta
+GUILD_APPLICATION_TYPE	Tipo
+GUILD_APPLICATION_WINDOW_TITLE	Candidatura a Guild
+GUILD_APPLICATION_WRONG_EMPIRE	Reino Errado
+GUILD_DONATION_BUSY	Você não pode fazer isso agora.
+GUILD_DONATION_BUTTON	Doar
+GUILD_DONATION_DAILY	Doação Diária: %d / %d
+GUILD_DONATION_DESC_1	As doações permitem que sua aliança ganhe Ouro da Guilda, melhore habilidades
+GUILD_DONATION_DESC_2	e desbloqueie muitos outros recursos
+GUILD_DONATION_HELP	Cada doação vai dar-te Moedas de Prata da Guild
+GUILD_DONATION_HELP_ITEM	Item
+GUILD_DONATION_HELP_TITLE	Obtenção
+GUILD_DONATION_LIMIT	Você atingiu o limite de doações de hoje.
+GUILD_DONATION_NO_AUTH	Você não tem autorização para esta ação.
+GUILD_DONATION_NO_GOLD	A guilda não tem Ouro da Guilda suficiente.
+GUILD_DONATION_NO_PREMIUM	Você não tem Contribuição Nobre suficiente.
+GUILD_DONATION_NO_SCROLL	Você não tem Pergaminho de Contribuição suficiente.
+GUILD_DONATION_NO_YANG	Você não tem Yang suficiente.
+GUILD_DONATION_OK	Obrigado pela sua doação.
+GUILD_DONATION_PREMIUM	Contribuição Nobre
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e e %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Pergaminho de Contribuição
+GUILD_DONATION_SOURCE_PREMIUM	Pode ser obtido na loja de itens
+GUILD_DONATION_SOURCE_SCROLL_1	Obtido pela missão diária
+GUILD_DONATION_SOURCE_SCROLL_2	'Doação para a Guilda'
+GUILD_DONATION_TITLE	Doação para Guild
+GUILD_DONATION_WHISPER_SENT	O sussurro foi enviado a todos os membros.
+GUILD_GRADE_AUTH_DUNGEON	Tem autorização para iniciar a Masmorra da Guilda
+GUILD_GRADE_AUTH_INVITE	Autorizado a aceitar novos membros para a guild.
+GUILD_GRADE_AUTH_QUEST	Autorizado a iniciar e completar missões de guild.
+GUILD_GRADE_AUTH_REMOVE	Autorizado a expulsar membros da guild.
+GUILD_GRADE_AUTH_SHOP	Autorizado a fazer compras na loja da guild com moedas de ouro.
+GUILD_GRADE_AUTH_UP_SKILL	Autorizado a melhorar as habilidades de guild.
+GUILD_GRADE_AUTH_USE_SKILL	Autorizado a usar habilidades de guild.
+GUILD_GRADE_AUTH_WAR	Autorizado a participar numa guerra de guildas.
+GUILD_GRADE_AUTH_WHISPER	Autorizado a enviar um sussurro a todos os membros da guild.
+GUILD_GRADE_CONFIG_ACCEPT	Aceitar
+GUILD_GRADE_CONFIG_CANCEL	Cancelar
+GUILD_GRADE_CONFIG_NAME	Nome da classificação
+GUILD_GRADE_CONFIG_PERMISSIONS	Permissões
+GUILD_GRADE_CONFIG_SELECTED	%d selecionado
+GUILD_GRADE_CONFIG_TITLE	Definições da classificação
+GUILD_LOG_ACTIVATE	Habilidades ativadas por %d hora(s)
+GUILD_LOG_DONATION	Doação: %dx %s (+%s EXP) (total +%s EXP)
+GUILD_LOG_EMPTY	Nenhum histórico disponível para este dia.
+GUILD_LOG_TITLE_DONATION	Histórico de Doação de Materiais da Guilda
+GUILD_LOG_TITLE_SKILL	Histórico de habilidades de guild
+GUILD_LOG_UPGRADE	%s subiu para o nível %d
+GUILD_QUEST_ABORT	Cancelar
+GUILD_QUEST_ABORT_QUESTION_1	Você está prestes a cancelar uma missão de guild.
+GUILD_QUEST_ABORT_QUESTION_2	Este direito de missão semanal será consumido permanentemente.
+GUILD_QUEST_CLAIM	Resgatar Recompensa
+GUILD_QUEST_DIFFICULTY	Dificuldade
+GUILD_QUEST_OBJECTIVE	Objetivo
+GUILD_QUEST_OBJECTIVE_1	Destrua %s Metin
+GUILD_QUEST_OBJECTIVE_2	Complete %s masmorra(s)
+GUILD_QUEST_OBJECTIVE_3	Derrote %s chefe(s)
+GUILD_QUEST_OBJECTIVE_4	%s Pesca ou Mineração
+GUILD_QUEST_OPTION	Opção
+GUILD_QUEST_RANK_NAME	Nome
+GUILD_QUEST_RANK_RANK	Classificação
+GUILD_QUEST_RANK_SCORE	Pontuação
+GUILD_QUEST_RANK_TITLE	Classificação de Missões de Guild
+GUILD_QUEST_REMAINING	Sobram: %d
+GUILD_QUEST_RESULT_ACTIVE	Já há uma missão de guilda em andamento.
+GUILD_QUEST_RESULT_CANCELLED	A missão de guilda foi cancelada.
+GUILD_QUEST_RESULT_COMPLETED	A missão de guilda foi concluída.
+GUILD_QUEST_RESULT_NOT_FINISHED	A missão de guilda ainda não foi concluída.
+GUILD_QUEST_RESULT_NO_AUTH	Você não tem autorização para esta ação.
+GUILD_QUEST_RESULT_REWARDED	A recompensa da missão de guilda foi recebida.
+GUILD_QUEST_RESULT_STARTED	A missão de guilda começou.
+GUILD_QUEST_RESULT_WEEKLY	Você não tem mais direito semanal para esta missão.
+GUILD_QUEST_REWARD	Recompensa
+GUILD_QUEST_REWARD_VALUE	%s EXP & %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Missão da Guilda
+GUILD_QUEST_SIDEBAR_TIME	Tempo restante: %d min %d s
+GUILD_QUEST_START	Começo
+GUILD_QUEST_START_QUESTION_1	Está prestes a iniciar uma missão da guild.
+GUILD_QUEST_START_QUESTION_2	Tem certeza?
+GUILD_QUEST_TIME	Duração
+GUILD_QUEST_TIME_LEFT	Tempo restante
+GUILD_QUEST_TITLE_1	Missão de Pedras Metin
+GUILD_QUEST_TITLE_2	Missão de Dungeons
+GUILD_QUEST_TITLE_3	Missão de Bosses
+GUILD_QUEST_TITLE_4	Missão de Coleta
+GUILD_SHOP_ASK	Tem certeza de que deseja comprar %s x%d?
+GUILD_SHOP_ASK_PRICE	Preço: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Preço: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Loja de ouro
+GUILD_SHOP_MULTI_BUY	Compra múltipla
+GUILD_SHOP_RESULT_1	Compra concluída.
+GUILD_SHOP_RESULT_2	O nível da guilda é insuficiente para este produto.
+GUILD_SHOP_RESULT_3	Você não tem Prata da Guilda suficiente.
+GUILD_SHOP_RESULT_4	A guilda não tem Ouro da Guilda suficiente.
+GUILD_SHOP_RESULT_5	Você não tem autorização para esta ação.
+GUILD_SHOP_SILVER	Loja de prata
+GUILD_SHOP_UNLOCK	Desbloquear Nv. %d
+GUILD_SKILL_ACTIVATE	Activar
+GUILD_SKILL_ACTIVATE_COST	%d de energia será gasta
+GUILD_SKILL_ACTIVATE_QUESTION	Ativar as habilidades por %d hora(s)?
+GUILD_SKILL_BOOST_1	Amuleto dos Deuses (%d)
+GUILD_SKILL_BOOST_1_DESC	Taxa de Sucesso 100%
+GUILD_SKILL_BOOST_2	Talismã dos Deuses+ (%d)
+GUILD_SKILL_BOOST_2_DESC	EXP Dobrado +50%
+GUILD_SKILL_DONATE	Doar
+GUILD_SKILL_DONATION_ITEM_DESC	Permite doar experiência de pontos de habilidade para sua guilda.
+GUILD_SKILL_EFFECT_0	%d%% de obter ficha de nova tentativa em baú de masmorra
+GUILD_SKILL_EFFECT_1	Yang inicial na masmorra do circo +%d
+GUILD_SKILL_EFFECT_2	Chance de melhoria de item +%d%%
+GUILD_SKILL_EFFECT_3	Redução do tempo de espera da masmorra -%d%%
+GUILD_SKILL_EFFECT_4	Chance de Drop Duplo de Mineração +%d%%
+GUILD_SKILL_EFFECT_5	Capacidade de membros da guilda +%d
+GUILD_SKILL_EFFECT_6	Missões semanais da guilda +%d
+GUILD_SKILL_EFFECT_7	Chance de obter Prata da Guilda em masmorras +%d%%
+GUILD_SKILL_EFFECT_8	Chance de dobrar o ouro por doação +%d%%
+GUILD_SKILL_EFFECT_9	Energia gasta ao ativar habilidades reduzida em -%d%%
+GUILD_SKILL_EXP_GAIN	EXP de Pontos de Habilidade + %d
+GUILD_SKILL_LEVEL	Nível: %d
+GUILD_SKILL_NAME_0	Destruidor de Pedras
+GUILD_SKILL_NAME_1	Ira da Guilda
+GUILD_SKILL_NAME_2	Têmpera da Guilda
+GUILD_SKILL_NAME_3	Acordo Temporal
+GUILD_SKILL_NAME_4	Guilda da Fortuna
+GUILD_SKILL_NAME_5	Estandarte da Irmandade
+GUILD_SKILL_NAME_6	Expansão de Missões
+GUILD_SKILL_NAME_7	Decreto do Tesouro
+GUILD_SKILL_NAME_8	Generosidade Dourada
+GUILD_SKILL_NAME_9	Ressonância de Energia
+GUILD_SKILL_NEXT	Próximo Nível: %d (Máx: 10)
+GUILD_SKILL_PASSIVE_DESC	As habilidades passivas estão sempre ativas e não precisam ser ativadas
+GUILD_SKILL_POINT	Pontos de Habilidade
+GUILD_SKILL_QUEST_NOTE	Os novos níveis serão liberados na próxima redefinição semanal de missões.
+GUILD_SKILL_RECHARGE	Recarregar
+GUILD_SKILL_RESULT_1	Você não tem autorização para esta ação.
+GUILD_SKILL_RESULT_10	As habilidades foram ativadas.
+GUILD_SKILL_RESULT_11	A Energia dos Dragões Fantasma já está no máximo.
+GUILD_SKILL_RESULT_12	Você não tem o item Energia da Guilda.
+GUILD_SKILL_RESULT_13	A energia foi recarregada.
+GUILD_SKILL_RESULT_14	As habilidades já estão ativas.
+GUILD_SKILL_RESULT_2	Você não tem itens para doar.
+GUILD_SKILL_RESULT_3	Doação concluída: %d de EXP de Pontos de Habilidade.
+GUILD_SKILL_RESULT_4	Pontos de Habilidade insuficientes.
+GUILD_SKILL_RESULT_5	A guilda não tem Ouro da Guilda suficiente.
+GUILD_SKILL_RESULT_6	A habilidade está no nível máximo.
+GUILD_SKILL_RESULT_7	A habilidade foi melhorada.
+GUILD_SKILL_RESULT_8	A tua guild não possui nenhuma habilidade ativa.
+GUILD_SKILL_RESULT_9	Energia insuficiente.
+GUILD_SKILL_TAB_ACTIVE	Habilidade Ativa
+GUILD_SKILL_TAB_DONATION	Doação de Habilidade
+GUILD_SKILL_TAB_PASSIVE	Habilidade Passiva
+GUILD_SKILL_UPGRADE_COST	A melhoria custará |cffc79e65%d Pontos de Habilidade|r e |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Gostarias de melhorar essa habilidade?
+GUILD_WHISPER_DESC	O sussurro será enviado a todos os membros
+GUILD_WHISPER_INVALID_SENDER	O nome do remetente não pode conter espaços ou ||, [, ], #, :.
+GUILD_WHISPER_PRICE	Enviar (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Nome do remetente
+GUILD_WHISPER_TEXT	Conteúdo do sussurro...
+GUILD_WHISPER_TITLE	Sussurro de Guild
+GUILD_WINDOW_ACTION_TITLE	Ação da Guild
+GUILD_WINDOW_AVERAGE_LEVEL	Nível médio
+GUILD_WINDOW_BLESSING_BOSS	Bênção do Caçador
+GUILD_WINDOW_BLESSING_DROP	Bênção do Tesouro
+GUILD_WINDOW_BLESSING_DURATION	Duração: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Bênção do Aumento de Experiência
+GUILD_WINDOW_BLESSING_FISH_MINE	Bênção da Colheita
+GUILD_WINDOW_BLESSING_STONE	Bênção do Quebra-Pedras
+GUILD_WINDOW_BLESSING_TITLE	Bênção de guild
+GUILD_WINDOW_BLESSING_YANG	Bênção da Sorte
+GUILD_WINDOW_CO_LEADER	Colíder
+GUILD_WINDOW_DAILY_DONATION	Doação Diária: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Declarar guerra
+GUILD_WINDOW_EXCLUDE_QUESTION	Deseja expulsar o membro %s da guilda?
+GUILD_WINDOW_EXP	Experiência
+GUILD_WINDOW_GOLD	Ouro da Guilda |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Informações da Guild
+GUILD_WINDOW_LEADER	Líder
+GUILD_WINDOW_LEVEL	Nível da Guild
+GUILD_WINDOW_MANAGEMENT	Gestão da Guild
+GUILD_WINDOW_MEMBERS	Nº. de Membros
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Jogadores com Aura PvP não ocupam
+GUILD_WINDOW_MEMBER_TOOLTIP_2	vagas da guilda; não podem doar
+GUILD_WINDOW_MEMBER_TOOLTIP_3	nem participar das missões
+GUILD_WINDOW_MEMBER_TOOLTIP_4	da guilda.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Jogadores com Aura PVP: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Membros: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Adicionar Amigo
+GUILD_WINDOW_MENU_CHANGE_GRADE	Alterar classificação
+GUILD_WINDOW_MENU_COPY_NAME	Copiar nome
+GUILD_WINDOW_MENU_EXCLUDE	Expulsar membro
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Promover a colíder
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Remover de vice-líder
+GUILD_WINDOW_MENU_WHISPER	Segredar
+GUILD_WINDOW_SEND_WHISPER	Enviar sussurro
+GUILD_WINDOW_TITLE	Guild
+GUILD_WINDOW_TOTAL_DONATION	Doação Total: %d
+GUILD_WINDOW_UPLOAD	Carregar
+TOOLTIP_SHORTCUT_MULTI_BUY	Compra múltipla
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Pesquisar loja
+TOOLTIP_SHORTCUT_WIKI	Abrir a Wikipédia

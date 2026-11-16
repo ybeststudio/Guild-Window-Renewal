@@ -1,0 +1,15 @@
+EMPIRE_A	Reino Shinsoo
+EMPIRE_B	Reino Chunjo
+EMPIRE_C	Reino Jinno
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	La altura no es de 12 Pixel
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	El ancho no es de 16 Pixel
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	El juego no soporta esta imagen.
+GUILD_BANKINFO_NAME	Miembro
+GUILD_INFO_ENEMY_GUILD_EMPTY	Ninguno
+GUILD_YOU_DO_NOT_JOIN	No eres miembro de ningún gremio
+JOB_ASSASSIN	Ninja
+JOB_SHAMAN	Chamán
+JOB_SURA	Sura
+JOB_WARRIOR	Guerrero
+JOB_WOLFMAN	Lícano
+UI_NOCONTENTS	Ningún contenido

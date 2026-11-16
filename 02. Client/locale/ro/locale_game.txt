@@ -1,0 +1,15 @@
+EMPIRE_A	Regatul Shinsoo
+EMPIRE_B	Regatul Chunjo
+EMPIRE_C	Regatul Jinno
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	Înãlþimea nu are 12 pixel.
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	Înãlþimea nu are 16 pixel.
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	Jocul nu suportã aceastã imagine.
+GUILD_BANKINFO_NAME	Membru
+GUILD_INFO_ENEMY_GUILD_EMPTY	Niciuna
+GUILD_YOU_DO_NOT_JOIN	Nu aparþii nici unei bresle.
+JOB_ASSASSIN	Ninja
+JOB_SHAMAN	ªaman
+JOB_SURA	Sura
+JOB_WARRIOR	Rãzboinic
+JOB_WOLFMAN	Lycan
+UI_NOCONTENTS	Niciun conþinut

@@ -1,0 +1,235 @@
+AUTO_LEVEL	«·„” ÊÏ %d
+GUILD_APPLICATION_ALL	«·ﬂ·
+GUILD_APPLICATION_APPLICATION_LIST	ﬁ«∆„… «·ÿ·»« 
+GUILD_APPLICATION_APPLIED	 „ «· ﬁœÌ„
+GUILD_APPLICATION_APPLY	 ﬁœÌ„
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	 €ÌÌ— ‰Ê⁄ «·‰ﬁ«»…
+GUILD_APPLICATION_CHANGE_LANGUAGE	 €ÌÌ— «··€…
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	 €ÌÌ— «·Õœ «·√œ‰Ï ··„” ÊÏ
+GUILD_APPLICATION_COLUMN_CLASS	«·›∆…
+GUILD_APPLICATION_COLUMN_EMPIRE	«·„„·ﬂ…
+GUILD_APPLICATION_COLUMN_LAST_PLAY	¬Œ— œŒÊ·
+GUILD_APPLICATION_COLUMN_LEVEL	«·„” ÊÏ
+GUILD_APPLICATION_COLUMN_NAME	«·«”„
+GUILD_APPLICATION_COLUMN_SKILL	«·„Â«—…
+GUILD_APPLICATION_DESCRIPTION	«·Ê’›
+GUILD_APPLICATION_DETAILS_TITLE	 ›«’Ì· «·‰ﬁ«»…
+GUILD_APPLICATION_EMPTY_DESCRIPTION	·« ÌÊÃœ Ê’› ··‰ﬁ«»….
+GUILD_APPLICATION_FILTER_TITLE	 ’›Ì…
+GUILD_APPLICATION_FULL	„„ ·∆…
+GUILD_APPLICATION_GUILD_NAME	«”„ «·‰ﬁ«»…
+GUILD_APPLICATION_JOIN	«‰÷„«„
+GUILD_APPLICATION_LANGUAGE	«··€…
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	·Ì” ·œÌﬂ «·„” ÊÏ «·„ÿ·Ê»
+GUILD_APPLICATION_LIST_TITLE	ﬁ«∆„… «·‰ﬁ«»« 
+GUILD_APPLICATION_MANAGE_GUILD	≈œ«—… «·‰ﬁ«»…
+GUILD_APPLICATION_MEMBERS	«·√⁄÷«¡
+GUILD_APPLICATION_MIN_LEVEL	«·Õœ «·√œ‰Ï ··„” ÊÏ
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Ê’› «·‰ﬁ«»…
+GUILD_APPLICATION_NOTIFICATION_JOIN	«‰÷„«„
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	«‰÷„ ≈·Ï «·‰ﬁ«»… «·¬‰ Ê«” „ ⁄ »«·„“«Ì«
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	«·‰ﬁ«»… {}  »ÕÀ ⁄‰ √⁄÷«¡!
+GUILD_APPLICATION_NO_DESCRIPTION	·« ÌÊÃœ Ê’›
+GUILD_APPLICATION_REQUIRED_LEVEL	«·„” ÊÏ «·„ÿ·Ê»
+GUILD_APPLICATION_STATUS_APPROVAL	  ÿ·» «·„Ê«›ﬁ…
+GUILD_APPLICATION_STATUS_CLOSED	„€·ﬁ…
+GUILD_APPLICATION_STATUS_OPEN	„› ÊÕ…
+GUILD_APPLICATION_TYPE	«·‰Ê⁄
+GUILD_APPLICATION_WINDOW_TITLE	ÿ·» «·«‰÷„«„ ≈·Ï ‰ﬁ«»…
+GUILD_APPLICATION_WRONG_EMPIRE	„„·ﬂ… Œ«ÿ∆…
+GUILD_DONATION_BUSY	·« Ì„ﬂ‰ﬂ  ‰›Ì– Â–« «·≈Ã—«¡ «·¬‰.
+GUILD_DONATION_BUTTON	 »—⁄
+GUILD_DONATION_DAILY	«· »—⁄ «·ÌÊ„Ì: %d / %d
+GUILD_DONATION_DESC_1	  ÌÕ «· »—⁄«  · Õ«·›ﬂ ﬂ”» –Â» «·‰ﬁ«»…° Ê —ﬁÌ… «·„Â«—« 
+GUILD_DONATION_DESC_2	Ê› Õ «·⁄œÌœ „‰ «·„Ì“«  «·√Œ—Ï
+GUILD_DONATION_HELP	ﬂ·  »—⁄ ”Ì„‰Õﬂ ›÷… «·‰ﬁ«»…
+GUILD_DONATION_HELP_ITEM	⁄‰’—
+GUILD_DONATION_HELP_TITLE	ÿ—Ìﬁ… «·Õ’Ê·
+GUILD_DONATION_LIMIT	·ﬁœ «” ‰›œ  Õœ «· »—⁄ ·Â–« «·ÌÊ„.
+GUILD_DONATION_NO_AUTH	·Ì” ·œÌﬂ ’·«ÕÌ… ·Â–« «·≈Ã—«¡.
+GUILD_DONATION_NO_GOLD	·Ì” ·œÏ ‰ﬁ«» ﬂ –Â» ‰ﬁ«»… ﬂ«›Ú.
+GUILD_DONATION_NO_PREMIUM	·Ì” ·œÌﬂ „« Ìﬂ›Ì „‰ «·„”«Â„… «·‰»Ì·….
+GUILD_DONATION_NO_SCROLL	·Ì” ·œÌﬂ „« Ìﬂ›Ì „‰ ·›«∆› «·„”«Â„….
+GUILD_DONATION_NO_YANG	·Ì” ·œÌﬂ Yang ﬂ«›Ú.
+GUILD_DONATION_OK	‘ﬂ—« ⁄·Ï  »—⁄ﬂ.
+GUILD_DONATION_PREMIUM	„”«Â„… ‰»Ì·…
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e Ê %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	·›«›… «·„”«Â„…
+GUILD_DONATION_SOURCE_PREMIUM	„ Ê›—… ›Ì „ Ã— «·⁄‰«’—
+GUILD_DONATION_SOURCE_SCROLL_1	»„Â„… " »—⁄ «·‰ﬁ«»…" «·ÌÊ„Ì…
+GUILD_DONATION_SOURCE_SCROLL_2	Ì „ «·Õ’Ê· ⁄·ÌÂ«
+GUILD_DONATION_TITLE	 »—⁄ «·‰ﬁ«»…
+GUILD_DONATION_WHISPER_SENT	 „ ≈—”«· «·Â„” ≈·Ï Ã„Ì⁄ «·√⁄÷«¡.
+GUILD_GRADE_AUTH_DUNGEON	’·«ÕÌ… »œ¡ “‰“«‰… «·‰ﬁ«»…
+GUILD_GRADE_AUTH_INVITE	’·«ÕÌ… ﬁ»Ê· √⁄÷«¡ Ãœœ ›Ì «·‰ﬁ«»….
+GUILD_GRADE_AUTH_QUEST	’·«ÕÌ… »œ¡ Ê≈ﬂ„«· „Â«„ «·‰ﬁ«»….
+GUILD_GRADE_AUTH_REMOVE	’·«ÕÌ… ÿ—œ ⁄÷Ê „‰ «·‰ﬁ«»….
+GUILD_GRADE_AUTH_SHOP	’·«ÕÌ… «·‘—«¡ »«·–Â» „‰ „ Ã— «·‰ﬁ«»….
+GUILD_GRADE_AUTH_UP_SKILL	’·«ÕÌ…  —ﬁÌ… „Â«—«  «·‰ﬁ«»….
+GUILD_GRADE_AUTH_USE_SKILL	’·«ÕÌ… «” Œœ«„ „Â«—«  «·‰ﬁ«»….
+GUILD_GRADE_AUTH_WAR	’·«ÕÌ… «·„‘«—ﬂ… ›Ì Õ—» «·‰ﬁ«»« .
+GUILD_GRADE_AUTH_WHISPER	’·«ÕÌ… ≈—”«· Â„” ≈·Ï Ã„Ì⁄ √⁄÷«¡ «·‰ﬁ«»….
+GUILD_GRADE_CONFIG_ACCEPT	ﬁ»Ê·
+GUILD_GRADE_CONFIG_CANCEL	≈·€«¡
+GUILD_GRADE_CONFIG_NAME	«”„ «·— »…
+GUILD_GRADE_CONFIG_PERMISSIONS	«·’·«ÕÌ« 
+GUILD_GRADE_CONFIG_SELECTED	 „ «Œ Ì«— %d
+GUILD_GRADE_CONFIG_TITLE	≈⁄œ«œ«  «·— »…
+GUILD_LOG_ACTIVATE	 „  ›⁄Ì· «·„Â«—… ·„œ… %d ”«⁄…
+GUILD_LOG_DONATION	 »—⁄: %dx %s (+%s EXP) («·≈Ã„«·Ì +%s EXP)
+GUILD_LOG_EMPTY	·«  ÊÃœ „⁄·Ê„«  ”Ã· ·Â–« «·ÌÊ„.
+GUILD_LOG_TITLE_DONATION	”Ã·  »—⁄«  „Ê«œ «·‰ﬁ«»…
+GUILD_LOG_TITLE_SKILL	”Ã· „Â«—«  «·‰ﬁ«»…
+GUILD_LOG_UPGRADE	√’»Õ %s »«·„” ÊÏ %d
+GUILD_QUEST_ABORT	≈·€«¡
+GUILD_QUEST_ABORT_QUESTION_1	√‰  ⁄·Ï Ê‘ﬂ ≈·€«¡ „Â„… ‰ﬁ«»…
+GUILD_QUEST_ABORT_QUESTION_2	”Ì „ «” Â·«ﬂ ›—’… «·„Â„… «·√”»Ê⁄Ì… Â–Â »‘ﬂ· œ«∆„.
+GUILD_QUEST_CLAIM	«” ·«„ «·„ﬂ«›√…
+GUILD_QUEST_DIFFICULTY	«·’⁄Ê»…
+GUILD_QUEST_OBJECTIVE	«·Âœ›
+GUILD_QUEST_OBJECTIVE_1	œ„¯— %s ÕÃ— „Ì ‰
+GUILD_QUEST_OBJECTIVE_2	√ﬂ„· %s “‰“«‰…
+GUILD_QUEST_OBJECTIVE_3	«Â“„ %s “⁄Ì„
+GUILD_QUEST_OBJECTIVE_4	%s ’Ìœ √Ê  ⁄œÌ‰
+GUILD_QUEST_OPTION	«·ŒÌ«—
+GUILD_QUEST_RANK_NAME	«·«”„
+GUILD_QUEST_RANK_RANK	«·— »…
+GUILD_QUEST_RANK_SCORE	«·‰ﬁ«ÿ
+GUILD_QUEST_RANK_TITLE	 — Ì» „Â«„ «·‰ﬁ«»…
+GUILD_QUEST_REMAINING	«·„ »ﬁÌ: %d
+GUILD_QUEST_RESULT_ACTIVE	·œÌﬂ „Â„… ‰ﬁ«»… Ã«—Ì… »«·›⁄·.
+GUILD_QUEST_RESULT_CANCELLED	 „ ≈·€«¡ „Â„… «·‰ﬁ«»….
+GUILD_QUEST_RESULT_COMPLETED	«ﬂ „·  „Â„… «·‰ﬁ«»….
+GUILD_QUEST_RESULT_NOT_FINISHED	·„  ﬂ „· „Â„… «·‰ﬁ«»… »⁄œ.
+GUILD_QUEST_RESULT_NO_AUTH	·Ì” ·œÌﬂ ’·«ÕÌ… ·Â–« «·≈Ã—«¡.
+GUILD_QUEST_RESULT_REWARDED	 „ «” ·«„ „ﬂ«›√… „Â„… «·‰ﬁ«»….
+GUILD_QUEST_RESULT_STARTED	»œ√  „Â„… «·‰ﬁ«»….
+GUILD_QUEST_RESULT_WEEKLY	·„ Ì »ﬁ ·œÌﬂ ›—’… √”»Ê⁄Ì… ·Â–Â «·„Â„….
+GUILD_QUEST_REWARD	«·„ﬂ«›√…
+GUILD_QUEST_REWARD_VALUE	%s EXP Ê %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Guild Quest
+GUILD_QUEST_SIDEBAR_TIME	«·Êﬁ  «·„ »ﬁÌ: %d œ %d À
+GUILD_QUEST_START	»œ¡
+GUILD_QUEST_START_QUESTION_1	√‰  ⁄·Ï Ê‘ﬂ »œ¡ „Â„… ‰ﬁ«»…
+GUILD_QUEST_START_QUESTION_2	Â· √‰  „ √ﬂœø
+GUILD_QUEST_TIME	«·Êﬁ 
+GUILD_QUEST_TIME_LEFT	«·Êﬁ  «·„ »ﬁÌ
+GUILD_QUEST_TITLE_1	„Â„… «·√ÕÃ«—
+GUILD_QUEST_TITLE_2	„Â„… «·“‰“«‰…
+GUILD_QUEST_TITLE_3	„Â„… «·“⁄Ì„
+GUILD_QUEST_TITLE_4	„Â„… «·⁄„«·
+GUILD_SHOP_ASK	Â· √‰  „ √ﬂœ „‰ ‘—«¡ %s x%dø
+GUILD_SHOP_ASK_PRICE	«·”⁄—: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	«·”⁄—: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	„ Ã— «·–Â»
+GUILD_SHOP_MULTI_BUY	‘—«¡ „ ⁄œœ
+GUILD_SHOP_RESULT_1	«ﬂ „· «·‘—«¡.
+GUILD_SHOP_RESULT_2	„” ÊÏ «·‰ﬁ«»… €Ì— ﬂ«›Ú ·Â–« «·„‰ Ã.
+GUILD_SHOP_RESULT_3	·Ì” ·œÌﬂ ›÷… ‰ﬁ«»… ﬂ«›Ì….
+GUILD_SHOP_RESULT_4	·Ì” ·œÏ ‰ﬁ«» ﬂ –Â» ‰ﬁ«»… ﬂ«›Ú.
+GUILD_SHOP_RESULT_5	·Ì” ·œÌﬂ ’·«ÕÌ… ·Â–« «·≈Ã—«¡.
+GUILD_SHOP_SILVER	„ Ã— «·›÷…
+GUILD_SHOP_UNLOCK	› Õ ⁄‰œ «·„” ÊÏ %d
+GUILD_SKILL_ACTIVATE	 ›⁄Ì·
+GUILD_SKILL_ACTIVATE_COST	”Ì „ «” Â·«ﬂ %d ÿ«ﬁ…
+GUILD_SKILL_ACTIVATE_QUESTION	Â·  —Ìœ  ›⁄Ì· «·„Â«—«  ·„œ… %d ”«⁄…ø
+GUILD_SKILL_BOOST_1	 ⁄ÊÌ–… «·¬·Â… (%d)
+GUILD_SKILL_BOOST_1_DESC	‰”»… «·‰Ã«Õ 100%
+GUILD_SKILL_BOOST_2	 „Ì„… «·¬·Â…+ (%d)
+GUILD_SKILL_BOOST_2_DESC	EXP „÷«⁄› +50%
+GUILD_SKILL_DONATE	 »—⁄
+GUILD_SKILL_DONATION_ITEM_DESC	Ì ÌÕ ·ﬂ «· »—⁄ »‰ﬁ«ÿ Œ»—… «·„Â«—…#·‰ﬁ«» ﬂ.
+GUILD_SKILL_EFFECT_0	›—’… %d%% ·—„“ ≈⁄«œ… «·”Õ» „‰ ’‰œÊﬁ “‰“«‰…
+GUILD_SKILL_EFFECT_1	«·–Â» «·«» œ«∆Ì ›Ì “‰“«‰… «·”Ì—ﬂ +%d
+GUILD_SKILL_EFFECT_2	›—’…  ÿÊÌ— «·⁄‰’— +%d%%
+GUILD_SKILL_EFFECT_3	 ﬁ·Ì· Êﬁ  «‰ Ÿ«— «·“‰“«‰… -%d%%
+GUILD_SKILL_EFFECT_4	›—’… „÷«⁄›… €‰«∆„ «· ⁄œÌ‰ +%d%%
+GUILD_SKILL_EFFECT_5	”⁄… √⁄÷«¡ «·‰ﬁ«»… +%d
+GUILD_SKILL_EFFECT_6	„Â«„ «·‰ﬁ«»… «·√”»Ê⁄Ì… +%d
+GUILD_SKILL_EFFECT_7	›—’… «·Õ’Ê· ⁄·Ï ›÷… «·‰ﬁ«»… ›Ì «·“‰“«‰«  +%d%%
+GUILD_SKILL_EFFECT_8	›—’… „÷«⁄›… «·–Â» ·ﬂ·  »—⁄ +%d%%
+GUILD_SKILL_EFFECT_9	 ﬁ·Ì· «·ÿ«ﬁ… «·„” Â·ﬂ… · ›⁄Ì· «·„Â«—«  -%d%%
+GUILD_SKILL_EXP_GAIN	Skill Point Exp + %d
+GUILD_SKILL_LEVEL	«·„” ÊÏ: %d
+GUILD_SKILL_NAME_0	Stone Destroyer
+GUILD_SKILL_NAME_1	Wrath of the Guild
+GUILD_SKILL_NAME_2	Guild Tempering
+GUILD_SKILL_NAME_3	Temporal Accord
+GUILD_SKILL_NAME_4	Guild of Fortune
+GUILD_SKILL_NAME_5	Banner of Brotherhood
+GUILD_SKILL_NAME_6	Quest Expansion
+GUILD_SKILL_NAME_7	Treasure Decree
+GUILD_SKILL_NAME_8	Golden Generosity
+GUILD_SKILL_NAME_9	Energy Resonance
+GUILD_SKILL_NEXT	«·„” ÊÏ «· «·Ì: %d («·Õœ «·√ﬁ’Ï: 10)
+GUILD_SKILL_PASSIVE_DESC	«·„Â«—«  «·”·»Ì… ‰‘ÿ… œ«∆„« Ê·«  Õ «Ã ≈·Ï  ›⁄Ì·
+GUILD_SKILL_POINT	‰ﬁÿ… «·„Â«—…
+GUILD_SKILL_QUEST_NOTE	” ıÿ—Õ «·„” ÊÌ«  «·ÃœÌœ… ⁄‰œ ≈⁄«œ… ÷»ÿ «·„Â«„ «·√”»Ê⁄Ì… «·ﬁ«œ„….
+GUILD_SKILL_RECHARGE	≈⁄«œ… «·‘Õ‰
+GUILD_SKILL_RESULT_1	·Ì” ·œÌﬂ ’·«ÕÌ… ·Â–« «·≈Ã—«¡.
+GUILD_SKILL_RESULT_10	 „  ›⁄Ì· «·„Â«—« .
+GUILD_SKILL_RESULT_11	ÿ«ﬁ… ‘»Õ «· ‰Ì‰ „„ ·∆… »«·ﬂ«„·.
+GUILD_SKILL_RESULT_12	·Ì” ·œÌﬂ ⁄‰’— ÿ«ﬁ… «·‰ﬁ«»….
+GUILD_SKILL_RESULT_13	 „ ‘Õ‰ «·ÿ«ﬁ….
+GUILD_SKILL_RESULT_14	«·„Â«—«  „›⁄·… »«·›⁄·.
+GUILD_SKILL_RESULT_2	·Ì” ·œÌﬂ ⁄‰’— ·· »—⁄ »Â.
+GUILD_SKILL_RESULT_3	«ﬂ „· «· »—⁄: %d Skill Point Exp.
+GUILD_SKILL_RESULT_4	‰ﬁ«ÿ «·„Â«—… €Ì— ﬂ«›Ì….
+GUILD_SKILL_RESULT_5	·Ì” ·œÏ ‰ﬁ«» ﬂ –Â» ‰ﬁ«»… ﬂ«›Ú.
+GUILD_SKILL_RESULT_6	«·„Â«—… ›Ì √⁄·Ï „” ÊÏ.
+GUILD_SKILL_RESULT_7	 „   —ﬁÌ… «·„Â«—….
+GUILD_SKILL_RESULT_8	·Ì” ·œÏ ‰ﬁ«» ﬂ √Ì „Â«—… ‰‘ÿ….
+GUILD_SKILL_RESULT_9	«·ÿ«ﬁ… €Ì— ﬂ«›Ì….
+GUILD_SKILL_TAB_ACTIVE	Active Skill
+GUILD_SKILL_TAB_DONATION	Skill Donation
+GUILD_SKILL_TAB_PASSIVE	Passive Skill
+GUILD_SKILL_UPGRADE_COST	” ﬂ·›ﬂ «· —ﬁÌ… |cffc79e65%d ‰ﬁÿ… „Â«—…|r Ê|cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Â·  —Ìœ  —ﬁÌ… Â–Â «·„Â«—…ø
+GUILD_WHISPER_DESC	”Ìı—”· «·Â„” ≈·Ï Ã„Ì⁄ «·√⁄÷«¡
+GUILD_WHISPER_INVALID_SENDER	·« Ì„ﬂ‰ √‰ ÌÕ ÊÌ «”„ «·„—”· ⁄·Ï „”«›«  √Ê ||° [° ]° #° :.
+GUILD_WHISPER_PRICE	≈—”«· (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	«”„ «·„—”·
+GUILD_WHISPER_TEXT	„Õ ÊÏ «·Â„”...
+GUILD_WHISPER_TITLE	Â„” «·‰ﬁ«»…
+GUILD_WINDOW_ACTION_TITLE	≈Ã—«¡ «·‰ﬁ«»…
+GUILD_WINDOW_AVERAGE_LEVEL	„ Ê”ÿ «·„” ÊÏ
+GUILD_WINDOW_BLESSING_BOSS	»—ﬂ… «·’Ì«œ
+GUILD_WINDOW_BLESSING_DROP	»—ﬂ… «·ﬂ‰“
+GUILD_WINDOW_BLESSING_DURATION	«·„œ…: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	»—ﬂ… “Ì«œ… «·Œ»—…
+GUILD_WINDOW_BLESSING_FISH_MINE	»—ﬂ… «·Õ’«œ
+GUILD_WINDOW_BLESSING_STONE	»—ﬂ… „Õÿ„ «·√ÕÃ«—
+GUILD_WINDOW_BLESSING_TITLE	»—ﬂ… «·‰ﬁ«»…
+GUILD_WINDOW_BLESSING_YANG	»—ﬂ… «·ÕŸ
+GUILD_WINDOW_CO_LEADER	‰«∆» «·ﬁ«∆œ
+GUILD_WINDOW_DAILY_DONATION	«· »—⁄ «·ÌÊ„Ì: %d / %d
+GUILD_WINDOW_DECLARE_WAR	≈⁄·«‰ «·Õ—»
+GUILD_WINDOW_EXCLUDE_QUESTION	Â·  —Ìœ ÿ—œ «·⁄÷Ê %s „‰ «·‰ﬁ«»…ø
+GUILD_WINDOW_EXP	«·Œ»—…
+GUILD_WINDOW_GOLD	–Â» «·‰ﬁ«»… |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	„⁄·Ê„«  «·‰ﬁ«»…
+GUILD_WINDOW_LEADER	«·ﬁ«∆œ
+GUILD_WINDOW_LEVEL	„” ÊÏ «·‰ﬁ«»…
+GUILD_WINDOW_MANAGEMENT	≈œ«—… «·‰ﬁ«»…
+GUILD_WINDOW_MEMBERS	⁄œœ «·√⁄÷«¡
+GUILD_WINDOW_MEMBER_TOOLTIP_1	«··«⁄»Ê‰ –ÊÊ Â«·… PvP ·« Ì” Â·ﬂÊ‰
+GUILD_WINDOW_MEMBER_TOOLTIP_2	Õ’… «·‰ﬁ«»…∫ Ê·« Ì„ﬂ‰Â„ «· »—⁄
+GUILD_WINDOW_MEMBER_TOOLTIP_3	√Ê «·„‘«—ﬂ… ›Ì
+GUILD_WINDOW_MEMBER_TOOLTIP_4	„Â«„ «·‰ﬁ«»….
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	«··«⁄»Ê‰ –ÊÊ Â«·… PVP: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	«·√⁄÷«¡: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	≈÷«›… ’œÌﬁ
+GUILD_WINDOW_MENU_CHANGE_GRADE	 €ÌÌ— «·— »…
+GUILD_WINDOW_MENU_COPY_NAME	‰”Œ «·«”„
+GUILD_WINDOW_MENU_EXCLUDE	ÿ—œ «·⁄÷Ê
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	 —ﬁÌ… ≈·Ï ‰«∆» «·ﬁ«∆œ
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	≈“«·… „‰ ‰«∆» «·ﬁ«∆œ
+GUILD_WINDOW_MENU_WHISPER	Â„”
+GUILD_WINDOW_SEND_WHISPER	≈—”«· Â„”
+GUILD_WINDOW_TITLE	«·‰ﬁ«»…
+GUILD_WINDOW_TOTAL_DONATION	≈Ã„«·Ì «· »—⁄« : %d
+GUILD_WINDOW_UPLOAD	—›⁄
+TOOLTIP_SHORTCUT_MULTI_BUY	‘—«¡ „ ⁄œœ
+TOOLTIP_SHORTCUT_SHOP_SEARCH	»ÕÀ «·„ Ã—
+TOOLTIP_SHORTCUT_WIKI	› Õ «·ÊÌﬂÌ

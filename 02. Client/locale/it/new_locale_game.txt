@@ -1,0 +1,235 @@
+AUTO_LEVEL	Livello %d
+GUILD_APPLICATION_ALL	Tutte
+GUILD_APPLICATION_APPLICATION_LIST	Lista delle Candidature
+GUILD_APPLICATION_APPLIED	Candidatura Inviata
+GUILD_APPLICATION_APPLY	Candidati
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Cambia Tipo di Gilda
+GUILD_APPLICATION_CHANGE_LANGUAGE	Cambia Lingua
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Cambia Livello Minimo
+GUILD_APPLICATION_COLUMN_CLASS	Classe
+GUILD_APPLICATION_COLUMN_EMPIRE	Impero
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Ultima Partita
+GUILD_APPLICATION_COLUMN_LEVEL	Livello
+GUILD_APPLICATION_COLUMN_NAME	Nome
+GUILD_APPLICATION_COLUMN_SKILL	Abilità
+GUILD_APPLICATION_DESCRIPTION	Descrizione
+GUILD_APPLICATION_DETAILS_TITLE	Dettagli della Gilda
+GUILD_APPLICATION_EMPTY_DESCRIPTION	La gilda non ha una descrizione.
+GUILD_APPLICATION_FILTER_TITLE	Filtro
+GUILD_APPLICATION_FULL	Al Completo
+GUILD_APPLICATION_GUILD_NAME	Nome della Gilda
+GUILD_APPLICATION_JOIN	Unisciti
+GUILD_APPLICATION_LANGUAGE	Lingua
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Non hai il livello richiesto
+GUILD_APPLICATION_LIST_TITLE	Lista delle Gilde
+GUILD_APPLICATION_MANAGE_GUILD	Gestisci la Gilda
+GUILD_APPLICATION_MEMBERS	Membri
+GUILD_APPLICATION_MIN_LEVEL	Livello Minimo
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Descrizione della Gilda
+GUILD_APPLICATION_NOTIFICATION_JOIN	Unisciti
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Unisciti alla gilda ora e goditi i vantaggi
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	La Gilda {} sta reclutando!
+GUILD_APPLICATION_NO_DESCRIPTION	Nessuna Descrizione
+GUILD_APPLICATION_REQUIRED_LEVEL	Livello richiesto
+GUILD_APPLICATION_STATUS_APPROVAL	Approvazione
+GUILD_APPLICATION_STATUS_CLOSED	Chiusa
+GUILD_APPLICATION_STATUS_OPEN	Aperta
+GUILD_APPLICATION_TYPE	Tipo
+GUILD_APPLICATION_WINDOW_TITLE	Candidatura alla Gilda
+GUILD_APPLICATION_WRONG_EMPIRE	Impero Sbagliato
+GUILD_DONATION_BUSY	Al momento non puoi eseguire questa operazione.
+GUILD_DONATION_BUTTON	Dona
+GUILD_DONATION_DAILY	Dona oggi: %d / %d
+GUILD_DONATION_DESC_1	Le donazioni permettono alla tua gilda di ottenere Oro Gilda, potenziare le abilità
+GUILD_DONATION_DESC_2	e sbloccare molte altre funzioni
+GUILD_DONATION_HELP	Ogni donazione ti garantirà l'argento della gilda
+GUILD_DONATION_HELP_ITEM	Articolo
+GUILD_DONATION_HELP_TITLE	Ottenimento
+GUILD_DONATION_LIMIT	Hai esaurito le donazioni di oggi.
+GUILD_DONATION_NO_AUTH	Non hai l'autorizzazione per questa operazione.
+GUILD_DONATION_NO_GOLD	La gilda non ha abbastanza Oro Gilda.
+GUILD_DONATION_NO_PREMIUM	Non hai abbastanza Contributo Nobile.
+GUILD_DONATION_NO_SCROLL	Non hai abbastanza Pergamene del Contributo.
+GUILD_DONATION_NO_YANG	Non hai abbastanza Yang.
+GUILD_DONATION_OK	Grazie per la tua donazione.
+GUILD_DONATION_PREMIUM	Contributo Nobile
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e e %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Pergamena del Contributo
+GUILD_DONATION_SOURCE_PREMIUM	Può essere ottenuto dal negozio di articoli
+GUILD_DONATION_SOURCE_SCROLL_1	Si ottiene con la missione giornaliera
+GUILD_DONATION_SOURCE_SCROLL_2	'Donazione alla gilda'
+GUILD_DONATION_TITLE	Donazione della Gilda
+GUILD_DONATION_WHISPER_SENT	Sussurro inviato a tutti i membri.
+GUILD_GRADE_AUTH_DUNGEON	Autorizzato ad avviare un Dungeon di Gilda
+GUILD_GRADE_AUTH_INVITE	Autorizzato ad accettare nuovi membri della gilda.
+GUILD_GRADE_AUTH_QUEST	Autorizzato ad avviare e completare le missioni della gilda.
+GUILD_GRADE_AUTH_REMOVE	Autorizzato a espellere un membro della gilda.
+GUILD_GRADE_AUTH_SHOP	Autorizzato ad acquistare nel negozio della gilda con monete d'oro.
+GUILD_GRADE_AUTH_UP_SKILL	Autorizzato a migliorare le abilità della gilda.
+GUILD_GRADE_AUTH_USE_SKILL	Autorizzato a utilizzare le abilità di gilda.
+GUILD_GRADE_AUTH_WAR	Autorizzato a partecipare a una guerra tra gilde.
+GUILD_GRADE_AUTH_WHISPER	Autorizzato a inviare un sussurro a tutti i membri della gilda.
+GUILD_GRADE_CONFIG_ACCEPT	Accetta
+GUILD_GRADE_CONFIG_CANCEL	Interrompi
+GUILD_GRADE_CONFIG_NAME	Nome del grado
+GUILD_GRADE_CONFIG_PERMISSIONS	Permessi
+GUILD_GRADE_CONFIG_SELECTED	%d selezionato
+GUILD_GRADE_CONFIG_TITLE	Impostazioni del grado
+GUILD_LOG_ACTIVATE	Abilità attivate per %d ore
+GUILD_LOG_DONATION	Donazione: %dx %s (+%s EXP) (totale +%s EXP)
+GUILD_LOG_EMPTY	Nessuna cronologia disponibile per questo giorno.
+GUILD_LOG_TITLE_DONATION	Cronologia Donazioni di Materiali della Gilda
+GUILD_LOG_TITLE_SKILL	Storia delle abilità della gilda
+GUILD_LOG_UPGRADE	%s è salito al livello %d
+GUILD_QUEST_ABORT	Cancellare
+GUILD_QUEST_ABORT_QUESTION_1	Stai per annullare una missione di gilda
+GUILD_QUEST_ABORT_QUESTION_2	Questo tentativo di missione settimanale verrà consumato permanentemente.
+GUILD_QUEST_CLAIM	Ottieni ricompensa
+GUILD_QUEST_DIFFICULTY	Difficoltà
+GUILD_QUEST_OBJECTIVE	Obiettivo
+GUILD_QUEST_OBJECTIVE_1	Distruggi %s Pietre Metin
+GUILD_QUEST_OBJECTIVE_2	Completa %s dungeon
+GUILD_QUEST_OBJECTIVE_3	Sconfiggi %s boss
+GUILD_QUEST_OBJECTIVE_4	Pesca o estrai %s volte
+GUILD_QUEST_OPTION	Opzione
+GUILD_QUEST_RANK_NAME	Nome
+GUILD_QUEST_RANK_RANK	Rango
+GUILD_QUEST_RANK_SCORE	Punto
+GUILD_QUEST_RANK_TITLE	Grado missione gilda
+GUILD_QUEST_REMAINING	Rimane: %d
+GUILD_QUEST_RESULT_ACTIVE	C'è già una missione di gilda in corso.
+GUILD_QUEST_RESULT_CANCELLED	Missione di gilda annullata.
+GUILD_QUEST_RESULT_COMPLETED	Missione di gilda completata.
+GUILD_QUEST_RESULT_NOT_FINISHED	La missione di gilda non è ancora completata.
+GUILD_QUEST_RESULT_NO_AUTH	Non hai l'autorizzazione per questa operazione.
+GUILD_QUEST_RESULT_REWARDED	Ricompensa della missione di gilda ottenuta.
+GUILD_QUEST_RESULT_STARTED	Missione di gilda iniziata.
+GUILD_QUEST_RESULT_WEEKLY	Hai esaurito i tentativi settimanali per questa missione.
+GUILD_QUEST_REWARD	Ricompensa
+GUILD_QUEST_REWARD_VALUE	%s EXP e %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Missione di gilda
+GUILD_QUEST_SIDEBAR_TIME	Tempo rimasto: %d min %d s
+GUILD_QUEST_START	Inizio
+GUILD_QUEST_START_QUESTION_1	Stai per iniziare una missione di gilda
+GUILD_QUEST_START_QUESTION_2	Sei sicuro?
+GUILD_QUEST_TIME	Durata
+GUILD_QUEST_TIME_LEFT	Tempo rimasto
+GUILD_QUEST_TITLE_1	Ricerca di pietra
+GUILD_QUEST_TITLE_2	Ricerca nel dungeon
+GUILD_QUEST_TITLE_3	Ricerca del boss
+GUILD_QUEST_TITLE_4	Ricerca del lavoratore
+GUILD_SHOP_ASK	Sei sicuro di voler acquistare %s x%d?
+GUILD_SHOP_ASK_PRICE	Prezzo: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Prezzo: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Negozio d'oro
+GUILD_SHOP_MULTI_BUY	Acquisto multiplo
+GUILD_SHOP_RESULT_1	Acquisto completato.
+GUILD_SHOP_RESULT_2	Il livello della gilda non è sufficiente per questo prodotto.
+GUILD_SHOP_RESULT_3	Non hai abbastanza Argento Gilda.
+GUILD_SHOP_RESULT_4	La gilda non ha abbastanza Oro Gilda.
+GUILD_SHOP_RESULT_5	Non hai l'autorizzazione per questa operazione.
+GUILD_SHOP_SILVER	Negozio d'argento
+GUILD_SHOP_UNLOCK	Sblocca Liv. %d
+GUILD_SKILL_ACTIVATE	Attiva
+GUILD_SKILL_ACTIVATE_COST	Verranno consumati %d punti energia
+GUILD_SKILL_ACTIVATE_QUESTION	Attivare le abilità per %d ore?
+GUILD_SKILL_BOOST_1	Amuleto degli Dei (%d)
+GUILD_SKILL_BOOST_1_DESC	Tasso di successo 100%
+GUILD_SKILL_BOOST_2	Talismano degli Dei+ (%d)
+GUILD_SKILL_BOOST_2_DESC	EXP doppia +50%
+GUILD_SKILL_DONATE	Dona
+GUILD_SKILL_DONATION_ITEM_DESC	Ti permette di donare esperienza#di punti abilità alla tua gilda.
+GUILD_SKILL_EFFECT_0	%d%% di ottenere un gettone di rilancio dai forzieri dungeon
+GUILD_SKILL_EFFECT_1	Oro iniziale nel dungeon del Circo +%d
+GUILD_SKILL_EFFECT_2	Probabilità di potenziamento oggetti +%d%%
+GUILD_SKILL_EFFECT_3	Riduzione del tempo di attesa dei dungeon -%d%%
+GUILD_SKILL_EFFECT_4	Probabilità di doppio drop di minerali +%d%%
+GUILD_SKILL_EFFECT_5	Capacità membri della gilda +%d
+GUILD_SKILL_EFFECT_6	Missioni di gilda settimanali +%d
+GUILD_SKILL_EFFECT_7	Probabilità di ottenere Argento Gilda nei dungeon +%d%%
+GUILD_SKILL_EFFECT_8	Probabilità di raddoppiare l'oro per donazione +%d%%
+GUILD_SKILL_EFFECT_9	Energia consumata per attivare le abilità ridotta -%d%%
+GUILD_SKILL_EXP_GAIN	EXP punti abilità + %d
+GUILD_SKILL_LEVEL	Livello: %d
+GUILD_SKILL_NAME_0	Distruttore di Pietre
+GUILD_SKILL_NAME_1	Ira della Gilda
+GUILD_SKILL_NAME_2	Tempra della Gilda
+GUILD_SKILL_NAME_3	Accordo Temporale
+GUILD_SKILL_NAME_4	Gilda della Fortuna
+GUILD_SKILL_NAME_5	Stendardo della Fratellanza
+GUILD_SKILL_NAME_6	Espansione Missioni
+GUILD_SKILL_NAME_7	Decreto del Tesoro
+GUILD_SKILL_NAME_8	Generosità Dorata
+GUILD_SKILL_NAME_9	Risonanza Energetica
+GUILD_SKILL_NEXT	Livello successivo: %d (Max: 10)
+GUILD_SKILL_PASSIVE_DESC	Le abilità passive sono sempre attive e non richiedono attivazione
+GUILD_SKILL_POINT	Punti abilità
+GUILD_SKILL_QUEST_NOTE	I nuovi livelli avranno effetto al prossimo reset settimanale delle missioni.
+GUILD_SKILL_RECHARGE	Ricarica
+GUILD_SKILL_RESULT_1	Non hai l'autorizzazione per questa operazione.
+GUILD_SKILL_RESULT_10	Abilità attivate.
+GUILD_SKILL_RESULT_11	L'energia dello spirito del drago è completamente rigenerata.
+GUILD_SKILL_RESULT_12	Non hai l'oggetto Energia della Gilda.
+GUILD_SKILL_RESULT_13	Energia ricaricata.
+GUILD_SKILL_RESULT_14	Le abilità sono già attive.
+GUILD_SKILL_RESULT_2	Non hai oggetti da donare.
+GUILD_SKILL_RESULT_3	Donazione completata: %d EXP punti abilità.
+GUILD_SKILL_RESULT_4	Punti abilità insufficienti.
+GUILD_SKILL_RESULT_5	La gilda non ha abbastanza Oro Gilda.
+GUILD_SKILL_RESULT_6	L'abilità è al livello massimo.
+GUILD_SKILL_RESULT_7	Abilità potenziata.
+GUILD_SKILL_RESULT_8	La tua gilda non ha abilità attive.
+GUILD_SKILL_RESULT_9	Energia insufficiente.
+GUILD_SKILL_TAB_ACTIVE	Abilità attive
+GUILD_SKILL_TAB_DONATION	Donazione abilità
+GUILD_SKILL_TAB_PASSIVE	Abilità passive
+GUILD_SKILL_UPGRADE_COST	Il potenziamento ti costerà |cffc79e65%d Punti Abilità|r e |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Vorresti migliorare questa abilità?
+GUILD_WHISPER_DESC	Il sussurro verrà inviato a tutti i membri
+GUILD_WHISPER_INVALID_SENDER	Il nome del mittente non può contenere spazi o ||, [, ], #, :
+GUILD_WHISPER_PRICE	Invia (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Nome del mittente
+GUILD_WHISPER_TEXT	Contenuto del sussurro...
+GUILD_WHISPER_TITLE	Sussurro della gilda
+GUILD_WINDOW_ACTION_TITLE	Azione della gilda
+GUILD_WINDOW_AVERAGE_LEVEL	Livello medio
+GUILD_WINDOW_BLESSING_BOSS	Benedizione del Cacciatore
+GUILD_WINDOW_BLESSING_DROP	Benedizione del Tesoro
+GUILD_WINDOW_BLESSING_DURATION	Durata: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Benedizione dell'Esperienza
+GUILD_WINDOW_BLESSING_FISH_MINE	Benedizione del Raccolto
+GUILD_WINDOW_BLESSING_STONE	Benedizione dello Spaccapietre
+GUILD_WINDOW_BLESSING_TITLE	Benedizione della gilda
+GUILD_WINDOW_BLESSING_YANG	Benedizione della Fortuna
+GUILD_WINDOW_CO_LEADER	Co-leader
+GUILD_WINDOW_DAILY_DONATION	Donazione giornaliera: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Dichiarare guerra
+GUILD_WINDOW_EXCLUDE_QUESTION	Vuoi espellere %s dalla gilda?
+GUILD_WINDOW_EXP	Esperienza
+GUILD_WINDOW_GOLD	Oro Gilda |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Informazioni sulla gilda
+GUILD_WINDOW_LEADER	Capo
+GUILD_WINDOW_LEVEL	Livello di gilda
+GUILD_WINDOW_MANAGEMENT	Gestione Gilda
+GUILD_WINDOW_MEMBERS	Numero di membri
+GUILD_WINDOW_MEMBER_TOOLTIP_1	I giocatori con l'Aura PvP non occupano
+GUILD_WINDOW_MEMBER_TOOLTIP_2	posti della gilda; non possono
+GUILD_WINDOW_MEMBER_TOOLTIP_3	donare né partecipare alle
+GUILD_WINDOW_MEMBER_TOOLTIP_4	missioni di gilda.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Giocatori con Aura PVP: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Membri: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Aggiungi amico
+GUILD_WINDOW_MENU_CHANGE_GRADE	Cambia grado
+GUILD_WINDOW_MENU_COPY_NAME	Copia nome
+GUILD_WINDOW_MENU_EXCLUDE	Espelli membro
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Promuovi a co-leader
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Rimuovi da vice capo
+GUILD_WINDOW_MENU_WHISPER	Chat privata
+GUILD_WINDOW_SEND_WHISPER	Invia sussurro
+GUILD_WINDOW_TITLE	Gilda
+GUILD_WINDOW_TOTAL_DONATION	Donazione totale: %d
+GUILD_WINDOW_UPLOAD	Carica
+TOOLTIP_SHORTCUT_MULTI_BUY	Acquisto multiplo
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cerca negozio
+TOOLTIP_SHORTCUT_WIKI	ApriWikipedia

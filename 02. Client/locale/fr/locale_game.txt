@@ -1,0 +1,15 @@
+EMPIRE_A	Empire Shinsoo
+EMPIRE_B	Empire Chunjo
+EMPIRE_C	Empire Jinno
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	La hauteur est inférieure à 12 Pixels.
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	La largeur est supérieure à 16 Pixels.
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	Le jeu ne supporte pas cette image..
+GUILD_BANKINFO_NAME	Membre
+GUILD_INFO_ENEMY_GUILD_EMPTY	Aucune
+GUILD_YOU_DO_NOT_JOIN	Vous n'êtes membre d'aucune guilde.
+JOB_ASSASSIN	Ninja
+JOB_SHAMAN	Chamane
+JOB_SURA	Sura
+JOB_WARRIOR	Guerrier
+JOB_WOLFMAN	Lycan
+UI_NOCONTENTS	Pas de contenu

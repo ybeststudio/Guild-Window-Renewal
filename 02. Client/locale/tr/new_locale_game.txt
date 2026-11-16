@@ -1,0 +1,235 @@
+AUTO_LEVEL	Seviye %d
+GUILD_APPLICATION_ALL	Tümü
+GUILD_APPLICATION_APPLICATION_LIST	Baþvuru Listesi
+GUILD_APPLICATION_APPLIED	Baþvuruldu
+GUILD_APPLICATION_APPLY	Baþvur
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Lonca Türünü Deðiþtir
+GUILD_APPLICATION_CHANGE_LANGUAGE	Dili Deðiþtir
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Min. Seviyeyi Deðiþtir
+GUILD_APPLICATION_COLUMN_CLASS	Sýnýf
+GUILD_APPLICATION_COLUMN_EMPIRE	Krallýk
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Son Giriþ
+GUILD_APPLICATION_COLUMN_LEVEL	Seviye
+GUILD_APPLICATION_COLUMN_NAME	Ýsim
+GUILD_APPLICATION_COLUMN_SKILL	Beceri
+GUILD_APPLICATION_DESCRIPTION	Açýklama
+GUILD_APPLICATION_DETAILS_TITLE	Lonca Detaylarý
+GUILD_APPLICATION_EMPTY_DESCRIPTION	Loncanýn açýklamasý bulunmuyor.
+GUILD_APPLICATION_FILTER_TITLE	Filtre
+GUILD_APPLICATION_FULL	Dolu
+GUILD_APPLICATION_GUILD_NAME	Lonca Ýsmi
+GUILD_APPLICATION_JOIN	Katýl
+GUILD_APPLICATION_LANGUAGE	Dil
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Gerekli seviyeye sahip deðilsin
+GUILD_APPLICATION_LIST_TITLE	Lonca Listesi
+GUILD_APPLICATION_MANAGE_GUILD	Loncayý Yönet
+GUILD_APPLICATION_MEMBERS	Üyeler
+GUILD_APPLICATION_MIN_LEVEL	Min. Seviye
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Lonca Açýklamasý
+GUILD_APPLICATION_NOTIFICATION_JOIN	Katýl
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Loncaya hemen katýl ve avantajlarýn tadýný çýkar
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	{} loncasý üye arýyor!
+GUILD_APPLICATION_NO_DESCRIPTION	Açýklama Yok
+GUILD_APPLICATION_REQUIRED_LEVEL	Gerekli Seviye
+GUILD_APPLICATION_STATUS_APPROVAL	Onay Gerekli
+GUILD_APPLICATION_STATUS_CLOSED	Kapalý
+GUILD_APPLICATION_STATUS_OPEN	Açýk
+GUILD_APPLICATION_TYPE	Tür
+GUILD_APPLICATION_WINDOW_TITLE	Lonca Baþvurusu
+GUILD_APPLICATION_WRONG_EMPIRE	Yanlýþ Krallýk
+GUILD_DONATION_BUSY	Þu anda bu iþlemi yapamazsýn.
+GUILD_DONATION_BUTTON	Baðýþla
+GUILD_DONATION_DAILY	Günlük Ver: %d / %d
+GUILD_DONATION_DESC_1	Baðýþlar, ittifakýnýzýn Lonca Altýný kazanmasýný, becerileri
+GUILD_DONATION_DESC_2	yükseltmesini ve diðer birçok özelliðin kilidini açmasýný saðlar
+GUILD_DONATION_HELP	Her baðýþ size Lonca Gümüþü kazandýracak
+GUILD_DONATION_HELP_ITEM	Item
+GUILD_DONATION_HELP_TITLE	Elde Etme
+GUILD_DONATION_LIMIT	Bugünkü baðýþ hakkýný doldurdun.
+GUILD_DONATION_NO_AUTH	Bu iþlem için yetkin yok.
+GUILD_DONATION_NO_GOLD	Loncanýn yeterli Lonca Altýný yok.
+GUILD_DONATION_NO_PREMIUM	Yeterli miktarda Asil Katký sahip deðilsiniz.
+GUILD_DONATION_NO_SCROLL	Yeterli miktarda Katký Parþömeni sahip deðilsiniz.
+GUILD_DONATION_NO_YANG	Yeterli yangýn yok.
+GUILD_DONATION_OK	Baðýþýn için teþekkürler.
+GUILD_DONATION_PREMIUM	Asil Katký
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e and %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Katký Parþömeni
+GUILD_DONATION_SOURCE_PREMIUM	Item-Shoptan alýnabilir
+GUILD_DONATION_SOURCE_SCROLL_1	Günlük 'Lonca Baðýþý' göreviyle
+GUILD_DONATION_SOURCE_SCROLL_2	elde edilir
+GUILD_DONATION_TITLE	Lonca Baðýþý
+GUILD_DONATION_WHISPER_SENT	Fýsýltý tüm üyelere gönderildi.
+GUILD_GRADE_AUTH_DUNGEON	Lonca Zindaný baþlatma yetkisine sahip
+GUILD_GRADE_AUTH_INVITE	Yeni lonca üyelerini kabul etme yetkisine sahiptir.
+GUILD_GRADE_AUTH_QUEST	Lonca görevlerini baþlatma ve tamamlama yetkisine sahiptir.
+GUILD_GRADE_AUTH_REMOVE	Bir lonca üyesini loncadan atma yetkisine sahiptir.
+GUILD_GRADE_AUTH_SHOP	Lonca dükkanýndan altýn para ile satýn alma yetkisi vardýr.
+GUILD_GRADE_AUTH_UP_SKILL	Lonca becerilerini yükseltme yetkisine sahiptir.
+GUILD_GRADE_AUTH_USE_SKILL	Lonca becerilerini kullanma yetkisine sahiptir.
+GUILD_GRADE_AUTH_WAR	Lonca savaþýna katýlma yetkisine sahiptir.
+GUILD_GRADE_AUTH_WHISPER	Tüm lonca üyelerine fýsýltý gönderme yetkisine sahiptir.
+GUILD_GRADE_CONFIG_ACCEPT	Kabul
+GUILD_GRADE_CONFIG_CANCEL	iptal
+GUILD_GRADE_CONFIG_NAME	Rütbe adý
+GUILD_GRADE_CONFIG_PERMISSIONS	Yetkiler
+GUILD_GRADE_CONFIG_SELECTED	%d seçildi
+GUILD_GRADE_CONFIG_TITLE	Rütbe Ayarlarý
+GUILD_LOG_ACTIVATE	Skill %d saatliðine etkinleþtirildi
+GUILD_LOG_DONATION	Baðýþ: %dx %s (+%s EXP) (toplam +%s EXP)
+GUILD_LOG_EMPTY	Bu güne ait geçmiþ bilgisi yok.
+GUILD_LOG_TITLE_DONATION	Lonca Materyal Baðýþ Geçmiþi
+GUILD_LOG_TITLE_SKILL	Lonca Skill Geçmiþi
+GUILD_LOG_UPGRADE	%s seviye %d oldu
+GUILD_QUEST_ABORT	Ýptal
+GUILD_QUEST_ABORT_QUESTION_1	Bir lonca görevini iptal etmek üzeresiniz
+GUILD_QUEST_ABORT_QUESTION_2	Bu haftalýk görev hakký kalýcý olarak tüketilecektir.
+GUILD_QUEST_CLAIM	Ödülü Alýn
+GUILD_QUEST_DIFFICULTY	Zorluk
+GUILD_QUEST_OBJECTIVE	Objektif
+GUILD_QUEST_OBJECTIVE_1	%s Metin'i yok et
+GUILD_QUEST_OBJECTIVE_2	%s zindaný tamamla
+GUILD_QUEST_OBJECTIVE_3	%s adet boss yen
+GUILD_QUEST_OBJECTIVE_4	%s Balýk veya Madencilik
+GUILD_QUEST_OPTION	Seçenek
+GUILD_QUEST_RANK_NAME	Ýsim
+GUILD_QUEST_RANK_RANK	Rütbe
+GUILD_QUEST_RANK_SCORE	Puan
+GUILD_QUEST_RANK_TITLE	Lonca Görev Sýralamasý
+GUILD_QUEST_REMAINING	Kalan: %d
+GUILD_QUEST_RESULT_ACTIVE	Zaten devam eden bir lonca görevi var.
+GUILD_QUEST_RESULT_CANCELLED	Lonca görevi iptal edildi.
+GUILD_QUEST_RESULT_COMPLETED	Lonca görevi tamamlandý.
+GUILD_QUEST_RESULT_NOT_FINISHED	Lonca görevi henüz tamamlanmadý.
+GUILD_QUEST_RESULT_NO_AUTH	Bu iþlem için yetkin yok.
+GUILD_QUEST_RESULT_REWARDED	Lonca görevi ödülü alýndý.
+GUILD_QUEST_RESULT_STARTED	Lonca görevi baþladý.
+GUILD_QUEST_RESULT_WEEKLY	Bu görev için haftalýk hakkýnýz kalmadý.
+GUILD_QUEST_REWARD	Ödül
+GUILD_QUEST_REWARD_VALUE	%s EXP & %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Guild Quest
+GUILD_QUEST_SIDEBAR_TIME	Kalan süre: %d dk. %d sn
+GUILD_QUEST_START	Baþlangýç
+GUILD_QUEST_START_QUESTION_1	Bir lonca görevine baþlamak üzeresiniz
+GUILD_QUEST_START_QUESTION_2	Emin misin?
+GUILD_QUEST_TIME	Süre
+GUILD_QUEST_TIME_LEFT	Kalan süre
+GUILD_QUEST_TITLE_1	Taþ Görevi
+GUILD_QUEST_TITLE_2	Zindan Görevi
+GUILD_QUEST_TITLE_3	Boss Görevi
+GUILD_QUEST_TITLE_4	Ýþçi Görevi
+GUILD_SHOP_ASK	Satýn almak istediðinizden emin misiniz %s x%d?
+GUILD_SHOP_ASK_PRICE	Fiyat: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Fiyat: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Altýn Dükkaný
+GUILD_SHOP_MULTI_BUY	Çoklu satýn al
+GUILD_SHOP_RESULT_1	Satýn alma tamamlandý.
+GUILD_SHOP_RESULT_2	Bu ürün için lonca seviyesi yetersiz.
+GUILD_SHOP_RESULT_3	Yeterli Lonca Gümüþün yok.
+GUILD_SHOP_RESULT_4	Loncanýn yeterli Lonca Altýný yok.
+GUILD_SHOP_RESULT_5	Bu iþlem için yetkin yok.
+GUILD_SHOP_SILVER	Gümüþ Maðazasý
+GUILD_SHOP_UNLOCK	Unlock Lv. %d
+GUILD_SKILL_ACTIVATE	Etkinleþtir
+GUILD_SKILL_ACTIVATE_COST	%d enerji harcanacak
+GUILD_SKILL_ACTIVATE_QUESTION	Beceriler %d saat etkinleþtirilsin mi?
+GUILD_SKILL_BOOST_1	Tanrýlarýn Muskasý (%d)
+GUILD_SKILL_BOOST_1_DESC	Baþarý Oraný 100%
+GUILD_SKILL_BOOST_2	Tanrýlarýn Týlsýmý+ (%d)
+GUILD_SKILL_BOOST_2_DESC	Çift EXP +% 50
+GUILD_SKILL_DONATE	Baðýþla
+GUILD_SKILL_DONATION_ITEM_DESC	Loncanýza beceri puaný deneyimi#baðýþlamanýzý saðlar.
+GUILD_SKILL_EFFECT_0	Zindan sandýðýndan %d%% Sandýk Yenileme Mührü þansý
+GUILD_SKILL_EFFECT_1	Sirk zindanýnda baþlangýç altýný +%d
+GUILD_SKILL_EFFECT_2	Item yükseltme þansý +%d%%
+GUILD_SKILL_EFFECT_3	Zindan bekleme süresinde azalma -%d%%
+GUILD_SKILL_EFFECT_4	Çifte Maden Drop Þansý +%d%%
+GUILD_SKILL_EFFECT_5	Lonca üyesi kapasitesi +%d
+GUILD_SKILL_EFFECT_6	Haftalýk lonca görevleri +%d
+GUILD_SKILL_EFFECT_7	Zindanlarda Lonca Gümüþü elde etme þansý +%d%%
+GUILD_SKILL_EFFECT_8	Baðýþ baþýna altýný ikiye katlama þansý +%d%%
+GUILD_SKILL_EFFECT_9	Skilleri etkinleþtirirken harcanan enerji azaltýldý -%d%%
+GUILD_SKILL_EXP_GAIN	Skill Point Exp + %d
+GUILD_SKILL_LEVEL	Seviye: %d
+GUILD_SKILL_NAME_0	Stone Destroyer
+GUILD_SKILL_NAME_1	Wrath of the Guild
+GUILD_SKILL_NAME_2	Guild Tempering
+GUILD_SKILL_NAME_3	Temporal Accord
+GUILD_SKILL_NAME_4	Guild of Fortune
+GUILD_SKILL_NAME_5	Banner of Brotherhood
+GUILD_SKILL_NAME_6	Quest Expansion
+GUILD_SKILL_NAME_7	Treasure Decree
+GUILD_SKILL_NAME_8	Golden Generosity
+GUILD_SKILL_NAME_9	Energy Resonance
+GUILD_SKILL_NEXT	Sonraki Seviye: %d (Maks: 10)
+GUILD_SKILL_PASSIVE_DESC	Passive skills are always active and don't need to be activated
+GUILD_SKILL_POINT	Skill Point
+GUILD_SKILL_QUEST_NOTE	Yeni seviyeler gelecek haftaki haftalýk görev sýfýrlamasýnda yayýnlanacaktýr.
+GUILD_SKILL_RECHARGE	Recharge
+GUILD_SKILL_RESULT_1	Bu iþlem için yetkin yok.
+GUILD_SKILL_RESULT_10	Beceriler etkinleþtirildi.
+GUILD_SKILL_RESULT_11	Ejderha Hayaleti Enerjisi tamamen yüklenmiþ durumda.
+GUILD_SKILL_RESULT_12	Lonca Enerjisi eþyan yok.
+GUILD_SKILL_RESULT_13	Enerji dolduruldu.
+GUILD_SKILL_RESULT_14	Beceriler zaten etkin.
+GUILD_SKILL_RESULT_2	Baðýþlanacak eþyan yok.
+GUILD_SKILL_RESULT_3	Baðýþ tamamlandý: %d Skill Point Exp.
+GUILD_SKILL_RESULT_4	Yeterli Skill Point yok.
+GUILD_SKILL_RESULT_5	Loncanýn yeterli Lonca Altýný yok.
+GUILD_SKILL_RESULT_6	Beceri en yüksek seviyede.
+GUILD_SKILL_RESULT_7	Beceri yükseltildi.
+GUILD_SKILL_RESULT_8	Loncanýzýn herhangi bir aktif yeteneði yok.
+GUILD_SKILL_RESULT_9	Yeterli enerji yok.
+GUILD_SKILL_TAB_ACTIVE	Active Skill
+GUILD_SKILL_TAB_DONATION	Skill Donation
+GUILD_SKILL_TAB_PASSIVE	Passive Skill
+GUILD_SKILL_UPGRADE_COST	Yükseltme size |cffc79e65%d Beceri Puaný|r ve |cffc79e65%s|r |Eemoji/guild_gold|e tutarýnda mal olacaktýr.
+GUILD_SKILL_UPGRADE_QUESTION	Bu beceriyi geliþtirmek ister misiniz?
+GUILD_WHISPER_DESC	Fýsýltý tüm üyelere gönderilecek
+GUILD_WHISPER_INVALID_SENDER	Gönderen adý boþluk veya ||, [, ], #, : içeremez.
+GUILD_WHISPER_PRICE	Gönder (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Gönderen adý
+GUILD_WHISPER_TEXT	Fýsýltý içeriði...
+GUILD_WHISPER_TITLE	Lonca Fýsýltýsý
+GUILD_WINDOW_ACTION_TITLE	Lonca Ýþlemi
+GUILD_WINDOW_AVERAGE_LEVEL	Ortalama Seviye
+GUILD_WINDOW_BLESSING_BOSS	Avcýnýn Kutsamasý
+GUILD_WINDOW_BLESSING_DROP	Hazinenin Kutsamasý
+GUILD_WINDOW_BLESSING_DURATION	Süre: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Tecrübe Artýþ Kutsamasý
+GUILD_WINDOW_BLESSING_FISH_MINE	Hasatýn Bereketi
+GUILD_WINDOW_BLESSING_STONE	Taþ Kýrýcýnýn Kutsamasý
+GUILD_WINDOW_BLESSING_TITLE	Lonca Kutsamasý
+GUILD_WINDOW_BLESSING_YANG	Þansýn Kutsamasý
+GUILD_WINDOW_CO_LEADER	Yardýmcý Lider
+GUILD_WINDOW_DAILY_DONATION	Günlük Baðýþ: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Savaþ Ýlan Et
+GUILD_WINDOW_EXCLUDE_QUESTION	%s adlý üyeyi loncadan atmak istiyor musun?
+GUILD_WINDOW_EXP	Tecrübe
+GUILD_WINDOW_GOLD	Lonca Altýný |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Lonca Bilgileri
+GUILD_WINDOW_LEADER	Lider
+GUILD_WINDOW_LEVEL	Lonca Seviyesi
+GUILD_WINDOW_MANAGEMENT	Lonca Yönetimi
+GUILD_WINDOW_MEMBERS	Üye Sayýsý
+GUILD_WINDOW_MEMBER_TOOLTIP_1	PVP Aurasýna sahip oyuncular lonca
+GUILD_WINDOW_MEMBER_TOOLTIP_2	kontenjanýný kullanmaz; baðýþ
+GUILD_WINDOW_MEMBER_TOOLTIP_3	yapamaz veya lonca görevlerine
+GUILD_WINDOW_MEMBER_TOOLTIP_4	katýlamaz.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	PVP Auralý oyuncular: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Üyeler: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Arkadaþ ekle
+GUILD_WINDOW_MENU_CHANGE_GRADE	Rütbeyi deðiþtir
+GUILD_WINDOW_MENU_COPY_NAME	Ýsmi kopyala
+GUILD_WINDOW_MENU_EXCLUDE	Üyeyi çýkar
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Yardýmcý lidere yükselt
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Yardýmcý liderlikten al
+GUILD_WINDOW_MENU_WHISPER	Fýsýltý
+GUILD_WINDOW_SEND_WHISPER	Fýsýltý Gönder
+GUILD_WINDOW_TITLE	Lonca
+GUILD_WINDOW_TOTAL_DONATION	Toplam Baðýþ: %d
+GUILD_WINDOW_UPLOAD	Yükle
+TOOLTIP_SHORTCUT_MULTI_BUY	Çoklu satýn al
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Maðaza Ara
+TOOLTIP_SHORTCUT_WIKI	Wikipedia'yý aç

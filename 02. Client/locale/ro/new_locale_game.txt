@@ -1,0 +1,235 @@
+AUTO_LEVEL	Nivel %d
+GUILD_APPLICATION_ALL	Tot
+GUILD_APPLICATION_APPLICATION_LIST	Lista Aplicatii
+GUILD_APPLICATION_APPLIED	Aplicat
+GUILD_APPLICATION_APPLY	Aplica
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Schimba Tipul Breslei
+GUILD_APPLICATION_CHANGE_LANGUAGE	Schimba Limba
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Schimba Nivelul Minim
+GUILD_APPLICATION_COLUMN_CLASS	Clasa
+GUILD_APPLICATION_COLUMN_EMPIRE	Regat
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Ultima Logare
+GUILD_APPLICATION_COLUMN_LEVEL	Nivel
+GUILD_APPLICATION_COLUMN_NAME	Nume
+GUILD_APPLICATION_COLUMN_SKILL	Abilitate
+GUILD_APPLICATION_DESCRIPTION	Descriere
+GUILD_APPLICATION_DETAILS_TITLE	Detalii Breasla
+GUILD_APPLICATION_EMPTY_DESCRIPTION	Breasla nu are descriere.
+GUILD_APPLICATION_FILTER_TITLE	Filtru
+GUILD_APPLICATION_FULL	Plin
+GUILD_APPLICATION_GUILD_NAME	Nume Breasla
+GUILD_APPLICATION_JOIN	Alatura-te
+GUILD_APPLICATION_LANGUAGE	Limba
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Nu ai nivelul necesar
+GUILD_APPLICATION_LIST_TITLE	Lista Breasla
+GUILD_APPLICATION_MANAGE_GUILD	Gestioneaza Breasla
+GUILD_APPLICATION_MEMBERS	Membrii
+GUILD_APPLICATION_MIN_LEVEL	Nivel Minim
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Descriere Breasla
+GUILD_APPLICATION_NOTIFICATION_JOIN	Alatura-te
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Alatura-te breslei si bucura-te de beneficii
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	Breasla {} recruteaza!
+GUILD_APPLICATION_NO_DESCRIPTION	Fara Descriere
+GUILD_APPLICATION_REQUIRED_LEVEL	Nivel Necesar
+GUILD_APPLICATION_STATUS_APPROVAL	Aprobat
+GUILD_APPLICATION_STATUS_CLOSED	Inchis
+GUILD_APPLICATION_STATUS_OPEN	Deschis
+GUILD_APPLICATION_TYPE	Tip
+GUILD_APPLICATION_WINDOW_TITLE	Aplicatie Breasla
+GUILD_APPLICATION_WRONG_EMPIRE	Regat Gresit
+GUILD_DONATION_BUSY	Nu poþi face aceastã operaþiune acum.
+GUILD_DONATION_BUTTON	Doneaza
+GUILD_DONATION_DAILY	Donaþie zilnicã: %d / %d
+GUILD_DONATION_DESC_1	Donaþiile permit breslei tale sã câºtige Aur de Breaslã, sã îmbunãtãþeascã abilitãþile
+GUILD_DONATION_DESC_2	ºi sã deblocheze multe alte funcþii
+GUILD_DONATION_HELP	Fiecare donaþie vã va oferi Guild Silver
+GUILD_DONATION_HELP_ITEM	Articol
+GUILD_DONATION_HELP_TITLE	Obþinere
+GUILD_DONATION_LIMIT	Þi-ai epuizat dreptul de donaþie de azi.
+GUILD_DONATION_NO_AUTH	Nu ai autoritatea pentru aceastã operaþiune.
+GUILD_DONATION_NO_GOLD	Breasla nu are suficient Aur de Breaslã.
+GUILD_DONATION_NO_PREMIUM	Nu ai suficientã Contribuþie Nobilã.
+GUILD_DONATION_NO_SCROLL	Nu ai suficiente Pergamente de Contribuþie.
+GUILD_DONATION_NO_YANG	Nu ai suficienþi Yang.
+GUILD_DONATION_OK	Îþi mulþumim pentru donaþie.
+GUILD_DONATION_PREMIUM	Contribuþie Nobilã
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e ºi %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Pergament de Contribuþie
+GUILD_DONATION_SOURCE_PREMIUM	Poate fi obþinut din magazinul de articole
+GUILD_DONATION_SOURCE_SCROLL_1	Se obþine din misiunea zilnicã
+GUILD_DONATION_SOURCE_SCROLL_2	'Donaþie pentru breaslã'
+GUILD_DONATION_TITLE	Donarea breslei
+GUILD_DONATION_WHISPER_SENT	ªoapta a fost trimisã tuturor membrilor.
+GUILD_GRADE_AUTH_DUNGEON	Are autoritatea de a porni Temniþa Breslei
+GUILD_GRADE_AUTH_INVITE	Autorizat sã accepte noi membri ai breslei.
+GUILD_GRADE_AUTH_QUEST	Autorizat sã înceapã ºi sã finalizeze misiuni de breaslã.
+GUILD_GRADE_AUTH_REMOVE	Autorizat sã expulzeze un membru al breslei.
+GUILD_GRADE_AUTH_SHOP	Autorizat sã cumpere în magazinul breslei cu monede de aur.
+GUILD_GRADE_AUTH_UP_SKILL	Autorizat pentru a îmbunãtãþi abilitãþile breslei.
+GUILD_GRADE_AUTH_USE_SKILL	Autorizat sã foloseascã abilitãþile de breaslã.
+GUILD_GRADE_AUTH_WAR	Autorizat sã participe la un rãzboi de breaslã.
+GUILD_GRADE_AUTH_WHISPER	Autorizat sã trimitã o ºoaptã tuturor membrilor breslei.
+GUILD_GRADE_CONFIG_ACCEPT	Accepta
+GUILD_GRADE_CONFIG_CANCEL	Intrerupere
+GUILD_GRADE_CONFIG_NAME	Numele rangului
+GUILD_GRADE_CONFIG_PERMISSIONS	Permisiuni
+GUILD_GRADE_CONFIG_SELECTED	%d selectat
+GUILD_GRADE_CONFIG_TITLE	Setãrile rangului
+GUILD_LOG_ACTIVATE	Abilitatea a fost activatã pentru %d ore
+GUILD_LOG_DONATION	Donaþie: %dx %s (+%s EXP) (total +%s EXP)
+GUILD_LOG_EMPTY	Nu existã istoric disponibil pentru aceastã zi.
+GUILD_LOG_TITLE_DONATION	Istoric donatii materiale breasla
+GUILD_LOG_TITLE_SKILL	Istoricul abilitãþilor breslei
+GUILD_LOG_UPGRADE	%s a ajuns la nivelul %d
+GUILD_QUEST_ABORT	Anula
+GUILD_QUEST_ABORT_QUESTION_1	Sunteþi pe cale sã anulaþi o misiune de breaslã
+GUILD_QUEST_ABORT_QUESTION_2	Aceasta incercare de misiune saptamanala va fi consumata definitiv.
+GUILD_QUEST_CLAIM	Obþineþi recompensã
+GUILD_QUEST_DIFFICULTY	Dificultate
+GUILD_QUEST_OBJECTIVE	Obiectiv
+GUILD_QUEST_OBJECTIVE_1	Distruge %s Metin
+GUILD_QUEST_OBJECTIVE_2	Finalizeazã %s temniþe
+GUILD_QUEST_OBJECTIVE_3	Învinge %s boºi
+GUILD_QUEST_OBJECTIVE_4	%s Pescuit sau Minerit
+GUILD_QUEST_OPTION	Opþiune
+GUILD_QUEST_RANK_NAME	Nume
+GUILD_QUEST_RANK_RANK	Rang
+GUILD_QUEST_RANK_SCORE	Scor
+GUILD_QUEST_RANK_TITLE	Rang de cãutare a breslei
+GUILD_QUEST_REMAINING	Ramas: %d
+GUILD_QUEST_RESULT_ACTIVE	Existã deja o misiune a breslei în desfãºurare.
+GUILD_QUEST_RESULT_CANCELLED	Misiunea breslei a fost anulatã.
+GUILD_QUEST_RESULT_COMPLETED	Misiunea breslei a fost finalizatã.
+GUILD_QUEST_RESULT_NOT_FINISHED	Misiunea breslei nu a fost încã finalizatã.
+GUILD_QUEST_RESULT_NO_AUTH	Nu ai autoritatea pentru aceastã operaþiune.
+GUILD_QUEST_RESULT_REWARDED	Recompensa misiunii breslei a fost primitã.
+GUILD_QUEST_RESULT_STARTED	Misiunea breslei a început.
+GUILD_QUEST_RESULT_WEEKLY	Nu mai ai drept sãptãmânal pentru aceastã misiune.
+GUILD_QUEST_REWARD	Recompensã
+GUILD_QUEST_REWARD_VALUE	%s EXP & %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Misiune breaslã
+GUILD_QUEST_SIDEBAR_TIME	Timp rãmas: %d min %d s
+GUILD_QUEST_START	Inceput
+GUILD_QUEST_START_QUESTION_1	Sunteþi pe cale sã începeþi o misiune de breaslã
+GUILD_QUEST_START_QUESTION_2	esti sigur?
+GUILD_QUEST_TIME	Duratã
+GUILD_QUEST_TIME_LEFT	Timp rãmas
+GUILD_QUEST_TITLE_1	Cãutarea Pietrei
+GUILD_QUEST_TITLE_2	Dungeon Quest
+GUILD_QUEST_TITLE_3	Boss Quest
+GUILD_QUEST_TITLE_4	Cãutarea muncitorului
+GUILD_SHOP_ASK	Sigur vrei sã cumperi %s x%d?
+GUILD_SHOP_ASK_PRICE	Preþ: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Preþ: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Magazin de aur
+GUILD_SHOP_MULTI_BUY	Cumpãrare multiplã
+GUILD_SHOP_RESULT_1	Cumpãrarea a fost finalizatã.
+GUILD_SHOP_RESULT_2	Nivelul breslei este insuficient pentru acest produs.
+GUILD_SHOP_RESULT_3	Nu ai suficient Argint de Breaslã.
+GUILD_SHOP_RESULT_4	Breasla nu are suficient Aur de Breaslã.
+GUILD_SHOP_RESULT_5	Nu ai autoritatea pentru aceastã operaþiune.
+GUILD_SHOP_SILVER	Magazin de argint
+GUILD_SHOP_UNLOCK	Deblocare Niv. %d
+GUILD_SKILL_ACTIVATE	Activeaza
+GUILD_SKILL_ACTIVATE_COST	Se vor consuma %d energie
+GUILD_SKILL_ACTIVATE_QUESTION	Activezi abilitãþile pentru %d ore?
+GUILD_SKILL_BOOST_1	Pergamentul Zeilor (%d)
+GUILD_SKILL_BOOST_1_DESC	Ratã de succes 100%
+GUILD_SKILL_BOOST_2	Talismanul Zeilor+ (%d)
+GUILD_SKILL_BOOST_2_DESC	EXP dublu +% 50
+GUILD_SKILL_DONATE	Doneaza
+GUILD_SKILL_DONATION_ITEM_DESC	Îþi permite sã donezi#experienþã de puncte de abilitate breslei tale.
+GUILD_SKILL_EFFECT_0	%d%% sansã de jeton de reîncercare din cufãr de temnitã
+GUILD_SKILL_EFFECT_1	Yang de start în temniþa Circului +%d
+GUILD_SKILL_EFFECT_2	ªansã de îmbunãtãþire obiect +%d%%
+GUILD_SKILL_EFFECT_3	Reducerea timpului de aºteptare al temniþei -%d%%
+GUILD_SKILL_EFFECT_4	ªansã de drop dublu la minerit +%d%%
+GUILD_SKILL_EFFECT_5	Capacitate membri breaslã +%d
+GUILD_SKILL_EFFECT_6	Misiuni sãptãmânale ale breslei +%d
+GUILD_SKILL_EFFECT_7	ªansã de a obþine Argint de Breaslã în temniþe +%d%%
+GUILD_SKILL_EFFECT_8	ªansã de dublare a Yang pe donaþie +%d%%
+GUILD_SKILL_EFFECT_9	Energia consumatã la activarea abilitãþilor a fost redusã -%d%%
+GUILD_SKILL_EXP_GAIN	EXP puncte abilitate + %d
+GUILD_SKILL_LEVEL	Nivel: %d
+GUILD_SKILL_NAME_0	Distrugãtorul de Pietre
+GUILD_SKILL_NAME_1	Mânia Breslei
+GUILD_SKILL_NAME_2	Cãlirea Breslei
+GUILD_SKILL_NAME_3	Acordul Timpului
+GUILD_SKILL_NAME_4	Breasla Norocului
+GUILD_SKILL_NAME_5	Stindardul Frãþiei
+GUILD_SKILL_NAME_6	Extinderea Misiunilor
+GUILD_SKILL_NAME_7	Decretul Comorii
+GUILD_SKILL_NAME_8	Generozitatea de Aur
+GUILD_SKILL_NAME_9	Rezonanþa Energiei
+GUILD_SKILL_NEXT	Nivelul urmãtor: %d (Max: 10)
+GUILD_SKILL_PASSIVE_DESC	Abilitãþile pasive sunt mereu active ºi nu trebuie activate
+GUILD_SKILL_POINT	Punct de abilitate
+GUILD_SKILL_QUEST_NOTE	Nivelurile noi intra in vigoare la urmatoarea resetare a misiunii saptamanale.
+GUILD_SKILL_RECHARGE	Reîncarcã
+GUILD_SKILL_RESULT_1	Nu ai autoritatea pentru aceastã operaþiune.
+GUILD_SKILL_RESULT_10	Abilitãþile au fost activate.
+GUILD_SKILL_RESULT_11	Energia Spiritul Dragonului este deja plina.
+GUILD_SKILL_RESULT_12	Nu ai obiectul Energia Breslei.
+GUILD_SKILL_RESULT_13	Energia a fost încãrcatã.
+GUILD_SKILL_RESULT_14	Abilitãþile sunt deja active.
+GUILD_SKILL_RESULT_2	Nu ai niciun obiect de donat.
+GUILD_SKILL_RESULT_3	Donaþie finalizatã: %d EXP puncte de abilitate.
+GUILD_SKILL_RESULT_4	Nu ai suficiente puncte de abilitate.
+GUILD_SKILL_RESULT_5	Breasla nu are suficient Aur de Breaslã.
+GUILD_SKILL_RESULT_6	Abilitatea este la nivelul maxim.
+GUILD_SKILL_RESULT_7	Abilitatea a fost îmbunãtãþitã.
+GUILD_SKILL_RESULT_8	Breasla ta nu are abilitãþi active.
+GUILD_SKILL_RESULT_9	Nu ai suficientã energie.
+GUILD_SKILL_TAB_ACTIVE	Abilitate activã
+GUILD_SKILL_TAB_DONATION	Donaþie abilitate
+GUILD_SKILL_TAB_PASSIVE	Abilitate pasivã
+GUILD_SKILL_UPGRADE_COST	Îmbunãtãþirea te va costa |cffc79e65%d Puncte de Abilitate|r ºi |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Doriþi sã îmbunãtãþiþi aceastã abilitate?
+GUILD_WHISPER_DESC	ªoapta va fi trimisã tuturor membrilor
+GUILD_WHISPER_INVALID_SENDER	Numele expeditorului nu poate conþine spaþii sau ||, [, ], #, :.
+GUILD_WHISPER_PRICE	Trimite (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Numele expeditorului
+GUILD_WHISPER_TEXT	Conþinutul ºoaptei...
+GUILD_WHISPER_TITLE	ªoaptã de breaslã
+GUILD_WINDOW_ACTION_TITLE	Actiune de breasla
+GUILD_WINDOW_AVERAGE_LEVEL	Nivel mediu
+GUILD_WINDOW_BLESSING_BOSS	Binecuvântarea Vânãtorului
+GUILD_WINDOW_BLESSING_DROP	Binecuvântarea Comorii
+GUILD_WINDOW_BLESSING_DURATION	Duratã: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Binecuvântarea Experienþei
+GUILD_WINDOW_BLESSING_FISH_MINE	Binecuvântarea Recoltei
+GUILD_WINDOW_BLESSING_STONE	Binecuvântarea Spãrgãtorului de Pietre
+GUILD_WINDOW_BLESSING_TITLE	Binecuvantarea breslei
+GUILD_WINDOW_BLESSING_YANG	Binecuvântarea Norocului
+GUILD_WINDOW_CO_LEADER	Co-lider
+GUILD_WINDOW_DAILY_DONATION	Donaþie zilnicã: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Declara razboi
+GUILD_WINDOW_EXCLUDE_QUESTION	Vrei sã îl excluzi pe %s din breaslã?
+GUILD_WINDOW_EXP	Experienta
+GUILD_WINDOW_GOLD	Aur de Breaslã |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Informatii bresle
+GUILD_WINDOW_LEADER	Conducator
+GUILD_WINDOW_LEVEL	Nivelul breslei
+GUILD_WINDOW_MANAGEMENT	Administrare Breasla
+GUILD_WINDOW_MEMBERS	Nr de membrii
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Jucãtorii cu Aura PvP nu ocupã
+GUILD_WINDOW_MEMBER_TOOLTIP_2	locuri în breaslã; nu pot
+GUILD_WINDOW_MEMBER_TOOLTIP_3	dona ºi nu pot participa la
+GUILD_WINDOW_MEMBER_TOOLTIP_4	misiunile breslei.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Jucãtori cu Aurã PVP: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Membri: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Adauga prieten
+GUILD_WINDOW_MENU_CHANGE_GRADE	Schimbã rangul
+GUILD_WINDOW_MENU_COPY_NAME	Copiazã numele
+GUILD_WINDOW_MENU_EXCLUDE	Exclude membrul
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Promoveazã la co-lider
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Retrage de la co-lider
+GUILD_WINDOW_MENU_WHISPER	Soapta
+GUILD_WINDOW_SEND_WHISPER	Trimite soapta
+GUILD_WINDOW_TITLE	Breasla
+GUILD_WINDOW_TOTAL_DONATION	Donaþie totalã: %d
+GUILD_WINDOW_UPLOAD	Incarca
+TOOLTIP_SHORTCUT_MULTI_BUY	Cumpãrare multiplã
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cautã în magazin
+TOOLTIP_SHORTCUT_WIKI	Deschide Wikipedia

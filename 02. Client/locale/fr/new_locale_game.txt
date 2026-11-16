@@ -1,0 +1,235 @@
+AUTO_LEVEL	Niveau %d
+GUILD_APPLICATION_ALL	Toutes
+GUILD_APPLICATION_APPLICATION_LIST	Liste des candidatures
+GUILD_APPLICATION_APPLIED	Candidature envoyée
+GUILD_APPLICATION_APPLY	Postuler
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Changer le type de guilde
+GUILD_APPLICATION_CHANGE_LANGUAGE	Changer la langue
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Changer le niveau min
+GUILD_APPLICATION_COLUMN_CLASS	Classe
+GUILD_APPLICATION_COLUMN_EMPIRE	Empire
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Dernière connexion
+GUILD_APPLICATION_COLUMN_LEVEL	Niveau
+GUILD_APPLICATION_COLUMN_NAME	Nom
+GUILD_APPLICATION_COLUMN_SKILL	Compétence
+GUILD_APPLICATION_DESCRIPTION	Description
+GUILD_APPLICATION_DETAILS_TITLE	Détails de la Guilde
+GUILD_APPLICATION_EMPTY_DESCRIPTION	La guilde n'a pas de description.
+GUILD_APPLICATION_FILTER_TITLE	Filtrer
+GUILD_APPLICATION_FULL	Pleine
+GUILD_APPLICATION_GUILD_NAME	Nom de la Guilde
+GUILD_APPLICATION_JOIN	Rejoindre
+GUILD_APPLICATION_LANGUAGE	Langue
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Niveau requis non atteint
+GUILD_APPLICATION_LIST_TITLE	Liste des Guildes
+GUILD_APPLICATION_MANAGE_GUILD	Gérer la Guilde
+GUILD_APPLICATION_MEMBERS	Membres
+GUILD_APPLICATION_MIN_LEVEL	Niveau min
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Description de la Guilde
+GUILD_APPLICATION_NOTIFICATION_JOIN	Rejoindre
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Rejoignez la guilde et profitez des avantages
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	La Guilde {} recrute !
+GUILD_APPLICATION_NO_DESCRIPTION	Pas de description
+GUILD_APPLICATION_REQUIRED_LEVEL	Niveau requis
+GUILD_APPLICATION_STATUS_APPROVAL	Approbation
+GUILD_APPLICATION_STATUS_CLOSED	Fermée
+GUILD_APPLICATION_STATUS_OPEN	Ouverte
+GUILD_APPLICATION_TYPE	Type
+GUILD_APPLICATION_WINDOW_TITLE	Candidature Guilde
+GUILD_APPLICATION_WRONG_EMPIRE	Mauvais Empire
+GUILD_DONATION_BUSY	Vous ne pouvez pas faire cela pour le moment.
+GUILD_DONATION_BUTTON	Donner
+GUILD_DONATION_DAILY	Don quotidien : %d / %d
+GUILD_DONATION_DESC_1	Les dons permettent à votre alliance de gagner de l'Or de guilde, d'améliorer les compétences
+GUILD_DONATION_DESC_2	et de débloquer de nombreuses autres fonctions
+GUILD_DONATION_HELP	Chaque donation vous octroie de l'Argent de guilde
+GUILD_DONATION_HELP_ITEM	Objet
+GUILD_DONATION_HELP_TITLE	Obtention
+GUILD_DONATION_LIMIT	Vous avez atteint votre limite de dons pour aujourd'hui.
+GUILD_DONATION_NO_AUTH	Vous n'avez pas l'autorisation pour cette action.
+GUILD_DONATION_NO_GOLD	Votre guilde n'a pas assez d'Or de guilde.
+GUILD_DONATION_NO_PREMIUM	Vous n'avez pas assez de Contributions nobles.
+GUILD_DONATION_NO_SCROLL	Vous n'avez pas assez de Parchemins de contribution.
+GUILD_DONATION_NO_YANG	Vous n'avez pas assez de Yang.
+GUILD_DONATION_OK	Merci pour votre don.
+GUILD_DONATION_PREMIUM	Contribution noble
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e et %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Parchemin de contribution
+GUILD_DONATION_SOURCE_PREMIUM	Peut être obtenu dans l'ItemShop
+GUILD_DONATION_SOURCE_SCROLL_1	S'obtient avec la quête quotidienne
+GUILD_DONATION_SOURCE_SCROLL_2	'Don de guilde'
+GUILD_DONATION_TITLE	Donation de guilde
+GUILD_DONATION_WHISPER_SENT	Le chuchotement a été envoyé à tous les membres.
+GUILD_GRADE_AUTH_DUNGEON	Autorisé à lancer le donjon de guilde
+GUILD_GRADE_AUTH_INVITE	Autorisé à accepter de nouveaux membres.
+GUILD_GRADE_AUTH_QUEST	Autorisé à lancer et terminer des quêtes de guilde.
+GUILD_GRADE_AUTH_REMOVE	Autorisé à expulser un membre.
+GUILD_GRADE_AUTH_SHOP	Autorisé à acheter dans la boutique de guilde avec des pièces d'or.
+GUILD_GRADE_AUTH_UP_SKILL	Autorisé à améliorer les compétences de guilde.
+GUILD_GRADE_AUTH_USE_SKILL	Autorisé à utiliser les compétences de guilde.
+GUILD_GRADE_AUTH_WAR	Autorisé à participer à une guerre de guilde.
+GUILD_GRADE_AUTH_WHISPER	Autorisé à envoyer un chuchotement à tous les membres.
+GUILD_GRADE_CONFIG_ACCEPT	Accepter
+GUILD_GRADE_CONFIG_CANCEL	Annuler
+GUILD_GRADE_CONFIG_NAME	Nom du rang
+GUILD_GRADE_CONFIG_PERMISSIONS	Permissions
+GUILD_GRADE_CONFIG_SELECTED	%d sélectionné
+GUILD_GRADE_CONFIG_TITLE	Configuration du rang
+GUILD_LOG_ACTIVATE	Compétence activée pour %d heures
+GUILD_LOG_DONATION	Don : %dx %s (+%s EXP) (total +%s EXP)
+GUILD_LOG_EMPTY	Aucun historique disponible pour ce jour.
+GUILD_LOG_TITLE_DONATION	Historique des dons de matériaux de guilde
+GUILD_LOG_TITLE_SKILL	Historique des compétences de guilde
+GUILD_LOG_UPGRADE	%s est passé au niveau %d
+GUILD_QUEST_ABORT	Annuler
+GUILD_QUEST_ABORT_QUESTION_1	Vous êtes sur le point d'annuler une quête de guilde
+GUILD_QUEST_ABORT_QUESTION_2	Ce droit de quête hebdomadaire sera définitivement consommé.
+GUILD_QUEST_CLAIM	Obtenir la récompense
+GUILD_QUEST_DIFFICULTY	Difficulté
+GUILD_QUEST_OBJECTIVE	Objectif
+GUILD_QUEST_OBJECTIVE_1	Détruire %s Metin
+GUILD_QUEST_OBJECTIVE_2	Terminer %s donjon
+GUILD_QUEST_OBJECTIVE_3	Vaincre %s boss
+GUILD_QUEST_OBJECTIVE_4	%s Pêche ou Minage
+GUILD_QUEST_OPTION	Option
+GUILD_QUEST_RANK_NAME	Nom
+GUILD_QUEST_RANK_RANK	Rang
+GUILD_QUEST_RANK_SCORE	Score
+GUILD_QUEST_RANK_TITLE	Classement des quêtes de guilde
+GUILD_QUEST_REMAINING	Restant : %d
+GUILD_QUEST_RESULT_ACTIVE	Une quête de guilde est déjà en cours.
+GUILD_QUEST_RESULT_CANCELLED	La quête de guilde a été annulée.
+GUILD_QUEST_RESULT_COMPLETED	Quête de guilde terminée.
+GUILD_QUEST_RESULT_NOT_FINISHED	La quête de guilde n'est pas encore terminée.
+GUILD_QUEST_RESULT_NO_AUTH	Vous n'avez pas l'autorisation pour cette action.
+GUILD_QUEST_RESULT_REWARDED	Récompense de la quête de guilde reçue.
+GUILD_QUEST_RESULT_STARTED	La quête de guilde a commencé.
+GUILD_QUEST_RESULT_WEEKLY	Vous n'avez plus de droit hebdomadaire pour cette quête.
+GUILD_QUEST_REWARD	Récompense
+GUILD_QUEST_REWARD_VALUE	%s EXP & %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Quête de guilde
+GUILD_QUEST_SIDEBAR_TIME	Temps restant : %d min %d s
+GUILD_QUEST_START	Début
+GUILD_QUEST_START_QUESTION_1	Vous êtes sur le point de lancer une quête de guilde
+GUILD_QUEST_START_QUESTION_2	Êtes-vous sûr ?
+GUILD_QUEST_TIME	Durée
+GUILD_QUEST_TIME_LEFT	Temps restant
+GUILD_QUEST_TITLE_1	Quête Metin
+GUILD_QUEST_TITLE_2	Quête Donjon
+GUILD_QUEST_TITLE_3	Quête Boss
+GUILD_QUEST_TITLE_4	Quête Ouvrier
+GUILD_SHOP_ASK	Voulez-vous vraiment acheter %s x%d ?
+GUILD_SHOP_ASK_PRICE	Prix : %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Prix : %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Boutique Or
+GUILD_SHOP_MULTI_BUY	Achat multiple
+GUILD_SHOP_RESULT_1	Achat terminé.
+GUILD_SHOP_RESULT_2	Le niveau de guilde est insuffisant pour ce produit.
+GUILD_SHOP_RESULT_3	Vous n'avez pas assez d'Argent de guilde.
+GUILD_SHOP_RESULT_4	Votre guilde n'a pas assez d'Or de guilde.
+GUILD_SHOP_RESULT_5	Vous n'avez pas l'autorisation pour cette action.
+GUILD_SHOP_SILVER	Boutique Argent
+GUILD_SHOP_UNLOCK	Débloqué au niv. %d
+GUILD_SKILL_ACTIVATE	Activer
+GUILD_SKILL_ACTIVATE_COST	%d énergie sera dépensée
+GUILD_SKILL_ACTIVATE_QUESTION	Activer les compétences pendant %d heures ?
+GUILD_SKILL_BOOST_1	Amulette des dieux (%d)
+GUILD_SKILL_BOOST_1_DESC	Taux de réussite 100%
+GUILD_SKILL_BOOST_2	Talisman des dieux+ (%d)
+GUILD_SKILL_BOOST_2_DESC	EXP double +% 50
+GUILD_SKILL_DONATE	Donner
+GUILD_SKILL_DONATION_ITEM_DESC	Permet de faire don d'expérience#de points de compétence à votre guilde.
+GUILD_SKILL_EFFECT_0	%d%% de chance de Jeton de relance par coffre de donjon
+GUILD_SKILL_EFFECT_1	Yang de départ dans le donjon du cirque +%d
+GUILD_SKILL_EFFECT_2	Chance d'amélioration d'objet +%d%%
+GUILD_SKILL_EFFECT_3	Réduction du temps d'attente des donjons -%d%%
+GUILD_SKILL_EFFECT_4	Chance de butin double à la mine +%d%%
+GUILD_SKILL_EFFECT_5	Capacité de membres de la guilde +%d
+GUILD_SKILL_EFFECT_6	Quêtes de guilde hebdomadaires +%d
+GUILD_SKILL_EFFECT_7	Chance d'obtenir de l'Argent de guilde en donjon +%d%%
+GUILD_SKILL_EFFECT_8	Chance de doubler l'or par don +%d%%
+GUILD_SKILL_EFFECT_9	Énergie dépensée à l'activation des compétences réduite -%d%%
+GUILD_SKILL_EXP_GAIN	EXP de points de compétence + %d
+GUILD_SKILL_LEVEL	Niveau : %d
+GUILD_SKILL_NAME_0	Briseur de pierres
+GUILD_SKILL_NAME_1	Courroux de la guilde
+GUILD_SKILL_NAME_2	Trempe de guilde
+GUILD_SKILL_NAME_3	Accord temporel
+GUILD_SKILL_NAME_4	Guilde de la fortune
+GUILD_SKILL_NAME_5	Bannière de la fraternité
+GUILD_SKILL_NAME_6	Extension de quêtes
+GUILD_SKILL_NAME_7	Décret du trésor
+GUILD_SKILL_NAME_8	Générosité dorée
+GUILD_SKILL_NAME_9	Résonance d'énergie
+GUILD_SKILL_NEXT	Niveau suivant : %d (Max : 10)
+GUILD_SKILL_PASSIVE_DESC	Les compétences passives sont toujours actives et n'ont pas besoin d'être activées
+GUILD_SKILL_POINT	Point de compétence
+GUILD_SKILL_QUEST_NOTE	Les nouveaux niveaux seront publiés lors de la réinitialisation hebdomadaire des quêtes de la semaine prochaine.
+GUILD_SKILL_RECHARGE	Recharger
+GUILD_SKILL_RESULT_1	Vous n'avez pas l'autorisation pour cette action.
+GUILD_SKILL_RESULT_10	Compétences activées.
+GUILD_SKILL_RESULT_11	L'énergie de l'Esprit du Dragon est déjà au maximum.
+GUILD_SKILL_RESULT_12	Vous n'avez pas d'objet Énergie de guilde.
+GUILD_SKILL_RESULT_13	Énergie rechargée.
+GUILD_SKILL_RESULT_14	Les compétences sont déjà actives.
+GUILD_SKILL_RESULT_2	Vous n'avez aucun objet à donner.
+GUILD_SKILL_RESULT_3	Don terminé : %d EXP de points de compétence.
+GUILD_SKILL_RESULT_4	Pas assez de points de compétence.
+GUILD_SKILL_RESULT_5	Votre guilde n'a pas assez d'Or de guilde.
+GUILD_SKILL_RESULT_6	La compétence est au niveau maximal.
+GUILD_SKILL_RESULT_7	Compétence améliorée.
+GUILD_SKILL_RESULT_8	Votre guilde n'a aucune compétence active.
+GUILD_SKILL_RESULT_9	Pas assez d'énergie.
+GUILD_SKILL_TAB_ACTIVE	Compétence active
+GUILD_SKILL_TAB_DONATION	Don de compétence
+GUILD_SKILL_TAB_PASSIVE	Compétence passive
+GUILD_SKILL_UPGRADE_COST	L'amélioration vous coûtera |cffc79e65%d points de compétence|r et |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Souhaitez-vous améliorer cette compétence ?
+GUILD_WHISPER_DESC	Le chuchotement sera envoyé à tous les membres
+GUILD_WHISPER_INVALID_SENDER	Le nom de l'expéditeur ne peut contenir d'espace ni ||, [, ], #, :.
+GUILD_WHISPER_PRICE	Envoyer (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Nom de l’expéditeur
+GUILD_WHISPER_TEXT	Contenu du chuchotement...
+GUILD_WHISPER_TITLE	Chuchotement de guilde
+GUILD_WINDOW_ACTION_TITLE	Action de guilde
+GUILD_WINDOW_AVERAGE_LEVEL	Niveau moyen
+GUILD_WINDOW_BLESSING_BOSS	Bénédiction du chasseur
+GUILD_WINDOW_BLESSING_DROP	Bénédiction du trésor
+GUILD_WINDOW_BLESSING_DURATION	Durée : 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Bénédiction d'expérience
+GUILD_WINDOW_BLESSING_FISH_MINE	Bénédiction de la récolte
+GUILD_WINDOW_BLESSING_STONE	Bénédiction du briseur de pierres
+GUILD_WINDOW_BLESSING_TITLE	Bénédiction de guilde
+GUILD_WINDOW_BLESSING_YANG	Bénédiction de la chance
+GUILD_WINDOW_CO_LEADER	Co-Leader
+GUILD_WINDOW_DAILY_DONATION	Don quotidien : %d / %d
+GUILD_WINDOW_DECLARE_WAR	Déclarer la guerre
+GUILD_WINDOW_EXCLUDE_QUESTION	Voulez-vous exclure le membre %s de la guilde ?
+GUILD_WINDOW_EXP	Expérience
+GUILD_WINDOW_GOLD	Or de guilde |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Informations de guilde
+GUILD_WINDOW_LEADER	Chef
+GUILD_WINDOW_LEVEL	Niveau de guilde
+GUILD_WINDOW_MANAGEMENT	Gestion de Guilde
+GUILD_WINDOW_MEMBERS	Nombre de membres
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Les joueurs avec l'Aura PvP n'utilisent pas
+GUILD_WINDOW_MEMBER_TOOLTIP_2	le quota de la guilde ; ils ne peuvent
+GUILD_WINDOW_MEMBER_TOOLTIP_3	pas faire de dons ni participer
+GUILD_WINDOW_MEMBER_TOOLTIP_4	aux quêtes de guilde.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Joueurs avec Aura PVP : %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Membres : %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Ajouter un ami
+GUILD_WINDOW_MENU_CHANGE_GRADE	Changer le rang
+GUILD_WINDOW_MENU_COPY_NAME	Copier le nom
+GUILD_WINDOW_MENU_EXCLUDE	Exclure le membre
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Promouvoir Co-Leader
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Retirer du poste de co-chef
+GUILD_WINDOW_MENU_WHISPER	Chuchoter
+GUILD_WINDOW_SEND_WHISPER	Envoyer un chuchotement
+GUILD_WINDOW_TITLE	Guilde
+GUILD_WINDOW_TOTAL_DONATION	Total des dons : %d
+GUILD_WINDOW_UPLOAD	Upload
+TOOLTIP_SHORTCUT_MULTI_BUY	Achat multiple
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Chercher dans la boutique
+TOOLTIP_SHORTCUT_WIKI	Ouvrir Wikipedia

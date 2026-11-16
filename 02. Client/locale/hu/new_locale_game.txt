@@ -1,0 +1,235 @@
+AUTO_LEVEL	Szint %d
+GUILD_APPLICATION_ALL	Mind
+GUILD_APPLICATION_APPLICATION_LIST	Jelentkezési lista
+GUILD_APPLICATION_APPLIED	Jelentkezve
+GUILD_APPLICATION_APPLY	Jelentkezés
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Céh típusának módosítása
+GUILD_APPLICATION_CHANGE_LANGUAGE	Nyelv módosítása
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Min. szint módosítása
+GUILD_APPLICATION_COLUMN_CLASS	Osztály
+GUILD_APPLICATION_COLUMN_EMPIRE	Királyság
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Utolsó belépés
+GUILD_APPLICATION_COLUMN_LEVEL	Szint
+GUILD_APPLICATION_COLUMN_NAME	Név
+GUILD_APPLICATION_COLUMN_SKILL	Készség
+GUILD_APPLICATION_DESCRIPTION	Leírás
+GUILD_APPLICATION_DETAILS_TITLE	Céh részletei
+GUILD_APPLICATION_EMPTY_DESCRIPTION	A céhnek nincs leírása.
+GUILD_APPLICATION_FILTER_TITLE	Szûrõ
+GUILD_APPLICATION_FULL	Tele
+GUILD_APPLICATION_GUILD_NAME	Céh neve
+GUILD_APPLICATION_JOIN	Csatlakozás
+GUILD_APPLICATION_LANGUAGE	Nyelv
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Nem érted el a szükséges szintet
+GUILD_APPLICATION_LIST_TITLE	Céhlista
+GUILD_APPLICATION_MANAGE_GUILD	Céh kezelése
+GUILD_APPLICATION_MEMBERS	Tagok
+GUILD_APPLICATION_MIN_LEVEL	Min. szint
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Céh leírása
+GUILD_APPLICATION_NOTIFICATION_JOIN	Csatlakozás
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Lépj be a céhbe most, és élvezd az elõnyöket
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	A(z) {} céh tagokat keres!
+GUILD_APPLICATION_NO_DESCRIPTION	Nincs leírás
+GUILD_APPLICATION_REQUIRED_LEVEL	Szükséges szint
+GUILD_APPLICATION_STATUS_APPROVAL	Jóváhagyás szükséges
+GUILD_APPLICATION_STATUS_CLOSED	Zárt
+GUILD_APPLICATION_STATUS_OPEN	Nyitott
+GUILD_APPLICATION_TYPE	Típus
+GUILD_APPLICATION_WINDOW_TITLE	Céh jelentkezés
+GUILD_APPLICATION_WRONG_EMPIRE	Rossz királyság
+GUILD_DONATION_BUSY	Ezt a mûveletet jelenleg nem végezheted el.
+GUILD_DONATION_BUTTON	Adomány
+GUILD_DONATION_DAILY	Napi adomány: %d / %d
+GUILD_DONATION_DESC_1	Az adományokkal a szövetséged Céharanyat szerez, képességeket
+GUILD_DONATION_DESC_2	fejleszt, és sok más funkciót old fel
+GUILD_DONATION_HELP	Minden egyes adomány Céh ezüstöt biztosít
+GUILD_DONATION_HELP_ITEM	Tétel
+GUILD_DONATION_HELP_TITLE	Megfogadás
+GUILD_DONATION_LIMIT	Kimerítetted a mai adományozási lehetõségedet.
+GUILD_DONATION_NO_AUTH	Nincs jogosultságod ehhez a mûvelethez.
+GUILD_DONATION_NO_GOLD	A céhnek nincs elég Céharanya.
+GUILD_DONATION_NO_PREMIUM	Nincs elég Nemes Hozzájárulásod.
+GUILD_DONATION_NO_SCROLL	Nincs elég Hozzájárulás Tekercsed.
+GUILD_DONATION_NO_YANG	Nincs elég Yangod.
+GUILD_DONATION_OK	Köszönjük az adományodat.
+GUILD_DONATION_PREMIUM	Nemes Hozzájárulás
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e és %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Hozzájárulás Tekercs
+GUILD_DONATION_SOURCE_PREMIUM	Beszerezhetõ az árucikkboltban
+GUILD_DONATION_SOURCE_SCROLL_1	A napi 'Céh adomány' küldetéssel
+GUILD_DONATION_SOURCE_SCROLL_2	szerezhetõ meg
+GUILD_DONATION_TITLE	Céh adománya
+GUILD_DONATION_WHISPER_SENT	A suttogás elküldve az összes tagnak.
+GUILD_GRADE_AUTH_DUNGEON	Jogosult a Céh kazamata indítására
+GUILD_GRADE_AUTH_INVITE	Felhatalmazott új céhtagok fogadására.
+GUILD_GRADE_AUTH_QUEST	Jogosult a céhes küldetések elindítására és teljesítésére.
+GUILD_GRADE_AUTH_REMOVE	Jogosult a céhtag kizárására.
+GUILD_GRADE_AUTH_SHOP	Engedélyezett a vásárlásra a céhboltban aranyérmékkel.
+GUILD_GRADE_AUTH_UP_SKILL	Jogosult a céhes ismeretek fejlesztésére.
+GUILD_GRADE_AUTH_USE_SKILL	Jogosult a céhes készségek használatára.
+GUILD_GRADE_AUTH_WAR	Jogosult részt venni céhháborúban.
+GUILD_GRADE_AUTH_WHISPER	Felhatalmazott arra, hogy suttogást küldjön az összes céhtagnak.
+GUILD_GRADE_CONFIG_ACCEPT	Elfogad
+GUILD_GRADE_CONFIG_CANCEL	Megszakít
+GUILD_GRADE_CONFIG_NAME	Rang neve
+GUILD_GRADE_CONFIG_PERMISSIONS	Jogosultságok
+GUILD_GRADE_CONFIG_SELECTED	%d kiválasztva
+GUILD_GRADE_CONFIG_TITLE	Rang beállításai
+GUILD_LOG_ACTIVATE	Képesség aktiválva %d órára
+GUILD_LOG_DONATION	Adomány: %dx %s (+%s EXP) (összesen +%s EXP)
+GUILD_LOG_EMPTY	Erre a napra nem áll rendelkezésre elõzmény.
+GUILD_LOG_TITLE_DONATION	Céh anyagadományozási elõzmények
+GUILD_LOG_TITLE_SKILL	Guild Skill History
+GUILD_LOG_UPGRADE	%s szintje %d lett
+GUILD_QUEST_ABORT	Mégse
+GUILD_QUEST_ABORT_QUESTION_1	Arra készülsz, hogy lemondsz egy céhes küldetést
+GUILD_QUEST_ABORT_QUESTION_2	Ez a heti küldetési lehetõség véglegesen elhasználódik.
+GUILD_QUEST_CLAIM	Jutalom
+GUILD_QUEST_DIFFICULTY	Nehézség
+GUILD_QUEST_OBJECTIVE	Célkitûzés
+GUILD_QUEST_OBJECTIVE_1	Pusztíts el %s Metinkövet
+GUILD_QUEST_OBJECTIVE_2	Teljesíts %s kazamatát
+GUILD_QUEST_OBJECTIVE_3	Gyõzz le %s Bosst
+GUILD_QUEST_OBJECTIVE_4	%s Horgászat vagy Bányászat
+GUILD_QUEST_OPTION	Opció
+GUILD_QUEST_RANK_NAME	Név
+GUILD_QUEST_RANK_RANK	Helyezés
+GUILD_QUEST_RANK_SCORE	Pontszám
+GUILD_QUEST_RANK_TITLE	Guild Quest rang
+GUILD_QUEST_REMAINING	Maradék: %d
+GUILD_QUEST_RESULT_ACTIVE	Már van folyamatban lévõ céh küldetés.
+GUILD_QUEST_RESULT_CANCELLED	A céh küldetés megszakítva.
+GUILD_QUEST_RESULT_COMPLETED	A céh küldetés teljesítve.
+GUILD_QUEST_RESULT_NOT_FINISHED	A céh küldetés még nincs teljesítve.
+GUILD_QUEST_RESULT_NO_AUTH	Nincs jogosultságod ehhez a mûvelethez.
+GUILD_QUEST_RESULT_REWARDED	A céh küldetés jutalma átvéve.
+GUILD_QUEST_RESULT_STARTED	A céh küldetés elindult.
+GUILD_QUEST_RESULT_WEEKLY	Nincs több heti lehetõséged ehhez a küldetéshez.
+GUILD_QUEST_REWARD	Jutalom
+GUILD_QUEST_REWARD_VALUE	%s EXP és %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Céh küldetés
+GUILD_QUEST_SIDEBAR_TIME	Hátralévõ idõ: %d p %d mp
+GUILD_QUEST_START	Kezdet
+GUILD_QUEST_START_QUESTION_1	Egy céhes küldetés elindítása elõtt állsz
+GUILD_QUEST_START_QUESTION_2	Biztos vagy benne?
+GUILD_QUEST_TIME	Idõtartam
+GUILD_QUEST_TIME_LEFT	Hátralévõ idõ
+GUILD_QUEST_TITLE_1	Stone Quest
+GUILD_QUEST_TITLE_2	Dungeon Quest
+GUILD_QUEST_TITLE_3	Boss Quest
+GUILD_QUEST_TITLE_4	Munkás küldetés
+GUILD_SHOP_ASK	Biztosan megveszed: %s x%d?
+GUILD_SHOP_ASK_PRICE	Ár: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Ár: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Aranybolt
+GUILD_SHOP_MULTI_BUY	Több vásárlása
+GUILD_SHOP_RESULT_1	A vásárlás megtörtént.
+GUILD_SHOP_RESULT_2	A céh szintje nem elegendõ ehhez a termékhez.
+GUILD_SHOP_RESULT_3	Nincs elég Célezüstöd.
+GUILD_SHOP_RESULT_4	A céhnek nincs elég Céharanya.
+GUILD_SHOP_RESULT_5	Nincs jogosultságod ehhez a mûvelethez.
+GUILD_SHOP_SILVER	Ezüstbolt
+GUILD_SHOP_UNLOCK	Feloldás: %d. szint
+GUILD_SKILL_ACTIVATE	Aktiválás
+GUILD_SKILL_ACTIVATE_COST	%d energia kerül felhasználásra
+GUILD_SKILL_ACTIVATE_QUESTION	Aktiválod a képességeket %d órára?
+GUILD_SKILL_BOOST_1	Istenek amulettje (%d)
+GUILD_SKILL_BOOST_1_DESC	Sikerességi arány 100%
+GUILD_SKILL_BOOST_2	Istenek talizmánja+ (%d)
+GUILD_SKILL_BOOST_2_DESC	Dupla EXP +50%
+GUILD_SKILL_DONATE	Adomány
+GUILD_SKILL_DONATION_ITEM_DESC	Képességpont tapasztalatot adományozhatsz#a céhednek.
+GUILD_SKILL_EFFECT_0	%d%% esély újrasorsolási zsetonra kazamataládából
+GUILD_SKILL_EFFECT_1	Kezdõ Yang a Cirkusz-kazamatában +%d
+GUILD_SKILL_EFFECT_2	Tárgyfejlesztés esélye +%d%%
+GUILD_SKILL_EFFECT_3	Kazamata várakozási idejének csökkenése -%d%%
+GUILD_SKILL_EFFECT_4	Dupla bányászat dobás esélye +%d%%
+GUILD_SKILL_EFFECT_5	Céhtagok kapacitása +%d
+GUILD_SKILL_EFFECT_6	Heti céh küldetések +%d
+GUILD_SKILL_EFFECT_7	Célezüst szerzésének esélye a kazamatákban +%d%%
+GUILD_SKILL_EFFECT_8	Az adományonkénti arany duplázásának esélye +%d%%
+GUILD_SKILL_EFFECT_9	A képességek aktiválásához szükséges energia csökkentve -%d%%
+GUILD_SKILL_EXP_GAIN	Képességpont EXP + %d
+GUILD_SKILL_LEVEL	Szint: %d
+GUILD_SKILL_NAME_0	Kõpusztító
+GUILD_SKILL_NAME_1	A Céh haragja
+GUILD_SKILL_NAME_2	Céh edzés
+GUILD_SKILL_NAME_3	Idõbeli egyezség
+GUILD_SKILL_NAME_4	A Szerencse Céhe
+GUILD_SKILL_NAME_5	Testvériség zászlaja
+GUILD_SKILL_NAME_6	Küldetés bõvítés
+GUILD_SKILL_NAME_7	Kincs rendelet
+GUILD_SKILL_NAME_8	Arany nagylelkûség
+GUILD_SKILL_NAME_9	Energia rezonancia
+GUILD_SKILL_NEXT	Következõ szint: %d (Max: 10)
+GUILD_SKILL_PASSIVE_DESC	A passzív képességek mindig aktívak, nem kell õket aktiválni
+GUILD_SKILL_POINT	Képességpont
+GUILD_SKILL_QUEST_NOTE	Az új szintek a jövõ heti heti küldetés-nullázáskor jelennek meg.
+GUILD_SKILL_RECHARGE	Újratöltés
+GUILD_SKILL_RESULT_1	Nincs jogosultságod ehhez a mûvelethez.
+GUILD_SKILL_RESULT_10	A képességek aktiválva.
+GUILD_SKILL_RESULT_11	A Sárkányszellem-energia már teljesen fel lett töltve.
+GUILD_SKILL_RESULT_12	Nincs Céh Energia tárgyad.
+GUILD_SKILL_RESULT_13	Az energia feltöltve.
+GUILD_SKILL_RESULT_14	A képességek már aktívak.
+GUILD_SKILL_RESULT_2	Nincs adományozható tárgyad.
+GUILD_SKILL_RESULT_3	Adomány teljesítve: %d Képességpont EXP.
+GUILD_SKILL_RESULT_4	Nincs elég Képességpont.
+GUILD_SKILL_RESULT_5	A céhnek nincs elég Céharanya.
+GUILD_SKILL_RESULT_6	A képesség a legmagasabb szinten van.
+GUILD_SKILL_RESULT_7	A képesség fejlesztve.
+GUILD_SKILL_RESULT_8	A céhnek nincs aktív készsége.
+GUILD_SKILL_RESULT_9	Nincs elég energia.
+GUILD_SKILL_TAB_ACTIVE	Aktív képesség
+GUILD_SKILL_TAB_DONATION	Képesség adomány
+GUILD_SKILL_TAB_PASSIVE	Passzív képesség
+GUILD_SKILL_UPGRADE_COST	A fejlesztés |cffc79e65%d Képességpontba|r és |cffc79e65%s|r |Eemoji/guild_gold|e összegbe kerül.
+GUILD_SKILL_UPGRADE_QUESTION	Szeretné fejleszteni ezt a képességet?
+GUILD_WHISPER_DESC	A suttogást minden tag megkapja
+GUILD_WHISPER_INVALID_SENDER	A feladó neve nem tartalmazhat szóközt vagy ||, [, ], #, : karaktert.
+GUILD_WHISPER_PRICE	Küldés (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Feladó neve
+GUILD_WHISPER_TEXT	A suttogás tartalma...
+GUILD_WHISPER_TITLE	Guild Whisper
+GUILD_WINDOW_ACTION_TITLE	Céh akció
+GUILD_WINDOW_AVERAGE_LEVEL	Átlagos szint
+GUILD_WINDOW_BLESSING_BOSS	A Vadász áldása
+GUILD_WINDOW_BLESSING_DROP	A Kincs áldása
+GUILD_WINDOW_BLESSING_DURATION	Idõtartam: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Tapasztalatnövelõ áldás
+GUILD_WINDOW_BLESSING_FISH_MINE	Az aratás bõsége
+GUILD_WINDOW_BLESSING_STONE	A Kõtörõ áldása
+GUILD_WINDOW_BLESSING_TITLE	Céh áldása
+GUILD_WINDOW_BLESSING_YANG	A Szerencse áldása
+GUILD_WINDOW_CO_LEADER	Társvezetõ
+GUILD_WINDOW_DAILY_DONATION	Napi adomány: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Üzenj háborút
+GUILD_WINDOW_EXCLUDE_QUESTION	Ki szeretnéd rúgni %s nevû tagot a céhbõl?
+GUILD_WINDOW_EXP	Tapasztalat
+GUILD_WINDOW_GOLD	Céharany |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	A céh információi
+GUILD_WINDOW_LEADER	Vezeto
+GUILD_WINDOW_LEVEL	Guild szint
+GUILD_WINDOW_MANAGEMENT	Céh kezelése
+GUILD_WINDOW_MEMBERS	Tagok száma
+GUILD_WINDOW_MEMBER_TOOLTIP_1	A PvP Aurával rendelkezõ játékosok nem
+GUILD_WINDOW_MEMBER_TOOLTIP_2	foglalnak helyet a céhben; nem
+GUILD_WINDOW_MEMBER_TOOLTIP_3	adományozhatnak és nem vehetnek részt
+GUILD_WINDOW_MEMBER_TOOLTIP_4	a céh küldetésekben.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	PVP Aurás játékosok: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Tagok: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Barát hozzáadása
+GUILD_WINDOW_MENU_CHANGE_GRADE	Rang módosítása
+GUILD_WINDOW_MENU_COPY_NAME	Név másolása
+GUILD_WINDOW_MENU_EXCLUDE	Tag kizárása
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Elõléptetés társvezetõvé
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Társvezetõi rang elvétele
+GUILD_WINDOW_MENU_WHISPER	Súgás
+GUILD_WINDOW_SEND_WHISPER	Suttogás küldése
+GUILD_WINDOW_TITLE	Céh
+GUILD_WINDOW_TOTAL_DONATION	Összes adomány: %d
+GUILD_WINDOW_UPLOAD	Feltöltés
+TOOLTIP_SHORTCUT_MULTI_BUY	Több vásárlása
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Keresés az üzletben
+TOOLTIP_SHORTCUT_WIKI	Nyissa meg a Wikipédiát

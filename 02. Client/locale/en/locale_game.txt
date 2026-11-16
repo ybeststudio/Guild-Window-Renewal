@@ -1,0 +1,15 @@
+EMPIRE_A	Shinsoo Kingdom
+EMPIRE_B	Chunjo Kingdom
+EMPIRE_C	Jinno Kingdom
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	Height is not 12 Pixel
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	Width is not 16 Pixel
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	The game does not support this picture.
+GUILD_BANKINFO_NAME	Member
+GUILD_INFO_ENEMY_GUILD_EMPTY	None
+GUILD_YOU_DO_NOT_JOIN	You are not a member of any Guild.
+JOB_ASSASSIN	Ninja
+JOB_SHAMAN	Shaman
+JOB_SURA	Sura
+JOB_WARRIOR	Warrior
+JOB_WOLFMAN	Lycan
+UI_NOCONTENTS	No Content

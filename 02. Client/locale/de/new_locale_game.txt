@@ -1,0 +1,235 @@
+AUTO_LEVEL	Stufe %d
+GUILD_APPLICATION_ALL	Alle
+GUILD_APPLICATION_APPLICATION_LIST	Bewerbungsliste
+GUILD_APPLICATION_APPLIED	Beworben
+GUILD_APPLICATION_APPLY	Bewerben
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Gildentyp ändern
+GUILD_APPLICATION_CHANGE_LANGUAGE	Sprache ändern
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Min. Level ändern
+GUILD_APPLICATION_COLUMN_CLASS	Klasse
+GUILD_APPLICATION_COLUMN_EMPIRE	Reich
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Letztes Spiel
+GUILD_APPLICATION_COLUMN_LEVEL	Level
+GUILD_APPLICATION_COLUMN_NAME	Name
+GUILD_APPLICATION_COLUMN_SKILL	Fertigkeit
+GUILD_APPLICATION_DESCRIPTION	Beschreibung
+GUILD_APPLICATION_DETAILS_TITLE	Gildendetails
+GUILD_APPLICATION_EMPTY_DESCRIPTION	Die Gilde hat keine Beschreibung.
+GUILD_APPLICATION_FILTER_TITLE	Filter
+GUILD_APPLICATION_FULL	Voll
+GUILD_APPLICATION_GUILD_NAME	Gildenname
+GUILD_APPLICATION_JOIN	Beitreten
+GUILD_APPLICATION_LANGUAGE	Sprache
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Du hast nicht das erforderliche Level
+GUILD_APPLICATION_LIST_TITLE	Gildenliste
+GUILD_APPLICATION_MANAGE_GUILD	Gilde verwalten
+GUILD_APPLICATION_MEMBERS	Mitglieder
+GUILD_APPLICATION_MIN_LEVEL	Min. Level
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Gildenbeschreibung
+GUILD_APPLICATION_NOTIFICATION_JOIN	Beitreten
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Jetzt der Gilde beitreten und Vorteile genießen
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	Die Gilde {} sucht Mitglieder!
+GUILD_APPLICATION_NO_DESCRIPTION	Keine Beschreibung
+GUILD_APPLICATION_REQUIRED_LEVEL	Benötigtes Level
+GUILD_APPLICATION_STATUS_APPROVAL	Genehmigung
+GUILD_APPLICATION_STATUS_CLOSED	Geschlossen
+GUILD_APPLICATION_STATUS_OPEN	Offen
+GUILD_APPLICATION_TYPE	Typ
+GUILD_APPLICATION_WINDOW_TITLE	Gildenbewerbung
+GUILD_APPLICATION_WRONG_EMPIRE	Falsches Reich
+GUILD_DONATION_BUSY	Du kannst das derzeit nicht tun.
+GUILD_DONATION_BUTTON	Spenden
+GUILD_DONATION_DAILY	Täglich geben: %d / %d
+GUILD_DONATION_DESC_1	Spenden helfen deiner Allianz, Gildengold zu verdienen, Fertigkeiten
+GUILD_DONATION_DESC_2	zu verbessern und viele weitere Funktionen freizuschalten
+GUILD_DONATION_HELP	Jede Spende bringt dir Gilden-Silber
+GUILD_DONATION_HELP_ITEM	Item
+GUILD_DONATION_HELP_TITLE	Erhalt
+GUILD_DONATION_LIMIT	Du hast dein heutiges Spendenlimit erreicht.
+GUILD_DONATION_NO_AUTH	Dafür hast du keine Berechtigung.
+GUILD_DONATION_NO_GOLD	Deine Gilde hat nicht genug Gildengold.
+GUILD_DONATION_NO_PREMIUM	Du hast nicht genug Edle Beiträge.
+GUILD_DONATION_NO_SCROLL	Du hast nicht genug Beitragsrollen.
+GUILD_DONATION_NO_YANG	Du hast nicht genug Yang.
+GUILD_DONATION_OK	Danke für deine Spende.
+GUILD_DONATION_PREMIUM	Edler Beitrag
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e und %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Beitragsrolle
+GUILD_DONATION_SOURCE_PREMIUM	Erhältlich im Item-Shop
+GUILD_DONATION_SOURCE_SCROLL_1	Erhältlich durch die tägliche
+GUILD_DONATION_SOURCE_SCROLL_2	Mission 'Gildenspende'
+GUILD_DONATION_TITLE	Gildenspende
+GUILD_DONATION_WHISPER_SENT	Die Nachricht wurde an alle Mitglieder gesendet.
+GUILD_GRADE_AUTH_DUNGEON	Berechtigt, den Gilden-Dungeon zu starten
+GUILD_GRADE_AUTH_INVITE	Berechtigt, neue Gildenmitglieder anzunehmen.
+GUILD_GRADE_AUTH_QUEST	Berechtigt, Gildenquests zu starten und abzuschließen.
+GUILD_GRADE_AUTH_REMOVE	Berechtigt, Gildenmitglieder auszuschließen.
+GUILD_GRADE_AUTH_SHOP	Berechtigt, im Gildenshop mit Gildenmünzen zu kaufen.
+GUILD_GRADE_AUTH_UP_SKILL	Berechtigt, Gildenfertigkeiten zu verbessern.
+GUILD_GRADE_AUTH_USE_SKILL	Berechtigt, Gildenfertigkeiten zu nutzen.
+GUILD_GRADE_AUTH_WAR	Berechtigt, an einem Gildenkrieg teilzunehmen.
+GUILD_GRADE_AUTH_WHISPER	Berechtigt, allen Gildenmitgliedern Privatnachrichten zu senden.
+GUILD_GRADE_CONFIG_ACCEPT	Annehmen
+GUILD_GRADE_CONFIG_CANCEL	Abbruch
+GUILD_GRADE_CONFIG_NAME	Rangname
+GUILD_GRADE_CONFIG_PERMISSIONS	Berechtigungen
+GUILD_GRADE_CONFIG_SELECTED	%d ausgewählt
+GUILD_GRADE_CONFIG_TITLE	Rangeinstellungen
+GUILD_LOG_ACTIVATE	Fertigkeit für %d Stunde(n) aktiviert
+GUILD_LOG_DONATION	Spende: %dx %s (+%s EXP) (insgesamt +%s EXP)
+GUILD_LOG_EMPTY	Für diesen Tag ist kein Verlauf verfügbar.
+GUILD_LOG_TITLE_DONATION	Gildenmaterial Spendenverlauf
+GUILD_LOG_TITLE_SKILL	Gildenfertigkeiten Verlauf
+GUILD_LOG_UPGRADE	%s hat Stufe %d erreicht
+GUILD_QUEST_ABORT	Abbrechen
+GUILD_QUEST_ABORT_QUESTION_1	Du bist dabei, eine Gildenquest abzubrechen
+GUILD_QUEST_ABORT_QUESTION_2	Dieser Versuch für die wöchentliche Quest wird dauerhaft verbraucht.
+GUILD_QUEST_CLAIM	Belohnung holen
+GUILD_QUEST_DIFFICULTY	Schwierigkeit
+GUILD_QUEST_OBJECTIVE	Ziel
+GUILD_QUEST_OBJECTIVE_1	Zerstöre %s Metinsteine
+GUILD_QUEST_OBJECTIVE_2	Schließe %s Dungeons ab
+GUILD_QUEST_OBJECTIVE_3	Besiege %s Bosse
+GUILD_QUEST_OBJECTIVE_4	%s x Angeln oder Schürfen
+GUILD_QUEST_OPTION	Option
+GUILD_QUEST_RANK_NAME	Name
+GUILD_QUEST_RANK_RANK	Rang
+GUILD_QUEST_RANK_SCORE	Punkte
+GUILD_QUEST_RANK_TITLE	Gildenquest Rang
+GUILD_QUEST_REMAINING	Verbleibend: %d
+GUILD_QUEST_RESULT_ACTIVE	Es läuft bereits eine Gildenmission.
+GUILD_QUEST_RESULT_CANCELLED	Die Gildenmission wurde abgebrochen.
+GUILD_QUEST_RESULT_COMPLETED	Die Gildenmission wurde abgeschlossen.
+GUILD_QUEST_RESULT_NOT_FINISHED	Die Gildenmission ist noch nicht abgeschlossen.
+GUILD_QUEST_RESULT_NO_AUTH	Dafür hast du keine Berechtigung.
+GUILD_QUEST_RESULT_REWARDED	Die Belohnung der Gildenmission wurde erhalten.
+GUILD_QUEST_RESULT_STARTED	Die Gildenmission hat begonnen.
+GUILD_QUEST_RESULT_WEEKLY	Du hast für diese Mission keine wöchentlichen Versuche mehr.
+GUILD_QUEST_REWARD	Belohnung
+GUILD_QUEST_REWARD_VALUE	%s EXP & %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Gildenmission
+GUILD_QUEST_SIDEBAR_TIME	Verbleibende Zeit: %d Min. %d Sek.
+GUILD_QUEST_START	Anfang
+GUILD_QUEST_START_QUESTION_1	Du bist dabei, eine Gildenquest zu starten
+GUILD_QUEST_START_QUESTION_2	Bist du sicher?
+GUILD_QUEST_TIME	Dauer
+GUILD_QUEST_TIME_LEFT	Verbleibende Zeit
+GUILD_QUEST_TITLE_1	Metin Quest
+GUILD_QUEST_TITLE_2	Dungeon Quest
+GUILD_QUEST_TITLE_3	Boss Quest
+GUILD_QUEST_TITLE_4	Arbeiter Quest
+GUILD_SHOP_ASK	Möchtest du %s x%d wirklich kaufen?
+GUILD_SHOP_ASK_PRICE	Preis: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Preis: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Gold Shop
+GUILD_SHOP_MULTI_BUY	Mehrfach kaufen
+GUILD_SHOP_RESULT_1	Kauf abgeschlossen.
+GUILD_SHOP_RESULT_2	Die Gildenstufe reicht für diesen Artikel nicht aus.
+GUILD_SHOP_RESULT_3	Du hast nicht genug Gildensilber.
+GUILD_SHOP_RESULT_4	Deine Gilde hat nicht genug Gildengold.
+GUILD_SHOP_RESULT_5	Dafür hast du keine Berechtigung.
+GUILD_SHOP_SILVER	Silber Shop
+GUILD_SHOP_UNLOCK	Freischaltung ab Lv. %d
+GUILD_SKILL_ACTIVATE	Aktivieren
+GUILD_SKILL_ACTIVATE_COST	%d Energie werden verbraucht
+GUILD_SKILL_ACTIVATE_QUESTION	Fertigkeiten für %d Stunde(n) aktivieren?
+GUILD_SKILL_BOOST_1	Amulett der Götter (%d)
+GUILD_SKILL_BOOST_1_DESC	Erfolgsrate 100%
+GUILD_SKILL_BOOST_2	Talisman der Götter+ (%d)
+GUILD_SKILL_BOOST_2_DESC	Doppelte EXP +50%
+GUILD_SKILL_DONATE	Spenden
+GUILD_SKILL_DONATION_ITEM_DESC	Ermöglicht es dir, Fertigkeitspunkt-Erfahrung#an deine Gilde zu spenden.
+GUILD_SKILL_EFFECT_0	%d%% Chance auf Reroll-Token aus Dungeontruhen
+GUILD_SKILL_EFFECT_1	Startgold im Zirkus-Dungeon +%d
+GUILD_SKILL_EFFECT_2	Chance auf Gegenstandsverbesserung +%d%%
+GUILD_SKILL_EFFECT_3	Verringerte Dungeon-Abklingzeit -%d%%
+GUILD_SKILL_EFFECT_4	Chance auf doppelten Erz-Drop +%d%%
+GUILD_SKILL_EFFECT_5	Kapazität der Gildenmitglieder +%d
+GUILD_SKILL_EFFECT_6	Wöchentliche Gildenmissionen +%d
+GUILD_SKILL_EFFECT_7	Chance auf Gildensilber in Dungeons +%d%%
+GUILD_SKILL_EFFECT_8	Chance, das Gold pro Spende zu verdoppeln +%d%%
+GUILD_SKILL_EFFECT_9	Energieverbrauch beim Aktivieren von Fertigkeiten verringert -%d%%
+GUILD_SKILL_EXP_GAIN	Fertigkeitspunkt-EXP + %d
+GUILD_SKILL_LEVEL	Level: %d
+GUILD_SKILL_NAME_0	Steinzerstörer
+GUILD_SKILL_NAME_1	Zorn der Gilde
+GUILD_SKILL_NAME_2	Gildenschmiedekunst
+GUILD_SKILL_NAME_3	Zeitliches Abkommen
+GUILD_SKILL_NAME_4	Gilde des Glücks
+GUILD_SKILL_NAME_5	Banner der Bruderschaft
+GUILD_SKILL_NAME_6	Missionserweiterung
+GUILD_SKILL_NAME_7	Schatzdekret
+GUILD_SKILL_NAME_8	Goldene Großzügigkeit
+GUILD_SKILL_NAME_9	Energieresonanz
+GUILD_SKILL_NEXT	Nächste Stufe: %d (Max: 10)
+GUILD_SKILL_PASSIVE_DESC	Passive Fertigkeiten sind immer aktiv und müssen nicht aktiviert werden
+GUILD_SKILL_POINT	Fertigkeitspunkt
+GUILD_SKILL_QUEST_NOTE	Neue Level gelten ab dem nächsten wöchentlichen Quest Reset.
+GUILD_SKILL_RECHARGE	Aufladen
+GUILD_SKILL_RESULT_1	Dafür hast du keine Berechtigung.
+GUILD_SKILL_RESULT_10	Die Fertigkeiten wurden aktiviert.
+GUILD_SKILL_RESULT_11	Die Drachengeist-Energie ist bereits vollständig aufgeladen.
+GUILD_SKILL_RESULT_12	Du hast keinen Gildenenergie-Gegenstand.
+GUILD_SKILL_RESULT_13	Die Energie wurde aufgeladen.
+GUILD_SKILL_RESULT_14	Die Fertigkeiten sind bereits aktiv.
+GUILD_SKILL_RESULT_2	Du hast keinen Gegenstand zum Spenden.
+GUILD_SKILL_RESULT_3	Spende abgeschlossen: %d Fertigkeitspunkt-EXP.
+GUILD_SKILL_RESULT_4	Du hast nicht genug Fertigkeitspunkte.
+GUILD_SKILL_RESULT_5	Deine Gilde hat nicht genug Gildengold.
+GUILD_SKILL_RESULT_6	Die Fertigkeit hat bereits die höchste Stufe.
+GUILD_SKILL_RESULT_7	Die Fertigkeit wurde verbessert.
+GUILD_SKILL_RESULT_8	Deine Gilde hat keine aktiven Fertigkeiten.
+GUILD_SKILL_RESULT_9	Du hast nicht genug Energie.
+GUILD_SKILL_TAB_ACTIVE	Aktive Fertigkeit
+GUILD_SKILL_TAB_DONATION	Fertigkeitsspende
+GUILD_SKILL_TAB_PASSIVE	Passive Fertigkeit
+GUILD_SKILL_UPGRADE_COST	Die Verbesserung kostet dich |cffc79e65%d Fertigkeitspunkte|r und |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Möchtest du diese Fertigkeit verbessern?
+GUILD_WHISPER_DESC	Der Whisper wird an alle Mitglieder gesendet
+GUILD_WHISPER_INVALID_SENDER	Der Absendername darf keine Leerzeichen oder ||, [, ], #, : enthalten.
+GUILD_WHISPER_PRICE	Senden (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Absendername
+GUILD_WHISPER_TEXT	Inhalt des Whispers...
+GUILD_WHISPER_TITLE	Gilden-Whisper
+GUILD_WINDOW_ACTION_TITLE	Gildenaktion
+GUILD_WINDOW_AVERAGE_LEVEL	Durchschnittslevel
+GUILD_WINDOW_BLESSING_BOSS	Segen des Jägers
+GUILD_WINDOW_BLESSING_DROP	Segen des Schatzes
+GUILD_WINDOW_BLESSING_DURATION	Dauer: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Segen der Erfahrungssteigerung
+GUILD_WINDOW_BLESSING_FISH_MINE	Segen der Ernte
+GUILD_WINDOW_BLESSING_STONE	Segen des Steinbrechers
+GUILD_WINDOW_BLESSING_TITLE	Gilden Segen
+GUILD_WINDOW_BLESSING_YANG	Segen des Glücks
+GUILD_WINDOW_CO_LEADER	Co-Leader
+GUILD_WINDOW_DAILY_DONATION	Tägliche Spende: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Krieg erklären
+GUILD_WINDOW_EXCLUDE_QUESTION	Möchtest du das Mitglied %s aus der Gilde werfen?
+GUILD_WINDOW_EXP	Erfahrung
+GUILD_WINDOW_GOLD	Gildengold |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Gildeninfo
+GUILD_WINDOW_LEADER	Leader
+GUILD_WINDOW_LEVEL	Gildenlevel
+GUILD_WINDOW_MANAGEMENT	Gildenverwaltung
+GUILD_WINDOW_MEMBERS	Mitgliederzahl
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Spieler mit PvP-Aura belegen keinen Platz in der Gilde,
+GUILD_WINDOW_MEMBER_TOOLTIP_2	können nicht spenden
+GUILD_WINDOW_MEMBER_TOOLTIP_3	und nicht an Gildenmissionen
+GUILD_WINDOW_MEMBER_TOOLTIP_4	teilnehmen.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Spieler mit PVP Aura: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Mitglieder: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Freund hinzufügen
+GUILD_WINDOW_MENU_CHANGE_GRADE	Rang ändern
+GUILD_WINDOW_MENU_COPY_NAME	Namen kopieren
+GUILD_WINDOW_MENU_EXCLUDE	Mitglied entfernen
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Zum Co-Leader befördern
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Co-Anführer degradieren
+GUILD_WINDOW_MENU_WHISPER	Flüstern
+GUILD_WINDOW_SEND_WHISPER	Privatnachricht senden
+GUILD_WINDOW_TITLE	Gilde
+GUILD_WINDOW_TOTAL_DONATION	Gesamtspende: %d
+GUILD_WINDOW_UPLOAD	Hochladen
+TOOLTIP_SHORTCUT_MULTI_BUY	Mehrfach kaufen
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Shop durchsuchen
+TOOLTIP_SHORTCUT_WIKI	Wikipedia öffnen

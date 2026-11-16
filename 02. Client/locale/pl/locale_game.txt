@@ -1,0 +1,15 @@
+EMPIRE_A	Królestwo Shinsoo
+EMPIRE_B	Królestwo Chunjo
+EMPIRE_C	Królestwo Jinno
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	Wysokoœæ nie ma 12px.
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	Szerokoœæ nie ma 16px.
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	Gra nie obs³uguje tego obrazka.
+GUILD_BANKINFO_NAME	Cz³onek gildii
+GUILD_INFO_ENEMY_GUILD_EMPTY	Nikt
+GUILD_YOU_DO_NOT_JOIN	Nie jesteœ cz³onkiem ¿adnej Gildii.
+JOB_ASSASSIN	Ninja
+JOB_SHAMAN	Szaman
+JOB_SURA	Sura
+JOB_WARRIOR	Wojownik
+JOB_WOLFMAN	Likan
+UI_NOCONTENTS	Brak Zawartoœci

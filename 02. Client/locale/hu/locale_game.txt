@@ -1,0 +1,15 @@
+EMPIRE_A	Shinsoo birodalom
+EMPIRE_B	Chunjo birodalom
+EMPIRE_C	Jinno birodalom
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	A magasság nem 12 pixel
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	A szélesség nem 16 pixel
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	A játék nem támogatja ezt a képernyõt.
+GUILD_BANKINFO_NAME	Tag
+GUILD_INFO_ENEMY_GUILD_EMPTY	Nincs
+GUILD_YOU_DO_NOT_JOIN	Nem tartozol céhhez.
+JOB_ASSASSIN	Nindzsa
+JOB_SHAMAN	Sámán
+JOB_SURA	Sura
+JOB_WARRIOR	Harcos
+JOB_WOLFMAN	Vérfarkas
+UI_NOCONTENTS	Nincs tartalom

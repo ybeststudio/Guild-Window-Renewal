@@ -1,0 +1,15 @@
+EMPIRE_A	Království Shinsoo
+EMPIRE_B	Království Chunjo
+EMPIRE_C	Království Jinno
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	Výška není 12 pixelù.
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	Šíøka není 16 pixelù.
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	Hra nepodporuje tento obrázek.
+GUILD_BANKINFO_NAME	Èlen
+GUILD_INFO_ENEMY_GUILD_EMPTY	Žádná
+GUILD_YOU_DO_NOT_JOIN	Nepatøíš k žádnému cechu.
+JOB_ASSASSIN	Ninja
+JOB_SHAMAN	Šaman
+JOB_SURA	Sura
+JOB_WARRIOR	Váleèník
+JOB_WOLFMAN	Lycan
+UI_NOCONTENTS	Bez obsahu

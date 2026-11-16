@@ -1,0 +1,235 @@
+AUTO_LEVEL	Poziom %d
+GUILD_APPLICATION_ALL	Wszystkie
+GUILD_APPLICATION_APPLICATION_LIST	Lista aplikacji
+GUILD_APPLICATION_APPLIED	Z³o¿ono aplikacjê
+GUILD_APPLICATION_APPLY	Aplikuj
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Zmieñ typ gildii
+GUILD_APPLICATION_CHANGE_LANGUAGE	Zmieñ jêzyk
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Zmieñ minimalny poziom
+GUILD_APPLICATION_COLUMN_CLASS	Klasa
+GUILD_APPLICATION_COLUMN_EMPIRE	Imperium
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Ostatnia aktywnoœæ
+GUILD_APPLICATION_COLUMN_LEVEL	Poziom
+GUILD_APPLICATION_COLUMN_NAME	Nazwa
+GUILD_APPLICATION_COLUMN_SKILL	Umiejêtnoœæ
+GUILD_APPLICATION_DESCRIPTION	Opis
+GUILD_APPLICATION_DETAILS_TITLE	Szczegó³y Gildii
+GUILD_APPLICATION_EMPTY_DESCRIPTION	Gildia nie ma opisu.
+GUILD_APPLICATION_FILTER_TITLE	Filtr
+GUILD_APPLICATION_FULL	Pe³na
+GUILD_APPLICATION_GUILD_NAME	Nazwa Gildii
+GUILD_APPLICATION_JOIN	Do³¹cz
+GUILD_APPLICATION_LANGUAGE	Jêzyk
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Nie masz wymaganego poziomu
+GUILD_APPLICATION_LIST_TITLE	Lista Gildii
+GUILD_APPLICATION_MANAGE_GUILD	Zarz¹dzaj Gildi¹
+GUILD_APPLICATION_MEMBERS	Cz³onkowie
+GUILD_APPLICATION_MIN_LEVEL	Minimalny poziom
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Opis Gildii
+GUILD_APPLICATION_NOTIFICATION_JOIN	Do³¹cz
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Do³¹cz do gildii teraz i korzystaj z bonusów
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	Gildia {} rekrutuje!
+GUILD_APPLICATION_NO_DESCRIPTION	Brak opisu
+GUILD_APPLICATION_REQUIRED_LEVEL	Wymagany poziom
+GUILD_APPLICATION_STATUS_APPROVAL	Oczekuje na akceptacjê
+GUILD_APPLICATION_STATUS_CLOSED	Zamkniête
+GUILD_APPLICATION_STATUS_OPEN	Otwarte
+GUILD_APPLICATION_TYPE	Typ
+GUILD_APPLICATION_WINDOW_TITLE	Aplikacja do Gildii
+GUILD_APPLICATION_WRONG_EMPIRE	Z³e królestwo
+GUILD_DONATION_BUSY	Nie mo¿esz teraz wykonaæ tej czynnoœci.
+GUILD_DONATION_BUTTON	Przeka¿
+GUILD_DONATION_DAILY	Dzienne darowizny: %d / %d
+GUILD_DONATION_DESC_1	Darowizny pozwalaj¹ twojemu sojuszowi zdobywaæ Z³oto Gildii, ulepszaæ umiejêtnoœci
+GUILD_DONATION_DESC_2	i odblokowywaæ wiele innych funkcji
+GUILD_DONATION_HELP	Ka¿da darowizna zapewni Ci Srebro Gildii
+GUILD_DONATION_HELP_ITEM	Przedmiot
+GUILD_DONATION_HELP_TITLE	Uzyskanie
+GUILD_DONATION_LIMIT	Wykorzysta³eœ dzisiejszy limit darowizn.
+GUILD_DONATION_NO_AUTH	Nie masz uprawnieñ do tej czynnoœci.
+GUILD_DONATION_NO_GOLD	Twoja gildia nie ma wystarczaj¹co Z³ota Gildii.
+GUILD_DONATION_NO_PREMIUM	Nie masz wystarczaj¹cej iloœci Szlachetnych Darów.
+GUILD_DONATION_NO_SCROLL	Nie masz wystarczaj¹cej iloœci Zwojów Darowizny.
+GUILD_DONATION_NO_YANG	Nie masz wystarczaj¹co Yang.
+GUILD_DONATION_OK	Dziêkujemy za darowiznê.
+GUILD_DONATION_PREMIUM	Szlachetny Dar
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e i %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Zwój Darowizny
+GUILD_DONATION_SOURCE_PREMIUM	Mo¿na go kupiæ w sklepie z przedmiotami
+GUILD_DONATION_SOURCE_SCROLL_1	W dziennym zadaniu 'Darowizna dla gildii'
+GUILD_DONATION_SOURCE_SCROLL_2	mo¿na go zdobyæ
+GUILD_DONATION_TITLE	Darowizna Gildii
+GUILD_DONATION_WHISPER_SENT	Szept zosta³ wys³any do wszystkich cz³onków.
+GUILD_GRADE_AUTH_DUNGEON	Ma uprawnienia do rozpoczynania lochu gildii
+GUILD_GRADE_AUTH_INVITE	Uprawniony do przyjmowania nowych cz³onków gildii.
+GUILD_GRADE_AUTH_QUEST	Uprawniony do rozpoczynania i koñczenia zadañ gildii.
+GUILD_GRADE_AUTH_REMOVE	Uprawniony do wydalenia cz³onka gildii.
+GUILD_GRADE_AUTH_SHOP	Uprawniony do zakupu w sklepie gildii za z³ote monety.
+GUILD_GRADE_AUTH_UP_SKILL	Uprawniony do ulepszania umiejêtnoœci gildii.
+GUILD_GRADE_AUTH_USE_SKILL	Uprawniony do korzystania z umiejêtnoœci gildii.
+GUILD_GRADE_AUTH_WAR	Uprawniony do udzia³u w wojnie gildii.
+GUILD_GRADE_AUTH_WHISPER	Uprawniony do wysy³ania szeptów do wszystkich cz³onków gildii.
+GUILD_GRADE_CONFIG_ACCEPT	Akceptuj
+GUILD_GRADE_CONFIG_CANCEL	Anuluj
+GUILD_GRADE_CONFIG_NAME	Nazwa rangi
+GUILD_GRADE_CONFIG_PERMISSIONS	Uprawnienia
+GUILD_GRADE_CONFIG_SELECTED	Wybrano %d
+GUILD_GRADE_CONFIG_TITLE	Ustawienia rangi
+GUILD_LOG_ACTIVATE	Umiejêtnoœæ aktywowana na %d godz.
+GUILD_LOG_DONATION	Darowizna: %dx %s (+%s PE) (³¹cznie +%s PE)
+GUILD_LOG_EMPTY	Brak historii dla tego dnia.
+GUILD_LOG_TITLE_DONATION	Historia donacji materia³ów gildyjnych
+GUILD_LOG_TITLE_SKILL	Historia umiejêtnoœci gildii
+GUILD_LOG_UPGRADE	%s osi¹gn¹³ poziom %d
+GUILD_QUEST_ABORT	Anulowaæ
+GUILD_QUEST_ABORT_QUESTION_1	Zamierzasz anulowaæ zadanie gildii
+GUILD_QUEST_ABORT_QUESTION_2	Ta cotygodniowa próba questa zostanie trwale zu¿yta.
+GUILD_QUEST_CLAIM	Zdob¹dŸ nagrodê
+GUILD_QUEST_DIFFICULTY	Trudnoœæ
+GUILD_QUEST_OBJECTIVE	Cel
+GUILD_QUEST_OBJECTIVE_1	Zniszcz Kamienie Metin: %s
+GUILD_QUEST_OBJECTIVE_2	Ukoñcz lochy: %s
+GUILD_QUEST_OBJECTIVE_3	Pokonaj bossów: %s
+GUILD_QUEST_OBJECTIVE_4	Wêdkarstwo lub górnictwo: %s
+GUILD_QUEST_OPTION	Opcja
+GUILD_QUEST_RANK_NAME	Nazwa
+GUILD_QUEST_RANK_RANK	Ranga
+GUILD_QUEST_RANK_SCORE	Wynik
+GUILD_QUEST_RANK_TITLE	Ranga Zadañ Gildii
+GUILD_QUEST_REMAINING	Pozosta³o: %d
+GUILD_QUEST_RESULT_ACTIVE	Masz ju¿ trwaj¹ce zadanie gildii.
+GUILD_QUEST_RESULT_CANCELLED	Zadanie gildii zosta³o anulowane.
+GUILD_QUEST_RESULT_COMPLETED	Zadanie gildii zosta³o ukoñczone.
+GUILD_QUEST_RESULT_NOT_FINISHED	Zadanie gildii nie zosta³o jeszcze ukoñczone.
+GUILD_QUEST_RESULT_NO_AUTH	Nie masz uprawnieñ do tej czynnoœci.
+GUILD_QUEST_RESULT_REWARDED	Odebrano nagrodê za zadanie gildii.
+GUILD_QUEST_RESULT_STARTED	Zadanie gildii rozpoczête.
+GUILD_QUEST_RESULT_WEEKLY	Wykorzysta³eœ tygodniowy limit tego zadania.
+GUILD_QUEST_REWARD	Nagroda
+GUILD_QUEST_REWARD_VALUE	%s PE i %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Zadanie gildii
+GUILD_QUEST_SIDEBAR_TIME	Pozosta³y czas: %d min %d s
+GUILD_QUEST_START	Pocz¹tek
+GUILD_QUEST_START_QUESTION_1	Za chwilê rozpoczniesz misjê gildii
+GUILD_QUEST_START_QUESTION_2	Czy jesteœ pewien?
+GUILD_QUEST_TIME	Czas trwania
+GUILD_QUEST_TIME_LEFT	Czas pozosta³y
+GUILD_QUEST_TITLE_1	Metin
+GUILD_QUEST_TITLE_2	Misja Dungeonu
+GUILD_QUEST_TITLE_3	Zadanie Bossa
+GUILD_QUEST_TITLE_4	Zadanie pracownika
+GUILD_SHOP_ASK	Czy na pewno chcesz kupiæ %s x%d?
+GUILD_SHOP_ASK_PRICE	Cena: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Cena: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Sklep ze z³otem
+GUILD_SHOP_MULTI_BUY	Kup wiele
+GUILD_SHOP_RESULT_1	Zakup zakoñczony.
+GUILD_SHOP_RESULT_2	Poziom gildii jest za niski dla tego produktu.
+GUILD_SHOP_RESULT_3	Nie masz wystarczaj¹co Srebra Gildii.
+GUILD_SHOP_RESULT_4	Twoja gildia nie ma wystarczaj¹co Z³ota Gildii.
+GUILD_SHOP_RESULT_5	Nie masz uprawnieñ do tej czynnoœci.
+GUILD_SHOP_SILVER	Sklep ze srebrem
+GUILD_SHOP_UNLOCK	Odblokowanie: poz. %d
+GUILD_SKILL_ACTIVATE	Aktywuj
+GUILD_SKILL_ACTIVATE_COST	Zostanie zu¿yte energii: %d
+GUILD_SKILL_ACTIVATE_QUESTION	Aktywowaæ umiejêtnoœci na %d godz.?
+GUILD_SKILL_BOOST_1	Amulet Bogów (%d)
+GUILD_SKILL_BOOST_1_DESC	Szansa powodzenia 100%
+GUILD_SKILL_BOOST_2	Talizman Bogów+ (%d)
+GUILD_SKILL_BOOST_2_DESC	Podwójne PE +50%
+GUILD_SKILL_DONATE	Przeka¿
+GUILD_SKILL_DONATION_ITEM_DESC	Pozwala przekazaæ gildii#PE punktów umiejêtnoœci.
+GUILD_SKILL_EFFECT_0	%d%% szans na ¿eton zmiany ze skrzyni lochu
+GUILD_SKILL_EFFECT_1	Pocz¹tkowe Yang w lochu cyrkowym +%d
+GUILD_SKILL_EFFECT_2	Szansa na ulepszenie przedmiotu +%d%%
+GUILD_SKILL_EFFECT_3	Skrócenie czasu odnowienia lochu -%d%%
+GUILD_SKILL_EFFECT_4	Szansa na podwójny drop z kopania +%d%%
+GUILD_SKILL_EFFECT_5	Pojemnoœæ gildii +%d
+GUILD_SKILL_EFFECT_6	Tygodniowe zadania gildii +%d
+GUILD_SKILL_EFFECT_7	Szansa na zdobycie Srebra Gildii w lochach +%d%%
+GUILD_SKILL_EFFECT_8	Szansa na podwojenie Yang za darowiznê +%d%%
+GUILD_SKILL_EFFECT_9	Zmniejszono zu¿ycie energii przy aktywacji umiejêtnoœci -%d%%
+GUILD_SKILL_EXP_GAIN	PE punktów umiejêtnoœci + %d
+GUILD_SKILL_LEVEL	Poziom: %d
+GUILD_SKILL_NAME_0	Niszczyciel Kamieni
+GUILD_SKILL_NAME_1	Gniew Gildii
+GUILD_SKILL_NAME_2	Hartowanie Gildii
+GUILD_SKILL_NAME_3	Zgoda Czasu
+GUILD_SKILL_NAME_4	Gildia Fortuny
+GUILD_SKILL_NAME_5	Sztandar Braterstwa
+GUILD_SKILL_NAME_6	Rozszerzenie Zadañ
+GUILD_SKILL_NAME_7	Dekret Skarbu
+GUILD_SKILL_NAME_8	Z³ota Hojnoœæ
+GUILD_SKILL_NAME_9	Rezonans Energii
+GUILD_SKILL_NEXT	Nastêpny poziom: %d (maks.: 10)
+GUILD_SKILL_PASSIVE_DESC	Umiejêtnoœci pasywne s¹ zawsze aktywne i nie wymagaj¹ aktywacji
+GUILD_SKILL_POINT	Punkt umiejêtnoœci
+GUILD_SKILL_QUEST_NOTE	Nowe poziomy wchodz¹ w ¿ycie przy nastêpnym cotygodniowym resecie questów.
+GUILD_SKILL_RECHARGE	Na³aduj
+GUILD_SKILL_RESULT_1	Nie masz uprawnieñ do tej czynnoœci.
+GUILD_SKILL_RESULT_10	Umiejêtnoœci zosta³y aktywowane.
+GUILD_SKILL_RESULT_11	Energia Ducha Smoka jest ju¿ w pe³ni zregenerowana.
+GUILD_SKILL_RESULT_12	Nie masz przedmiotu Energia Gildii.
+GUILD_SKILL_RESULT_13	Energia zosta³a uzupe³niona.
+GUILD_SKILL_RESULT_14	Umiejêtnoœci s¹ ju¿ aktywne.
+GUILD_SKILL_RESULT_2	Nie masz przedmiotu do przekazania.
+GUILD_SKILL_RESULT_3	Darowizna zakoñczona: %d PE punktów umiejêtnoœci.
+GUILD_SKILL_RESULT_4	Brak wystarczaj¹cej liczby punktów umiejêtnoœci.
+GUILD_SKILL_RESULT_5	Twoja gildia nie ma wystarczaj¹co Z³ota Gildii.
+GUILD_SKILL_RESULT_6	Umiejêtnoœæ jest na najwy¿szym poziomie.
+GUILD_SKILL_RESULT_7	Umiejêtnoœæ zosta³a ulepszona.
+GUILD_SKILL_RESULT_8	Twoja gildia nie posiada ¿adnych aktywnych umiejêtnoœci.
+GUILD_SKILL_RESULT_9	Brak wystarczaj¹cej energii.
+GUILD_SKILL_TAB_ACTIVE	Aktywna umiejêtnoœæ
+GUILD_SKILL_TAB_DONATION	Darowizna umiejêtnoœci
+GUILD_SKILL_TAB_PASSIVE	Pasywna umiejêtnoœæ
+GUILD_SKILL_UPGRADE_COST	Ulepszenie bêdzie ciê kosztowaæ |cffc79e65%d pkt umiejêtnoœci|r oraz |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Czy chcia³byœ ulepszyæ tê umiejêtnoœæ?
+GUILD_WHISPER_DESC	Szept zostanie wys³any do wszystkich cz³onków
+GUILD_WHISPER_INVALID_SENDER	Nazwa nadawcy nie mo¿e zawieraæ spacji ani ||, [, ], #, :.
+GUILD_WHISPER_PRICE	Wyœlij (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Nazwa nadawcy
+GUILD_WHISPER_TEXT	Treœæ szeptu...
+GUILD_WHISPER_TITLE	Szept Gildii
+GUILD_WINDOW_ACTION_TITLE	Akcja Gildii
+GUILD_WINDOW_AVERAGE_LEVEL	Œredni poziom
+GUILD_WINDOW_BLESSING_BOSS	B³ogos³awieñstwo £owcy
+GUILD_WINDOW_BLESSING_DROP	B³ogos³awieñstwo Skarbu
+GUILD_WINDOW_BLESSING_DURATION	Czas: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	B³ogos³awieñstwo Doœwiadczenia
+GUILD_WINDOW_BLESSING_FISH_MINE	B³ogos³awieñstwo ¯niw
+GUILD_WINDOW_BLESSING_STONE	B³ogos³awieñstwo £amacza Kamieni
+GUILD_WINDOW_BLESSING_TITLE	B³ogos³awieñstwo gildii
+GUILD_WINDOW_BLESSING_YANG	B³ogos³awieñstwo Szczêœcia
+GUILD_WINDOW_CO_LEADER	Wspó³lider
+GUILD_WINDOW_DAILY_DONATION	Dzienna darowizna: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Wypowiedz wojnê
+GUILD_WINDOW_EXCLUDE_QUESTION	Czy chcesz wyrzuciæ cz³onka %s z gildii?
+GUILD_WINDOW_EXP	Doœwiadczenie
+GUILD_WINDOW_GOLD	Z³oto Gildii |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Informacje o Gildii
+GUILD_WINDOW_LEADER	Lider
+GUILD_WINDOW_LEVEL	Poziom Gildii
+GUILD_WINDOW_MANAGEMENT	Zarz¹dzanie Gildi¹
+GUILD_WINDOW_MEMBERS	Liczba cz³onków
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Gracze z Aur¹ PvP nie zajmuj¹ miejsca w
+GUILD_WINDOW_MEMBER_TOOLTIP_2	limicie gildii; nie mog¹ dokonywaæ
+GUILD_WINDOW_MEMBER_TOOLTIP_3	darowizn ani uczestniczyæ w
+GUILD_WINDOW_MEMBER_TOOLTIP_4	zadaniach gildii.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Gracze z Aur¹ PVP: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Cz³onkowie: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Dodaj Przyjaciela
+GUILD_WINDOW_MENU_CHANGE_GRADE	Zmieñ rangê
+GUILD_WINDOW_MENU_COPY_NAME	Skopiuj nazwê
+GUILD_WINDOW_MENU_EXCLUDE	Wyrzuæ cz³onka
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Awansuj na wspó³lidera
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Odbierz rangê zastêpcy lidera
+GUILD_WINDOW_MENU_WHISPER	Szept
+GUILD_WINDOW_SEND_WHISPER	Wyœlij szept
+GUILD_WINDOW_TITLE	Gildia
+GUILD_WINDOW_TOTAL_DONATION	£¹czna darowizna: %d
+GUILD_WINDOW_UPLOAD	Przeœlij
+TOOLTIP_SHORTCUT_MULTI_BUY	Kup wiele
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Wyszukaj w sklepie
+TOOLTIP_SHORTCUT_WIKI	Otwórz Wikipediê

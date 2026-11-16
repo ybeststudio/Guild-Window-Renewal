@@ -1,0 +1,15 @@
+EMPIRE_A	«г»—«Ўж—н… «б‘нд”ж
+EMPIRE_B	«г»—«Ўж—н… «б‘ждћж
+EMPIRE_C	«г»—«Ўж—н… «бћндж
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	«бЏбж бн” 12 »я”б
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	«бЏ—÷  бн” 16 »я”б
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	≈д е–е «ббЏ»… б«  ѕЏг е–е «б’ж—….
+GUILD_BANKINFO_NAME	Џ÷ж
+GUILD_INFO_ENEMY_GUILD_EMPTY	б« нжћѕ
+GUILD_YOU_DO_NOT_JOIN	≈дя б«  д гн ≈бм √н —«»Ў….
+JOB_ASSASSIN	дндћ«
+JOB_SHAMAN	‘«г«д
+JOB_SURA	”ж—«
+JOB_WARRIOR	гЌ«—»
+JOB_WOLFMAN	бня«д—
+UI_NOCONTENTS	»ѕжд гхЌ жм

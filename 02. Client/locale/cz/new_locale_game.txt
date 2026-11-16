@@ -1,0 +1,235 @@
+AUTO_LEVEL	Úroveò %d
+GUILD_APPLICATION_ALL	Vše
+GUILD_APPLICATION_APPLICATION_LIST	Seznam pøihlášek
+GUILD_APPLICATION_APPLIED	Pøihlášeno
+GUILD_APPLICATION_APPLY	Pøihlásit se
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Zmìnit typ cechu
+GUILD_APPLICATION_CHANGE_LANGUAGE	Zmìnit jazyk
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Zmìnit min. úroveò
+GUILD_APPLICATION_COLUMN_CLASS	Typ
+GUILD_APPLICATION_COLUMN_EMPIRE	Království
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Poslední pøihlášení
+GUILD_APPLICATION_COLUMN_LEVEL	Úroveò
+GUILD_APPLICATION_COLUMN_NAME	Jméno
+GUILD_APPLICATION_COLUMN_SKILL	Schopnost
+GUILD_APPLICATION_DESCRIPTION	Popis
+GUILD_APPLICATION_DETAILS_TITLE	Podrobnosti o cechu
+GUILD_APPLICATION_EMPTY_DESCRIPTION	Cech nemá žádný popis.
+GUILD_APPLICATION_FILTER_TITLE	Filtr
+GUILD_APPLICATION_FULL	Plné
+GUILD_APPLICATION_GUILD_NAME	Název cechu
+GUILD_APPLICATION_JOIN	Pøipojit se
+GUILD_APPLICATION_LANGUAGE	Jazyk
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	Nemáš požadovanou úroveò
+GUILD_APPLICATION_LIST_TITLE	Seznam cechù
+GUILD_APPLICATION_MANAGE_GUILD	Spravovat cech
+GUILD_APPLICATION_MEMBERS	Èlenové
+GUILD_APPLICATION_MIN_LEVEL	Min. úroveò
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Popis cechu
+GUILD_APPLICATION_NOTIFICATION_JOIN	Pøipojit se
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Pøipoj se k cechu hned a užívej si výhod
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	Cech {} hledá èleny!
+GUILD_APPLICATION_NO_DESCRIPTION	Bez popisu
+GUILD_APPLICATION_REQUIRED_LEVEL	Požadovaná úroveò
+GUILD_APPLICATION_STATUS_APPROVAL	Vyžaduje schválení
+GUILD_APPLICATION_STATUS_CLOSED	Zavøený
+GUILD_APPLICATION_STATUS_OPEN	Otevøený
+GUILD_APPLICATION_TYPE	Typ
+GUILD_APPLICATION_WINDOW_TITLE	Pøihláška do cechu
+GUILD_APPLICATION_WRONG_EMPIRE	Špatné království
+GUILD_DONATION_BUSY	Tuto akci teï nemùžeš provést.
+GUILD_DONATION_BUTTON	Darovat
+GUILD_DONATION_DAILY	Denní dar: %d / %d
+GUILD_DONATION_DESC_1	Dary umožòují tvé alianci získávat cechovní zlato, vylepšovat dovednosti
+GUILD_DONATION_DESC_2	a odemykat mnoho dalších funkcí
+GUILD_DONATION_HELP	Každý dar vám poskytne gildovní støíbro
+GUILD_DONATION_HELP_ITEM	Položka
+GUILD_DONATION_HELP_TITLE	Obtention
+GUILD_DONATION_LIMIT	Dosáhl jsi dnešního limitu darù.
+GUILD_DONATION_NO_AUTH	K této akci nemáš oprávnìní.
+GUILD_DONATION_NO_GOLD	Cech nemá dost cechovního zlata.
+GUILD_DONATION_NO_PREMIUM	Nemáš dostatek Ušlechtilého pøíspìvku.
+GUILD_DONATION_NO_SCROLL	Nemáš dostatek Svitkù pøíspìvku.
+GUILD_DONATION_NO_YANG	Nemáš dost ohnì.
+GUILD_DONATION_OK	Dìkujeme za tvùj dar.
+GUILD_DONATION_PREMIUM	Ušlechtilý pøíspìvek
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e a %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Svitek pøíspìvku
+GUILD_DONATION_SOURCE_PREMIUM	Lze získat v obchodì s položkami
+GUILD_DONATION_SOURCE_SCROLL_1	Získáš ho za denní úkol 'Dar cechu'
+GUILD_DONATION_SOURCE_SCROLL_2	(denní)
+GUILD_DONATION_TITLE	Cechovní dar
+GUILD_DONATION_WHISPER_SENT	Šeptání bylo odesláno všem èlenùm.
+GUILD_GRADE_AUTH_DUNGEON	Má oprávnìní spustit cechovní dungeon
+GUILD_GRADE_AUTH_INVITE	Oprávnìní pøijímat nové èleny cechu.
+GUILD_GRADE_AUTH_QUEST	Oprávnìní k zahájení a dokonèení cechovních questù.
+GUILD_GRADE_AUTH_REMOVE	Oprávnìní vylouèit èlena cechu.
+GUILD_GRADE_AUTH_SHOP	Oprávnìní k nákupu v cechovním obchodì se zlatými mincemi.
+GUILD_GRADE_AUTH_UP_SKILL	Oprávnìní k upgradu dovedností cechu.
+GUILD_GRADE_AUTH_USE_SKILL	Oprávnìní používat cechovní dovednosti.
+GUILD_GRADE_AUTH_WAR	Oprávnìní úèastnit se cechovní války.
+GUILD_GRADE_AUTH_WHISPER	Oprávnìno poslat šepot všem èlenùm cechu.
+GUILD_GRADE_CONFIG_ACCEPT	Pøijmout
+GUILD_GRADE_CONFIG_CANCEL	Zrušit
+GUILD_GRADE_CONFIG_NAME	Název hodnosti
+GUILD_GRADE_CONFIG_PERMISSIONS	Oprávnìní
+GUILD_GRADE_CONFIG_SELECTED	Vybráno %d
+GUILD_GRADE_CONFIG_TITLE	Nastavení hodnosti
+GUILD_LOG_ACTIVATE	Dovednost aktivována na %d h
+GUILD_LOG_DONATION	Dar: %dx %s (+%s EXP) (celkem +%s EXP)
+GUILD_LOG_EMPTY	Pro tento den není k dispozici žádná historie.
+GUILD_LOG_TITLE_DONATION	Historie darù materiálù cechu
+GUILD_LOG_TITLE_SKILL	Historie cechovních dovedností
+GUILD_LOG_UPGRADE	%s dosáhl úrovnì %d
+GUILD_QUEST_ABORT	Zrušit
+GUILD_QUEST_ABORT_QUESTION_1	Chystáte se zrušit cechovní quest
+GUILD_QUEST_ABORT_QUESTION_2	Toto týdenní oprávnìní k úkolu bude trvale spotøebováno.
+GUILD_QUEST_CLAIM	Získejte odmìnu
+GUILD_QUEST_DIFFICULTY	Obtížnost
+GUILD_QUEST_OBJECTIVE	Cíl
+GUILD_QUEST_OBJECTIVE_1	Zniè Metin %s
+GUILD_QUEST_OBJECTIVE_2	Dokonèi dungeon %s
+GUILD_QUEST_OBJECTIVE_3	Poraz bossù: %s
+GUILD_QUEST_OBJECTIVE_4	%s Rybaøení nebo Tìžba
+GUILD_QUEST_OPTION	Možnost
+GUILD_QUEST_RANK_NAME	Jméno
+GUILD_QUEST_RANK_RANK	Hodnost
+GUILD_QUEST_RANK_SCORE	skóre
+GUILD_QUEST_RANK_TITLE	Cech Quest Rank
+GUILD_QUEST_REMAINING	Zbývá: %d
+GUILD_QUEST_RESULT_ACTIVE	Cechovní úkol již probíhá.
+GUILD_QUEST_RESULT_CANCELLED	Cechovní úkol byl zrušen.
+GUILD_QUEST_RESULT_COMPLETED	Cechovní úkol byl dokonèen.
+GUILD_QUEST_RESULT_NOT_FINISHED	Cechovní úkol ještì není dokonèen.
+GUILD_QUEST_RESULT_NO_AUTH	K této akci nemáš oprávnìní.
+GUILD_QUEST_RESULT_REWARDED	Odmìna za cechovní úkol byla vyzvednuta.
+GUILD_QUEST_RESULT_STARTED	Cechovní úkol zaèal.
+GUILD_QUEST_RESULT_WEEKLY	Na tento úkol už nemáš týdenní nárok.
+GUILD_QUEST_REWARD	Odmìna
+GUILD_QUEST_REWARD_VALUE	%s EXP a %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Cechovní úkol
+GUILD_QUEST_SIDEBAR_TIME	Zbývající èas: %d min %d s
+GUILD_QUEST_START	Zaèátek
+GUILD_QUEST_START_QUESTION_1	Chystáte se zahájit výpravu do cechu
+GUILD_QUEST_START_QUESTION_2	jsi si jistý?
+GUILD_QUEST_TIME	Doba trvání
+GUILD_QUEST_TIME_LEFT	Zbývající èas
+GUILD_QUEST_TITLE_1	Stone Quest
+GUILD_QUEST_TITLE_2	Dungeon Quest
+GUILD_QUEST_TITLE_3	Šéf Quest
+GUILD_QUEST_TITLE_4	Worker Quest
+GUILD_SHOP_ASK	Opravdu chceš koupit %s x%d?
+GUILD_SHOP_ASK_PRICE	Cena: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Cena: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Obchod se zlatem
+GUILD_SHOP_MULTI_BUY	Hromadný nákup
+GUILD_SHOP_RESULT_1	Nákup dokonèen.
+GUILD_SHOP_RESULT_2	Úroveò cechu je pro tento produkt nedostateèná.
+GUILD_SHOP_RESULT_3	Nemáš dost cechovního støíbra.
+GUILD_SHOP_RESULT_4	Cech nemá dost cechovního zlata.
+GUILD_SHOP_RESULT_5	K této akci nemáš oprávnìní.
+GUILD_SHOP_SILVER	Støíbrný obchod
+GUILD_SHOP_UNLOCK	Odemkne se na úr. %d
+GUILD_SKILL_ACTIVATE	Aktivovat
+GUILD_SKILL_ACTIVATE_COST	Bude spotøebováno %d energie
+GUILD_SKILL_ACTIVATE_QUESTION	Aktivovat dovednosti na %d h?
+GUILD_SKILL_BOOST_1	Amulet bohù (%d)
+GUILD_SKILL_BOOST_1_DESC	Úspìšnost 100%
+GUILD_SKILL_BOOST_2	Talisman bohù+ (%d)
+GUILD_SKILL_BOOST_2_DESC	Dvojnásobné EXP +% 50
+GUILD_SKILL_DONATE	Darovat
+GUILD_SKILL_DONATION_ITEM_DESC	Umožòuje ti vìnovat svému cechu zkušenosti dovedností#.
+GUILD_SKILL_EFFECT_0	%d%% šance na žeton pøetoèení z truhly dungeonu
+GUILD_SKILL_EFFECT_1	Poèáteèní zlato v cirkusovém dungeonu +%d
+GUILD_SKILL_EFFECT_2	Šance na vylepšení pøedmìtu +%d%%
+GUILD_SKILL_EFFECT_3	Snížení doby obnovy dungeonu -%d%%
+GUILD_SKILL_EFFECT_4	Šance na dvojitý drop z tìžby +%d%%
+GUILD_SKILL_EFFECT_5	Kapacita èlenù cechu +%d
+GUILD_SKILL_EFFECT_6	Týdenní cechovní úkoly +%d
+GUILD_SKILL_EFFECT_7	Šance získat cechovní støíbro v dungeonech +%d%%
+GUILD_SKILL_EFFECT_8	Šance zdvojnásobit zlato za dar +%d%%
+GUILD_SKILL_EFFECT_9	Snížená spotøeba energie pøi aktivaci dovedností -%d%%
+GUILD_SKILL_EXP_GAIN	Skill Point Exp + %d
+GUILD_SKILL_LEVEL	Úroveò: %d
+GUILD_SKILL_NAME_0	Rozbíjeè kamenù
+GUILD_SKILL_NAME_1	Hnìv cechu
+GUILD_SKILL_NAME_2	Cechovní kalení
+GUILD_SKILL_NAME_3	Èasová dohoda
+GUILD_SKILL_NAME_4	Cech štìstí
+GUILD_SKILL_NAME_5	Prapor bratrství
+GUILD_SKILL_NAME_6	Rozšíøení úkolù
+GUILD_SKILL_NAME_7	Výnos pokladu
+GUILD_SKILL_NAME_8	Zlatá štìdrost
+GUILD_SKILL_NAME_9	Rezonance energie
+GUILD_SKILL_NEXT	Další úroveò: %d (Max: 10)
+GUILD_SKILL_PASSIVE_DESC	Pasivní dovednosti jsou vždy aktivní a není tøeba je aktivovat
+GUILD_SKILL_POINT	Skill Point
+GUILD_SKILL_QUEST_NOTE	Nové úrovnì budou zveøejnìny pøi pøíštím týdenním resetu úkolù.
+GUILD_SKILL_RECHARGE	Dobít
+GUILD_SKILL_RESULT_1	K této akci nemáš oprávnìní.
+GUILD_SKILL_RESULT_10	Dovednosti byly aktivovány.
+GUILD_SKILL_RESULT_11	Energie draèího ducha je plnì obnovena.
+GUILD_SKILL_RESULT_12	Nemáš pøedmìt Cechovní energie.
+GUILD_SKILL_RESULT_13	Energie byla doplnìna.
+GUILD_SKILL_RESULT_14	Dovednosti jsou již aktivní.
+GUILD_SKILL_RESULT_2	Nemáš žádný pøedmìt k darování.
+GUILD_SKILL_RESULT_3	Dar dokonèen: %d Skill Point Exp.
+GUILD_SKILL_RESULT_4	Nemáš dost Skill Pointù.
+GUILD_SKILL_RESULT_5	Cech nemá dost cechovního zlata.
+GUILD_SKILL_RESULT_6	Dovednost je na nejvyšší úrovni.
+GUILD_SKILL_RESULT_7	Dovednost byla vylepšena.
+GUILD_SKILL_RESULT_8	Vaše gilda nemá žádné aktivní dovednosti.
+GUILD_SKILL_RESULT_9	Nemáš dost energie.
+GUILD_SKILL_TAB_ACTIVE	Aktivní dovednost
+GUILD_SKILL_TAB_DONATION	Dar dovednosti
+GUILD_SKILL_TAB_PASSIVE	Pasivní dovednost
+GUILD_SKILL_UPGRADE_COST	Vylepšení tì bude stát |cffc79e65%d Skill Pointù|r a |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	Chtìli byste tuto dovednost upgradovat?
+GUILD_WHISPER_DESC	Šeptání bude zasláno všem èlenùm
+GUILD_WHISPER_INVALID_SENDER	Jméno odesílatele nesmí obsahovat mezery ani ||, [, ], #, :.
+GUILD_WHISPER_PRICE	Odeslat (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Jméno odesílatele
+GUILD_WHISPER_TEXT	Obsah šepotu...
+GUILD_WHISPER_TITLE	Guild Whisper
+GUILD_WINDOW_ACTION_TITLE	Akce cechu
+GUILD_WINDOW_AVERAGE_LEVEL	Prùmìrná úroveò
+GUILD_WINDOW_BLESSING_BOSS	Požehnání lovce
+GUILD_WINDOW_BLESSING_DROP	Požehnání pokladu
+GUILD_WINDOW_BLESSING_DURATION	Doba: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Požehnání zkušeností
+GUILD_WINDOW_BLESSING_FISH_MINE	Požehnání skliznì
+GUILD_WINDOW_BLESSING_STONE	Požehnání rozbíjeèe kamenù
+GUILD_WINDOW_BLESSING_TITLE	Požehnání cechu
+GUILD_WINDOW_BLESSING_YANG	Požehnání štìstí
+GUILD_WINDOW_CO_LEADER	Spoluvùdce
+GUILD_WINDOW_DAILY_DONATION	Denní dar: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Vyhlásit válku
+GUILD_WINDOW_EXCLUDE_QUESTION	Opravdu chceš vyhodit èlena %s z cechu?
+GUILD_WINDOW_EXP	Zkušenost
+GUILD_WINDOW_GOLD	Cechovní zlato |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Informace o cechu
+GUILD_WINDOW_LEADER	Vedoucí
+GUILD_WINDOW_LEVEL	Úroveò cechu
+GUILD_WINDOW_MANAGEMENT	Správa cechu
+GUILD_WINDOW_MEMBERS	Poeet elenu
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Hráèi s PvP aurou nezabírají místo v cechu,
+GUILD_WINDOW_MEMBER_TOOLTIP_2	nemohou darovat ani se
+GUILD_WINDOW_MEMBER_TOOLTIP_3	úèastnit cechovních úkolù.
+GUILD_WINDOW_MEMBER_TOOLTIP_4	katilamaz.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Hráèi s PVP Aurou: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Èlenové: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Pøidat pøítele
+GUILD_WINDOW_MENU_CHANGE_GRADE	Zmìnit hodnost
+GUILD_WINDOW_MENU_COPY_NAME	Kopírovat jméno
+GUILD_WINDOW_MENU_EXCLUDE	Vyhodit èlena
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Povýšit na spoluvùdce
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Odebrat zástupce vùdce
+GUILD_WINDOW_MENU_WHISPER	Šeptat
+GUILD_WINDOW_SEND_WHISPER	Poslat Whisper
+GUILD_WINDOW_TITLE	Cech
+GUILD_WINDOW_TOTAL_DONATION	Celkový dar: %d
+GUILD_WINDOW_UPLOAD	Nahrát
+TOOLTIP_SHORTCUT_MULTI_BUY	Hromadný nákup
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Hledat v obchodì
+TOOLTIP_SHORTCUT_WIKI	Otevøete Wikipedii

@@ -1,0 +1,235 @@
+AUTO_LEVEL	Nivel %d
+GUILD_APPLICATION_ALL	Todos
+GUILD_APPLICATION_APPLICATION_LIST	Lista de solicitudes
+GUILD_APPLICATION_APPLIED	Solicitud enviada
+GUILD_APPLICATION_APPLY	Solicitar ingreso
+GUILD_APPLICATION_CHANGE_GUILD_TYPE	Cambiar tipo de gremio
+GUILD_APPLICATION_CHANGE_LANGUAGE	Cambiar idioma
+GUILD_APPLICATION_CHANGE_MIN_LEVEL	Cambiar nivel mínimo
+GUILD_APPLICATION_COLUMN_CLASS	Clase
+GUILD_APPLICATION_COLUMN_EMPIRE	Reino
+GUILD_APPLICATION_COLUMN_LAST_PLAY	Última conexión
+GUILD_APPLICATION_COLUMN_LEVEL	Nivel
+GUILD_APPLICATION_COLUMN_NAME	Nombre
+GUILD_APPLICATION_COLUMN_SKILL	Habilidad
+GUILD_APPLICATION_DESCRIPTION	Descripción
+GUILD_APPLICATION_DETAILS_TITLE	Detalles del gremio
+GUILD_APPLICATION_EMPTY_DESCRIPTION	El gremio no tiene descripción.
+GUILD_APPLICATION_FILTER_TITLE	Filtro
+GUILD_APPLICATION_FULL	Completo
+GUILD_APPLICATION_GUILD_NAME	Nombre del gremio
+GUILD_APPLICATION_JOIN	Unirse
+GUILD_APPLICATION_LANGUAGE	Idioma
+GUILD_APPLICATION_LEVEL_REQUIRED_ERROR	No tienes el nivel requerido
+GUILD_APPLICATION_LIST_TITLE	Lista de gremios
+GUILD_APPLICATION_MANAGE_GUILD	Gestionar gremio
+GUILD_APPLICATION_MEMBERS	Miembros
+GUILD_APPLICATION_MIN_LEVEL	Nivel mínimo
+GUILD_APPLICATION_NOTIFICATION_DESC_TITLE	Descripción del gremio
+GUILD_APPLICATION_NOTIFICATION_JOIN	Unirse
+GUILD_APPLICATION_NOTIFICATION_JOIN_HINT	Únete al gremio ahora y disfruta de sus ventajas
+GUILD_APPLICATION_NOTIFICATION_RECRUITING_TITLE	¡El gremio {} está reclutando!
+GUILD_APPLICATION_NO_DESCRIPTION	Sin descripción
+GUILD_APPLICATION_REQUIRED_LEVEL	Nivel requerido
+GUILD_APPLICATION_STATUS_APPROVAL	Aprobación
+GUILD_APPLICATION_STATUS_CLOSED	Cerrado
+GUILD_APPLICATION_STATUS_OPEN	Abierto
+GUILD_APPLICATION_TYPE	Tipo
+GUILD_APPLICATION_WINDOW_TITLE	Solicitud de gremio
+GUILD_APPLICATION_WRONG_EMPIRE	Reino incorrecto
+GUILD_DONATION_BUSY	No puedes hacer esto ahora.
+GUILD_DONATION_BUTTON	Donar
+GUILD_DONATION_DAILY	Dar al día: %d / %d
+GUILD_DONATION_DESC_1	Las donaciones permiten que tu alianza gane Oro de Gremio, mejore habilidades
+GUILD_DONATION_DESC_2	y desbloquee muchas otras funciones
+GUILD_DONATION_HELP	Cada donación te otorgará Plata del Gremio
+GUILD_DONATION_HELP_ITEM	Objeto
+GUILD_DONATION_HELP_TITLE	Obtención
+GUILD_DONATION_LIMIT	Has agotado tu límite de donaciones de hoy.
+GUILD_DONATION_NO_AUTH	No tienes autoridad para esta acción.
+GUILD_DONATION_NO_GOLD	El gremio no tiene suficiente Oro de Gremio.
+GUILD_DONATION_NO_PREMIUM	No tienes suficiente Contribución Noble.
+GUILD_DONATION_NO_SCROLL	No tienes suficientes Pergaminos de Contribución.
+GUILD_DONATION_NO_YANG	No tienes suficientes Yang.
+GUILD_DONATION_OK	Gracias por tu donación.
+GUILD_DONATION_PREMIUM	Contribución Noble
+GUILD_DONATION_PRICE	%s |Eemoji/gold|e
+GUILD_DONATION_RESULT	%d |Eemoji/guild_gold|e y %d |Eemoji/silver|e
+GUILD_DONATION_SCROLL	Pergamino de Contribución
+GUILD_DONATION_SOURCE_PREMIUM	Se puede obtener en la tienda de objetos
+GUILD_DONATION_SOURCE_SCROLL_1	Se obtiene con la misión diaria
+GUILD_DONATION_SOURCE_SCROLL_2	"Donación al gremio"
+GUILD_DONATION_TITLE	Donación del Gremio
+GUILD_DONATION_WHISPER_SENT	El susurro se ha enviado a todos los miembros.
+GUILD_GRADE_AUTH_DUNGEON	Autorizado para iniciar una mazmorra de gremio
+GUILD_GRADE_AUTH_INVITE	Autorizado para aceptar nuevos miembros del gremio.
+GUILD_GRADE_AUTH_QUEST	Autorizado para iniciar y completar misiones del gremio.
+GUILD_GRADE_AUTH_REMOVE	Autorizado para expulsar a un miembro del gremio.
+GUILD_GRADE_AUTH_SHOP	Autorizado para comprar en la tienda del gremio con monedas de oro.
+GUILD_GRADE_AUTH_UP_SKILL	Autorizado para mejorar habilidades del gremio.
+GUILD_GRADE_AUTH_USE_SKILL	Autorizado para usar las habilidades del gremio.
+GUILD_GRADE_AUTH_WAR	Autorizado para participar en una guerra de gremios.
+GUILD_GRADE_AUTH_WHISPER	Autorizado para enviar susurros a todos los miembros del gremio.
+GUILD_GRADE_CONFIG_ACCEPT	Aceptar
+GUILD_GRADE_CONFIG_CANCEL	Cancelar
+GUILD_GRADE_CONFIG_NAME	Nombre del rango
+GUILD_GRADE_CONFIG_PERMISSIONS	Permisos
+GUILD_GRADE_CONFIG_SELECTED	%d seleccionado(s)
+GUILD_GRADE_CONFIG_TITLE	Configuración del rango
+GUILD_LOG_ACTIVATE	Habilidad activada durante %d horas
+GUILD_LOG_DONATION	Donación: %dx %s (+%s EXP) (total +%s EXP)
+GUILD_LOG_EMPTY	No hay historial disponible para este día.
+GUILD_LOG_TITLE_DONATION	Historial de donaciones de materiales de gremio
+GUILD_LOG_TITLE_SKILL	Historial de Habilidades del Gremio
+GUILD_LOG_UPGRADE	%s ha subido al nivel %d
+GUILD_QUEST_ABORT	Cancelar
+GUILD_QUEST_ABORT_QUESTION_1	Estás a punto de cancelar una misión del gremio
+GUILD_QUEST_ABORT_QUESTION_2	Este intento de misión semanal se consumirá permanentemente.
+GUILD_QUEST_CLAIM	Obtener Recompensa
+GUILD_QUEST_DIFFICULTY	Dificultad
+GUILD_QUEST_OBJECTIVE	Objetivo
+GUILD_QUEST_OBJECTIVE_1	Destruye %s Metin
+GUILD_QUEST_OBJECTIVE_2	Completa %s mazmorras
+GUILD_QUEST_OBJECTIVE_3	Derrota a %s jefes
+GUILD_QUEST_OBJECTIVE_4	%s Pesca o Minería
+GUILD_QUEST_OPTION	Opción
+GUILD_QUEST_RANK_NAME	Nombre
+GUILD_QUEST_RANK_RANK	Clasificación
+GUILD_QUEST_RANK_SCORE	Puntuación
+GUILD_QUEST_RANK_TITLE	Clasificación de Misiones del Gremio
+GUILD_QUEST_REMAINING	Restante: %d
+GUILD_QUEST_RESULT_ACTIVE	Ya hay una misión de gremio en curso.
+GUILD_QUEST_RESULT_CANCELLED	La misión de gremio ha sido cancelada.
+GUILD_QUEST_RESULT_COMPLETED	La misión de gremio se ha completado.
+GUILD_QUEST_RESULT_NOT_FINISHED	La misión de gremio aún no se ha completado.
+GUILD_QUEST_RESULT_NO_AUTH	No tienes autoridad para esta acción.
+GUILD_QUEST_RESULT_REWARDED	Se ha recibido la recompensa de la misión de gremio.
+GUILD_QUEST_RESULT_STARTED	La misión de gremio ha comenzado.
+GUILD_QUEST_RESULT_WEEKLY	No te quedan intentos semanales para esta misión.
+GUILD_QUEST_REWARD	Recompensa
+GUILD_QUEST_REWARD_VALUE	%s EXP y %d |Eemoji/guild_gold|e
+GUILD_QUEST_SIDEBAR	Misión de gremio
+GUILD_QUEST_SIDEBAR_TIME	Tiempo restante: %d min %d s
+GUILD_QUEST_START	Inicio
+GUILD_QUEST_START_QUESTION_1	Estás a punto de comenzar una misión del gremio
+GUILD_QUEST_START_QUESTION_2	¿Estás seguro?
+GUILD_QUEST_TIME	Duración
+GUILD_QUEST_TIME_LEFT	Tiempo Restante
+GUILD_QUEST_TITLE_1	Misión de Metin
+GUILD_QUEST_TITLE_2	Misión de Mazmorra
+GUILD_QUEST_TITLE_3	Misión de Jefe
+GUILD_QUEST_TITLE_4	Misión de Trabajador
+GUILD_SHOP_ASK	¿Seguro que quieres comprar %s x%d?
+GUILD_SHOP_ASK_PRICE	Precio: %s |Eemoji/silver|e
+GUILD_SHOP_ASK_PRICE_GOLD	Precio: %s |Eemoji/guild_gold|e
+GUILD_SHOP_GOLD	Tienda de Oro
+GUILD_SHOP_MULTI_BUY	Compra múltiple
+GUILD_SHOP_RESULT_1	Compra completada.
+GUILD_SHOP_RESULT_2	El nivel del gremio no es suficiente para este producto.
+GUILD_SHOP_RESULT_3	No tienes suficiente Plata de Gremio.
+GUILD_SHOP_RESULT_4	El gremio no tiene suficiente Oro de Gremio.
+GUILD_SHOP_RESULT_5	No tienes autoridad para esta acción.
+GUILD_SHOP_SILVER	Tienda de Plata
+GUILD_SHOP_UNLOCK	Desbloquear Nv. %d
+GUILD_SKILL_ACTIVATE	Activar
+GUILD_SKILL_ACTIVATE_COST	Se gastarán %d de energía
+GUILD_SKILL_ACTIVATE_QUESTION	¿Activar las habilidades durante %d horas?
+GUILD_SKILL_BOOST_1	Amuleto de los Dioses (%d)
+GUILD_SKILL_BOOST_1_DESC	Tasa de éxito 100%
+GUILD_SKILL_BOOST_2	Talismán de los Dioses+ (%d)
+GUILD_SKILL_BOOST_2_DESC	EXP doble +% 50
+GUILD_SKILL_DONATE	Donar
+GUILD_SKILL_DONATION_ITEM_DESC	Te permite donar#experiencia de puntos de habilidad a tu gremio.
+GUILD_SKILL_EFFECT_0	%d%% de obtener ficha de relanzamiento de cofre de mazmorra
+GUILD_SKILL_EFFECT_1	Oro inicial en la mazmorra del Circo +%d
+GUILD_SKILL_EFFECT_2	Probabilidad de mejora de objeto +%d%%
+GUILD_SKILL_EFFECT_3	Reducción del tiempo de espera de mazmorra -%d%%
+GUILD_SKILL_EFFECT_4	Probabilidad de doble botín de minería +%d%%
+GUILD_SKILL_EFFECT_5	Capacidad de miembros del gremio +%d
+GUILD_SKILL_EFFECT_6	Misiones de gremio semanales +%d
+GUILD_SKILL_EFFECT_7	Probabilidad de obtener Plata de Gremio en mazmorras +%d%%
+GUILD_SKILL_EFFECT_8	Probabilidad de duplicar el oro por donación +%d%%
+GUILD_SKILL_EFFECT_9	Se reduce la energía gastada al activar habilidades -%d%%
+GUILD_SKILL_EXP_GAIN	EXP de puntos de habilidad + %d
+GUILD_SKILL_LEVEL	Nivel: %d
+GUILD_SKILL_NAME_0	Destructor de piedras
+GUILD_SKILL_NAME_1	Ira del gremio
+GUILD_SKILL_NAME_2	Templado del gremio
+GUILD_SKILL_NAME_3	Acuerdo temporal
+GUILD_SKILL_NAME_4	Gremio de la fortuna
+GUILD_SKILL_NAME_5	Estandarte de la hermandad
+GUILD_SKILL_NAME_6	Expansión de misiones
+GUILD_SKILL_NAME_7	Decreto del tesoro
+GUILD_SKILL_NAME_8	Generosidad dorada
+GUILD_SKILL_NAME_9	Resonancia de energía
+GUILD_SKILL_NEXT	Siguiente nivel: %d (Máx.: 10)
+GUILD_SKILL_PASSIVE_DESC	Las habilidades pasivas siempre están activas y no necesitan activarse
+GUILD_SKILL_POINT	Punto de habilidad
+GUILD_SKILL_QUEST_NOTE	Los nuevos niveles se aplicarán en el próximo reinicio semanal de misiones.
+GUILD_SKILL_RECHARGE	Recargar
+GUILD_SKILL_RESULT_1	No tienes autoridad para esta acción.
+GUILD_SKILL_RESULT_10	Habilidades activadas.
+GUILD_SKILL_RESULT_11	La energía Dragón Fantasma ya se ha recargado completamente.
+GUILD_SKILL_RESULT_12	No tienes el objeto de Energía de Gremio.
+GUILD_SKILL_RESULT_13	Energía recargada.
+GUILD_SKILL_RESULT_14	Las habilidades ya están activas.
+GUILD_SKILL_RESULT_2	No tienes objetos para donar.
+GUILD_SKILL_RESULT_3	Donación completada: %d EXP de puntos de habilidad.
+GUILD_SKILL_RESULT_4	No tienes suficientes puntos de habilidad.
+GUILD_SKILL_RESULT_5	El gremio no tiene suficiente Oro de Gremio.
+GUILD_SKILL_RESULT_6	La habilidad está al nivel máximo.
+GUILD_SKILL_RESULT_7	Habilidad mejorada.
+GUILD_SKILL_RESULT_8	Tu gremio no tiene habilidades activas.
+GUILD_SKILL_RESULT_9	No tienes suficiente energía.
+GUILD_SKILL_TAB_ACTIVE	Habilidad activa
+GUILD_SKILL_TAB_DONATION	Donación de habilidad
+GUILD_SKILL_TAB_PASSIVE	Habilidad pasiva
+GUILD_SKILL_UPGRADE_COST	La mejora te costará |cffc79e65%d puntos de habilidad|r y |cffc79e65%s|r |Eemoji/guild_gold|e.
+GUILD_SKILL_UPGRADE_QUESTION	¿Deseas mejorar esta habilidad?
+GUILD_WHISPER_DESC	El susurro se enviará a todos los miembros
+GUILD_WHISPER_INVALID_SENDER	El nombre del remitente no puede contener espacios ni ||, [, ], #, :
+GUILD_WHISPER_PRICE	Enviar (%s%d|r |Eemoji/guild_gold|e)
+GUILD_WHISPER_SENDER	Nombre del remitente
+GUILD_WHISPER_TEXT	Contenido del susurro...
+GUILD_WHISPER_TITLE	Susurro del Gremio
+GUILD_WINDOW_ACTION_TITLE	Acciones del Gremio
+GUILD_WINDOW_AVERAGE_LEVEL	Nivel Promedio
+GUILD_WINDOW_BLESSING_BOSS	Bendición del Cazador
+GUILD_WINDOW_BLESSING_DROP	Bendición del Tesoro
+GUILD_WINDOW_BLESSING_DURATION	Duración: 03:00:00
+GUILD_WINDOW_BLESSING_EXP	Bendición de Aumento de Experiencia
+GUILD_WINDOW_BLESSING_FISH_MINE	Bendición de la Cosecha
+GUILD_WINDOW_BLESSING_STONE	Bendición del Rompepiedras
+GUILD_WINDOW_BLESSING_TITLE	Bendición del gremio
+GUILD_WINDOW_BLESSING_YANG	Bendición de la Suerte
+GUILD_WINDOW_CO_LEADER	Colíder
+GUILD_WINDOW_DAILY_DONATION	Donación diaria: %d / %d
+GUILD_WINDOW_DECLARE_WAR	Declarar Guerra
+GUILD_WINDOW_EXCLUDE_QUESTION	¿Quieres expulsar del gremio al miembro %s?
+GUILD_WINDOW_EXP	Experiencia
+GUILD_WINDOW_GOLD	Oro de Gremio |Eemoji/guild_gold|e
+GUILD_WINDOW_INFO_TITLE	Información del Gremio
+GUILD_WINDOW_LEADER	Líder
+GUILD_WINDOW_LEVEL	Nivel del Gremio
+GUILD_WINDOW_MANAGEMENT	Gestión del Gremio
+GUILD_WINDOW_MEMBERS	Nº de miembros
+GUILD_WINDOW_MEMBER_TOOLTIP_1	Los jugadores con Aura PvP no usan
+GUILD_WINDOW_MEMBER_TOOLTIP_2	el cupo del gremio; no pueden donar
+GUILD_WINDOW_MEMBER_TOOLTIP_3	ni participar en las misiones
+GUILD_WINDOW_MEMBER_TOOLTIP_4	del gremio.
+GUILD_WINDOW_MEMBER_TOOLTIP_AURA	Jugadores con Aura PVP: %d
+GUILD_WINDOW_MEMBER_TOOLTIP_COUNT	Miembros: %d/%d
+GUILD_WINDOW_MENU_ADD_FRIEND	Añadir Amigo
+GUILD_WINDOW_MENU_CHANGE_GRADE	Cambiar rango
+GUILD_WINDOW_MENU_COPY_NAME	Copiar nombre
+GUILD_WINDOW_MENU_EXCLUDE	Expulsar miembro
+GUILD_WINDOW_MENU_PROMOTE_CO_LEADER	Ascender a colíder
+GUILD_WINDOW_MENU_REMOVE_CO_LEADER	Quitar de subliderazgo
+GUILD_WINDOW_MENU_WHISPER	Susurro
+GUILD_WINDOW_SEND_WHISPER	Enviar Susurro
+GUILD_WINDOW_TITLE	Gremio
+GUILD_WINDOW_TOTAL_DONATION	Donación total: %d
+GUILD_WINDOW_UPLOAD	Subir
+TOOLTIP_SHORTCUT_MULTI_BUY	Compra múltiple
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Buscar Tienda
+TOOLTIP_SHORTCUT_WIKI	Abrir Wikipedia
